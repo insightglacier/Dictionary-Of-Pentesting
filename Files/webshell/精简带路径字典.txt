@@ -1,0 +1,11 @@
+data/admin/sky.php
+dxyylc/1ndex.php
+dxyylc/md5.asp
+dxyylc/md5.aspx
+dxyylc/md5.php
+plus/mybak.php
+plus/mycak.php
+plus/myjs.php
+plus/mytag_j.php
+plus/spider.php
+plus/xsvip.php

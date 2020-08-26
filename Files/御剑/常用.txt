@@ -1,0 +1,11 @@
+/admin
+/manager
+/root
+/boot
+/denglu
+/guanli
+/adminlogin
+/rootlogin
+/managerlogin
+/bootlogin
+/robots.txt
