@@ -1,0 +1,724 @@
+
+华为服务器:root:Huawei12#$
+Cisco:cisco:cisco
+tp-link:admin:admin
+D-link:admin:admin
+Tenda:admin:admin
+HUAWEI:admin:admin
+Netcore:guest:guest
+Fast:admin:admin
+PHICOMM:admin:admin
+ASUS:admin:admin
+艾玛701g:admin:admin/SZIM:SZIM
+艾玛701H:admin:epicrouter
+实达2110EHROUTER:user:password/root:grouter
+神州数码/华硕:adsl:adsl1234
+全向:root:root
+普天:admin:dare
+e-tek:admin:12345
+zyxel:anonymous:1234
+北电:anonymous:12345
+大恒:admin:admin
+大唐:admin:1234/user:user
+中兴:adsl:adsl831
+伊泰克:supervisor:12345
+同维DSL699E:root:root
+大亚DB102:admin:dare
+WST的RT1080:root:root
+WST的ART18CX:admin:conexant/user:assword
+全向qxcomm1688:qxcommsuport
+全向qxcomm1680:qxcomm1680
+实达V3.2:root:root
+实达V5.4:root:grouter
+泛德:admin:conexant
+东信Ea700:空:password
+broadmax的hsa300a:broadmax:broadmax
+长虹ch-500E:root:root
+重庆普天CPADSL03:root:root
+台湾突破EA110:usernameSL:pswSL
+etek-td的ADSL_T07L006.0:supervisor:12345/使用超级终端的Xmodem方式重写Vxworks.dlf，密码恢复成：12345
+GVC的DSL-802E/R3A:admin:epicrouter/user:password
+科迈易通km300A-G:root:root
+科迈易通km300A-A:rootoradmin:123456
+sunrise的SR-DSL-AE:admin:0000
+sunrise的DSL-802E_R3A:admin:epicrouter/user:password
+UTStar的ut-300R:rootoradmin:utstar
+锐捷:admin:ruijie
+----------------------------------------------------------------
+天融信防火墙，不需要证书
+登录地址:https://192.168.1.254
+用户名:superman
+密码:talent
+技术支持热线：8008105119
+
+天融信防火墙，不需要证书
+登录地址:https://192.168.1.254：8080
+用户名:superman
+密码:talent！23
+遇到设备需要把旧设备配置备份下来，再倒入新设备
+基于console口登陆，用户名，密码跟web界面一致
+system config reset 
+
+清除配置
+save 保存
+
+联想网御防火墙，需要证书（最好用IE浏览器登录）
+登录地址:https://10.1.5.254:8889
+用户名:admin
+密码:leadsec@7766、administrator、bane@7766
+技术支持热线：4008107766
+010-56632666
+
+深信服防火墙（注安全设备管理地址不是唯一的）
+https://10.251.251.251
+https://10.254.254.254
+用户名：admin
+密码：admin
+技术支持热线：4006306430
+
+启明星辰
+https://10.1.5.254:8889     
+用户名：admin
+密码：bane@7766
+
+https://10.50.10.45:8889
+用户名：admin
+密码：admin@123
+电脑端IP：10.50.10.44/255.255.255.0
+技术支持热线：4006243900
+
+juniper
+登录地址:https://192.168.1.1
+用户名:netscreen
+密码:netscreen
+
+Cisco
+登录地址:https://192.168.0.1
+用户名:admin
+密码:cisco
+
+Huawei
+登录地址:http://192.168.0.1
+用户名:admin
+密码:Admin@123
+
+H3C
+登录地址:http://192.168.0.1
+用户名:admin
+密码:admin
+技术支持热线：4006306430
+
+绿盟IPS
+https://192.168.1.101
+用户名: weboper
+密码: weboper
+配置重启生效
+
+网神防火墙GE1口
+https://10.50.10.45
+用户名：admin
+密码：firewall
+技术支持热线：4006108220
+
+------------------------------------------------------
+深信服VPN：
+51111端口        delanrecover
+
+华为VPN：
+账号：root  密码：mduadmin
+
+华为防火墙：
+admin        Admin@123
+eudemon        eudemon
+
+Juniper防火墙：
+netscreen        netscreen
+
+迪普
+192.168.0.1
+默认的用户名和密码（admin/admin_default)
+
+山石
+192.168.1.1
+默认的管理账号为hillstone，密码为hillstone
+
+
+安恒的明御防火墙 
+admin/adminadmin/1qaz@WSX
+
+某堡垒机
+shterm/shterm
+
+天融信的vpn
+test/123456
+
+思科密码：cisco
+Sonicwall：admin    password
+深信服：sangfor  sangfor
+华为：12345  000000
+天荣信NGFWARES：superman  talent
+全向QL168010.0.0.2，用户名admin密码是qxcomm1680，管理员密码是qxcommsupport
+全向QL1880192.168.1.1，用户名root密码是root
+全向QL168810.0.0.2，用户名admin；密码为qxcomm1688
+TP-LINKTD-8800在IE输入192.168.1.1,用户名admin,密码为admin.
+合勤zyxel642telnet192.168.1.1密码1234
+EcomED-802EG在IE输入192.168.1.1用户名和密码都为root
+神州数码6010RA在IE输入192.168.1.1　用户名ADSL密码为ADSL1234
+华为SmartAXMT800初始IP是192.168.1.1用户名和密码都为admin
+伊泰克http://192.168.1.1用户名：supervisor密码：12345
+华硕http://192.168.1.1用户名：adsl密码：adsl1234
+阿尔卡特http://192.168.1.1一般没有密码
+同维DSL699Ehttp://192.168.1.1用户名：ROOT密码为：ROOT
+大亚DB102http://192.168.1.1用户名：admin密码：dare
+WST的RT1080http://192.168.0.1username:rootpassword:root
+WST的ART18CXhttp://10.0.0.2username:adminpassword:conexant
+username:userpassword:password
+全向qxcomm1688http://192.168.1.1高端设置密码是：qxcommsuport
+全向qxcomm1680http://192.168.1.1用户：qxcomm1680密码:qxcomm1680
+实达
+实达ADSL2110-EHaddress:192.168.10.1user:adminpwd:starnetadsl
+V3.2　rootroot
+V5.4　rootgrouter
+泛德用户：admin密码：conexant
+东信Ea700http://192.168.1.1用户名：空密码：password
+broadmax的hsa300ahttp://192.168.0.1username:broadmax
+password:broadmax
+长虹ch-500Ehttp://192.168.1.1username:rootpassword:root
+重庆普天CPADSL03http://192.168.1.1username:rootpassword:root
+台湾突破EA110RS232:38400http://192.168.7.1username:SLpsw:SL
+etek-td的ADSL_T07L006.0http://192.168.1.1UserName:super ... 
+GVC的DSL-802E/R3A
+username:userpassword:password
+科迈易通km300A-1http://192.168.1.1username:password:password
+科迈易通km300A-Ghttp://192.168.1.1username:rootpassword:root
+科迈易通km300A-Ausername:rootoradminpassword:123456
+sunrise的SR-DSL-AEhttp://192.168.1.1username:adminpassword:0000
+sunrise的DSL-802E_R3Ahttp://10.0.0.2username:admin
+password:epicrouter
+username:userpassword:password
+UTStar的ut-300Rhttp://192.168.1.1 username:admin
+password:utstar
+湖北邮通IP:10.0.0.2 Username:admin Password:epicrouter
+亨威NSM500网速通IP:192.168.1.1 Username:root Password:root
+艾玛701g192.168.101.1192.168.0.1用户名：admin密码：admin
+用户名：SZIM 密码：SZIM
+艾玛701H192.168.1.110.0.0.2用户名：admin密码：epicrouter
+实达2110EHROUTER 192.168.10.1 用户名：user密码：password
+用户名：root密码：grouter
+神州数码/华硕：用户名：adsl密码：adsl1234
+全向：用户名：root密码：root
+普天：用户名：admin密码：dare
+e-tek用户名:admin密码:12345
+zyxel用户名:anonymous密码:1234
+北电用户名:anonymous密码:12345
+大恒用户名：admin密码：admin
+大唐用户名：admin密码：1234
+斯威特用户名：root密码：root
+用户名：user密码：user
+中兴用户名：adsl密码：adsl831
+-------------------------------------------------------------------
+3COM        CoreBuilder        7000/6000/3500/2500        Telnet        debug        synnet                
+3COM        CoreBuilder        7000/6000/3500/2500        Telnet        tech        tech                
+3COM        HiPerARC        v4.1.x        Telnet        adm        (none)                
+3COM        LANplex        2500        Telnet        debug        synnet                
+3COM        LANplex        2500        Telnet        tech        tech                
+3COM        LinkSwitch        2000/2700        Telnet        tech        tech                
+Huawei        E960                        admin        admin        Admin        
+3COM        NetBuilder                SNMP                ILMI        snmp-read        
+3COM        Netbuilder                Multi        admin        (none)        Admin        
+3COM        Office Connect ISDN Routers        5x0        Telnet        n/a        PASSWORD        Admin        
+3COM        SuperStack II Switch        2200        Telnet        debug        synnet                
+3COM        SuperStack II Switch        2700        Telnet        tech        tech                
+3COM        OfficeConnect 812 ADSL                Multi        adminttd        adminttd        Admin        
+3COM        Wireless AP        ANY        Multi        admin        comcomcom        Admin        Works on all 3com wireless APs
+3COM        CellPlex        7000        Telnet        tech        tech        User        
+3COM        cellplex        7000        Telnet        admin        admin        Admin        
+3COM        cellplex        7000                operator        (none)        Admin        
+3COM        HiPerARC        v4.1.x        Telnet        adm        (none)        Admin        
+3COM        3Com SuperStack 3 Switch 3300XM                        security        security        Admin        
+3COM        superstack II        1100/3300                3comcso        RIP000        initialize        resets all pws to defaults
+3COM        LANplex        2500        Telnet        tech        (none)        Admin        
+3COM        CellPlex                HTTP        admin        synnet        Admin        
+3COM        NetBuilder                        (none)        admin        User        SNMP_READ
+3COM        SuperStack II Switch        2700        Telnet        tech        tech        Admin        
+3COM        CellPlex        7000        Telnet        root        (none)        Admin        
+3COM        HiPerACT        v4.1.x        Telnet        admin        (none)        Admin        
+3COM        CellPlex        7000        Telnet        tech        (none)        Admin        
+3COM        CellPlex        7000        Telnet        admin        admin        Admin        
+3com        CellPlex        7000        Telnet        tech        tech        Admin        
+3com        super                Telnet        admin        (none)        Admin        
+3com        cellplex        7000        Multi        admin        admin        Admin        RS-232/telnet
+3COM        SuperStack 3        4XXX        Multi        admin        (none)        Admin        
+3COM        SuperStack 3        4XXX        Multi        monitor        monitor        User        
+3COM        SuperStack 3        4400-49XX        Multi        manager        manager        User can access/change operational setting but not security settings        
+3com        CellPlex        7000        Telnet        root        (none)        Admin        
+3com        Netbuilder                Multi        admin        (none)        Admin        
+3com        cellplex        7000        Telnet        operator        (none)        Admin        
+3com        OfficeConnect 812 ADSL        01.50-01        Multi        admin        (none)        Admin        
+3com        cellplex                Multi        admin        admin        Admin        
+3com        HiPerACT        v4.1.x        Telnet        admin        (none)        Admin        
+3com        3c16405                Multi        n/a        (none)        Admin        
+3com        3c16405                Console        Administrator        (none)        Admin        
+3com        Switch        3300XM        Multi        admin        admin        Admin        
+3com        SS III Switch        4xxx (4900 - sure)        Telnet        recovery        recovery        resets_all_to_default        u need to power off unit. tbl_
+3com        OfficeConnect Wireless 11g Cable/DSL Gateway                HTTP        (none)        admin        Admin        
+3COM        Netbuilder                HTTP        Root        (none)        Admin        http://10.1.0.1
+3com        3C16405                Multi        admin        (none)        Admin        
+3COM        3C16450                Multi        admin        (none)        Admin        telnet or serial
+3COM        3C16406                Multi        admin        (none)        Admin        telnet or serial
+3com        OfficeConnect 812 ADSL        01.50-01        Multi        admin        (none)        Admin        
+3com        cellplex                Multi        n/a        (none)        Admin        
+3com        cellplex                Multi        admin        admin        Admin        
+3com        HiPerACT        v4.1.x        Telnet        admin        (none)        Admin        
+3com        3c16405                Console        Administrator        (none)        Admin        
+3com        CellPlex        7000        Telnet        tech        (none)        Admin        
+3com        Switch        3300XM        Multi        admin        admin        Admin        
+3com        SS III Switch        4xxx (4900 - sure)        Telnet        recovery        recovery        resets_all_to_default        u need to power off unit. tbl_
+3com        OfficeConnect Wireless 11g Cable/DSL Gateway                HTTP        (none)        admin        Admin        
+3com        3CRADSL72        1.2        Multi        (none)        1234admin        Admin        snmp open by default with public / private community
+3com        CB9000 / 4007        3        Console        Type User: FORCE        (none)        Admin        This will recover a lost password and reset the switch config to Factory Default
+3com        officeconnect                Multi        n/a        (none)        Admin        
+3Com        Internet Firewall        3C16770        HTTP        admin        password        Admin        
+3com        superstack II Netbuilder        11.1        Multi        n/a        (none)        Admin        
+3COM        Office Connect ISDN Routers        5x0        Telnet?        n/a        PASSWORD        Admin        
+3M        VOL-0215 etc.                SNMP        volition        volition        Admin        for Volition fibre switches
+Accelerated Networks        DSL CPE and DSLAM                Telnet        sysadm        anicust                
+ACCTON        Wirelessrouter        T-online        HTTP        none        0        Admin        YEAHH
+accton t-online        accton                Multi        (none)        0        Admin        
+accton t-online        accton                Multi        (none)        0        Admin        
+Aceex        Modem ADSL Router                HTTP        admin        (none)        Admin        
+Aceex        Modem ADSL Router                HTTP        admin        (none)        Admin        
+ADC Kentrox        Pacesetter Router                Telnet        n/a        secret                
+ADIC        Scalar 100/1000                HTTP        admin        secure        Admin        
+ADIC        Scalar i2000                Multi        admin        password        Admin        
+adtran        MX2800                Telnet        n/a        adtran        Admin        hit enter a few times
+adtran        Smart 16/16e                Telnet        n/a        (none)        Admin        hit enter a few times
+adtran        Atlas 800/800Plus/810Plus/550                Telnet        n/a        Password        Admin        crtl-L
+adtran        Smart 16/16e                Telnet        n/a        PASSWORD        Admin        hit enter a few times
+adtran        NxIQ                Telnet        n/a        adtran        Admin        hit enter a few times
+adtran        TSU IQ/DSU IQ                Telnet        n/a        (none)        Admin        hit enter a few times
+adtran        Express 5110/5200/5210                Telnet        n/a        adtran        Admin        hit enter a few times
+adtran        Agent Card                Telnet        n/a        ADTRAN        Admin        ctrl-PTT
+adtran        TSU Router Module/L128/L768/1.5                Telnet        n/a        (none)        Admin        hit enter a few times
+adtran        T3SU 300                Telnet        n/a        adtran        Admin        Hit enter a few times
+Alcatel        PBX        4400        Port 2533        kermit        kermit        unknown        thanks to Nicolas Gregoire
+Alcatel        PBX        4400        Port 2533        dhs3mt        dhs3mt        unknown        thanks to Nicolas Gregoire
+Alcatel        PBX        4400        Port 2533        at4400        at4400        unknown        thanks to Nicolas Gregoire
+Alcatel        PBX        4400        Port 2533        mtch        mtch        unknown        thanks to Nicolas Gregoire
+Alcatel        PBX        4400        Port 2533        mtcl        mtcl        unknown        thanks to Nicolas Gregoire
+Alcatel        PBX        4400        Port 2533        root        letacla        unknown        thanks to Nicolas Gregoire
+Alcatel        PBX        4400        Port 2533        dhs3pms        dhs3pms        unknown        thanks to Nicolas Gregoire
+Alcatel        PBX        4400        Port 2533        adfexc        adfexc        unknown        thanks to Nicolas Gregoire
+Alcatel        PBX        4400        Port 2533        client        client        unknown        
+Alcatel        PBX        4400        Port 2533        install        llatsni        unknown        thanks to Nicolas Gregoire
+Alcatel        PBX        4400        Port 2533        halt        tlah        unknown        thanks to Nicolas Gregoire
+Alcatel        Office 4200                Multi        n/a        1064        Admin        by Bazille
+Alcatel        OmniStack 6024                Telnet        admin        switch        Admin        
+Alcatel        Omnistack/Omniswitch                Telnet/Console        diag        switch        Admin        
+Alcatel        Omnistack/omniswitch                Telnet        diag        switch        Admin        
+Alcatel        Timestep VPN 1520        3.00.026        Permit config and console        root        permit        Admin        Perm/Config port 38036
+Alcatel        OXO        1.3        Multi        (none)        admin        User        
+Allied        Telesyn                Multi        manager        friend        Admin        
+Allied Telesyn        AT-8024(GB)                Console        n/a        admin        Admin        
+Allied Telesyn        AT-8024(GB)                HTTP        manager        admin        Admin        
+Allied Telesyn        AT Router                HTTP        root        (none)        Admin        
+ALLNET        T-DSL Modem        Software Version: v1.51        HTTP        admin        admin        Admin        
+Allnet        ALL0275 802.11g AP        1.0.6        HTTP        none        admin        Admin        
+Alteon        ACEDirector3                console        admin        (none)                
+Alteon        ACEswitch        180e        HTTP        admin        admin        Admin        
+Alteon        ACEswitch        180e        Telnet        admin        (none)                
+Alteon        ACEswitch        180e        HTTP        admin        linga        Admin        none
+Alteon        AD4        9        Console        admin        admin        Admin        Factory default
+AMBIT        ADSL                Telnet        root        (none)        Admin        
+Ambit        Cable Modem 60678eu        1.12        Multi        root        root        Admin        
+Ambit        Cable Modem                Multi        root        root        Admin        Time Warner Cable issued modem
+Ambit        ntl:home 200        2.67.1011        HTTP        root        root        Admin        This is the cable modem supplied by NTL in the UK
+Amitech        wireless router and access point 802.11g 802.11b        any        HTTP        admin        admin        Admin        Web interface is on 192.168.1.254 available on the LAN ports of the AP.
+Andover Controls        Infinity        any        Console        acc        acc        Admin        Building managment system
+AOC        zenworks 4.0                Multi        n/a        admin        Admin        
+APC        9606 Smart Slot                Telnet        n/a        backdoor        Admin        
+APC        USV Network Management Card                SNMP        n/a        TENmanUFactOryPOWER        Admin        nachzulesen unter http://www.heise.de/security/news/meldung/44899 gruss HonkHase
+apc        Smartups 3000                HTTP        apc        apc        Admin        By Sentinel Software.net
+APC        UPSes (Web/SNMP Mgmt Card)                HTTP        device        device        Admin        Secondary access account (next to apc/apc)
+APC        Smart UPS                Multi        apc        apc        Admin        
+Apple        AirPort Base Station (Graphite)        2        Multi        (none)        public        public        See Apple article number 58613 for details
+Apple        Airport Base Station (Dual Ethernet)        2        Multi        n/a        password        Guest        See Apple article number 106597 for details
+Apple        Airport Extreme Base Station        2        Multi        n/a        admin        Guest        see Apple article number 107518 for details
+Arescom        modem/router        10XX        Telnet        n/a        atc123        Admin        
+ARtem        ComPoint - CPD-XT-b        CPD-XT-b        Telnet        (none)        admin        Admin        
+Asante        IntraSwitch                multi        IntraSwitch        Asante        Admin        
+Asante        IntraStack                multi        IntraStack        Asante        Admin        
+Asante        FM2008                Telnet        superuser        (none)        Admin        
+Ascend        Yurie                Multi        readonly        lucenttech2                
+Ascend        Router                Telnet        n/a        ascend        Admin        
+Ascend        Sahara                Multi        root        ascend                
+Ascom        Ascotel PBX        ALL        Multi        (none)        3ascotel        Admin        no user req. _by DTK
+Aspect        ACD        6        HTTP        customer        none        User        views error logs
+Aspect        ACD        6        Oracle        DTA        TJM        User        
+Aspect        ACD        7        Oracle        DTA        TJM        User        
+Aspect        ACD        8        Oracle        DTA        TJM        User        
+AVAYA        g3R        v6        Console        root        ROOT500        Admin        
+Avaya        Definity        G3Si        Multi        craft        (none)        Admin        
+Avaya        Cajun Pxxx                Multi        root        root        Admin        
+Avaya        Cajun        P550R P580 P880 and P882        Multi        diag        danger        Developer        
+Avaya        Cajun        P550R P580 P880 and P882        Multi        manuf        xxyyzz        Developer        
+Avaya        Pxxx        05/02/2014        Multi        diag        danger        Admin        
+Avaya        Pxxx        05/02/2014        Multi        manuf        xxyyzz        Admin        
+AVAYA        Cajun P33x        firmware before 3.11.0        SNMP        n/a        admin        Admin        check the Bugtraq archives for more information
+Avaya        definity        up to rev. 6        any        craft        crftpw        Admin        
+Avaya        CMS Supervisor        11        Console        root        cms500        Admin        
+Axis        NETCAM        200/240        Telnet        root        pass        Admin        
+Axis        All Axis Printserver        All        Multi        root        pass        Admin        
+Axis        Webcams                HTTP        root        pass        Admin        
+Axis        540/542 Print Server                Multi        root        pass        Admin        
+axis        2100                Multi        n/a        (none)        Admin        
+Axis        NETCAM        200/240                root        pass                
+Bay Networks        Switch        350T        Telnet        n/a        NetICs        Admin        
+Bay Networks        SuperStack II                Telnet        security        security        Admin        
+Bay Networks        Router                Telnet        User        (none)        User        
+Bay Networks        Router                Telnet        Manager        (none)        Admin        
+Bay Networks        Router                        User        (none)        User        
+Bay Networks        SuperStack II                        security        security        Admin        
+Bay Networks        Switch        350T                n/a        NetICs        Admin        
+Belkin        F5D6130                SNMP        (none)        MiniAP        Admin        Wireless Acess Point IEEE802.11b
+Belkin        F5D7150        FB        Multi        n/a        admin        Admin        
+Billion        Bipac 5100                HTTP        admin        admin        Admin        
+Bintec        Bianka Routers                Multi        admin        bintec        Admin        
+BinTec        Bianca/Brick        XM-5.1        SNMP        n/a        snmp-Trap        read/write        by rootkid
+BinTec        x1200        37834        Multi        admin        bintec        Admin        
+BinTec        x2300i        37834        Multi        admin        bintec        Admin        
+BinTec        x3200        37834        Multi        admin        bintec        Admin        
+BMC        Patrol        6        Multi        patrol        patrol        User        
+BMC Software        Patrol        all        BMC unique        Administrator        the same all over        Admin        this default user normally for ALL system in this area with one Password
+Breezecom        Breezecom Adapters        3.x                n/a        Master        Admin        
+Breezecom        Breezecom Adapters        2.x                n/a        laflaf        Admin        
+Breezecom        Breezecom Adapters        4.4.x        Console        n/a        Helpdesk        Admin        
+Breezecom        Breezecom Adapters        4.x                n/a        Super                
+Breezecom        Breezecom Adapters        3.x                n/a        Master                
+Breezecom        Breezecom Adapters        2.x                n/a        laflaf                
+Brocade        Fabric OS        All        Multi        root        fivranne        Admin        Gigiabit SAN (by Nicolas Gregoire)
+Brocade        Silkworm        all        Multi        admin        password        Admin        Also on other Fiberchannel switches
+Brocade        Fabric OS                Multi        admin        password        Admin        Gigabit SAN
+Brother        NC-3100h                        (none)        access        network board access        
+Brother        NC-4100h                        (none)        access        network board access        
+Brother        HL-1270n                Multi        n/a        access        network board access        
+Buffalo        Wireless Broadband Base Station-g        WLA-G54 WBR-G54        HTTP        root        (none)        Admin        http://192.168.11.1
+Cabletron        Netgear modem/router and SSR                        netman        (none)        Admin        
+Cayman        Cayman DSL                        n/a        (none)        Admin        
+Celerity        Mediator        Multi        Multi        mediator        mediator        User        
+Celerity        Mediator                Multi        root        Mau'dib        Admin        Assumption: the password is Mua'dib
+Cellit        CCPro                Multi        cellit        cellit        Admin        
+Checkpoint        SecurePlatform        NG FP3        Console        admin        admin        Admin        
+CipherTrust        IronMail        Any        Multi        admin        password        Admin        
+CISCO        Cache Engine                Console        admin        diamond        Admin        
+Cisco        ConfigMaker                        cmaker        cmaker        Admin        
+cisco        cva 122                Telnet        admin        admin        Admin        
+Cisco        CNR        All        CNR GUI        admin        changeme        Admin        This is the default password for Cisco Network Registrar
+Cisco        Netranger/secure IDS                Multi        netrangr        attack                
+Cisco        BBSM        5.0 and 5.1        Telnet or Named Pipes        bbsd-client        changeme2        database        The BBSD Windows Client password will match the BBSD MSDE Client password
+Cisco        BBSD MSDE Client        5.0 and 5.1        Telnet or Named Pipes        bbsd-client        NULL        database        The BBSD Windows Client password will match the BBSD MSDE Client password
+Cisco        BBSM Administrator        5.0 and 5.1        Multi        Administrator        changeme        Admin        
+Cisco        Netranger/secure IDS        3.0(5)S17        Multi        root        attack        Admin        must be changed at the first connection
+Cisco        BBSM MSDE Administrator        5.0 and 5.1        IP and Named Pipes        sa        (none)        Admin        
+Cisco        Catalyst 4000/5000/6000        All        SNMP        (none)        public/private/secret        RO/RW/RW+change SNMP config        default on All Cat switches running the native CatOS CLI software.
+Cisco        PIX firewall                Telnet        (none)        cisco        User        
+Cisco        VPN Concentrator 3000 series        3        Multi        admin        admin        Admin        
+Cisco        Content Engine                Telnet        admin        default        Admin        
+cisco        3600                Telnet        Administrator        admin        Guest        
+Cisco        AP1200        IOS        Multi        Cisco        Cisco        Admin        This is when you convert AP1200 or AP350 to IOS
+cisco        GSR                Telnet        admin        admin        admin        
+Cisco        CiscoWorks 2000                        guest        (none)        User        
+Cisco        CiscoWorks 2000                        admin        cisco        Admin        
+Cisco        ConfigMaker                        cmaker        cmaker        Admin        
+Cisco-Arrowpoint        Arrowpoint                        admin        system        Admin        
+COM3        OLe                HTTP        admin        admin        User        
+Compaq        Insight Manager                        administrator        administrator        Admin        
+Compaq        Insight Manager                        anonymous        (none)        User        
+Compaq        Insight Manager                        user        user        User        
+Compaq        Insight Manager                        operator        operator                
+Compaq        Insight Manager                        user        public        User        
+Compaq        Insight Manager                        PFCUser        240653C9467E45        User        
+conexant        ACCESS RUNNER ADSL CONSOLE PORT 3.27                Telnet        Administrator        admin        Admin        
+Corecess        Corecess 3112                HTTP        Administrator        admin        Admin        
+cyberguard        all firewalls        all        console + passport1        cgadmin        cgadmin        Admin        
+Cyclades        PR 1000                Telnet        super        surt        Admin        mpacheco.inimigo.com
+Cyclades        TS800                HTTP        root        tslinux        Admin        mpacheco.inimigo.com
+Dallas Semiconductors        TINI embedded JAVA Module        <= 1.0        Telnet        root        tini        Admin        
+Datacom        BSASX/101                        n/a        letmein        Admin        
+Datawizard.net        FTPXQ server                FTP        anonymous        any@        read/write on c:,        
+Davox        Unison                Multi        root        davox        Admin        
+Davox        Unison                Multi        admin        admin        User        
+Davox        Unison                Multi        davox        davox        User        
+Davox        Unison                Sybase        sa        (none)        Admin        
+Deerfield        MDaemon                HTTP        MDaemon        MServer        Admin        web interface to manage MDaemon. fixed June 2002
+Demarc        Network Monitor                multi        admin        my_DEMARC        Admin        
+Deutsche Telekom        T-Sinus DSL 130                HTTP        admin        (none)        Admin        Usuallay also a WirelessLan AP :)
+Develcon        Orbitor Default Console                        n/a        BRIDGE        Admin        
+Develcon        Orbitor Default Console                        n/a        password        Admin        
+Dictaphone        ProLog                        PBX        PBX                
+Dictaphone        ProLog                        NETWORK        NETWORK                
+Dictaphone        ProLog                        NETOP        (none)                
+Digicorp        Viper                Telnet        n/a        BRIDGE        Admin        
+Digicorp        Viper                Telnet        n/a        password        Admin        
+Digicorp        Router                        n/a        BRIDGE        Admin        
+Digicorp        Router                        n/a        password        Admin        
+Dlink        DSL-500                Multi        admin        admin        Admin        
+D-Link        hubs/switches                Telnet        D-Link        D-Link                
+D-Link        DI-704        rev a        Multi        (none)        admin        Admin        Cable/DSL Routers/Switches
+D-Link        DI-804        v2.03        Multi        admin        (none)        Admin        Contributed by _CR_
+D-Link        DWL 900AP                Multi        (none)        public        Admin        
+D-Link        DI-614+                HTTP        user        (none)        User        by rootkid
+D-Link        DWL-614+        rev a rev b        HTTP        admin        (none)        Admin        http://192.168.0.1
+D-Link        D-704P        rev b        Multi        admin        (none)        Admin        
+D-link        DWL-900AP+        rev a rev b rev c        HTTP        admin        (none)        Admin        http://192.168.0.50
+D-Link        DI-604        rev a rev b rev c rev e        Multi        admin        (none)        Admin        http://192.168.0.1
+D-Link        DWL-614+        2.03        HTTP        admin        (none)        Admin        
+D-Link        D-704P                Multi        admin        admin        Admin        
+D-Link        DWL-900+                HTTP        admin        (none)        Admin        
+D-Link        DI-704                Multi        n/a        admin        Admin        
+D-Link        DI-604        1.62b+        HTTP        admin        (none)        Admin        
+D-Link        DI-624        all        HTTP        admin        (none)        Admin        
+D-Link        DI-624        all        HTTP        User        (none)        Admin        
+D-Link        DI-604        2.02        HTTP        admin        admin        Admin        
+D-Link        DWL 1000                HTTP        admin        (none)        Admin        
+D-Link        DI-514                Multi        user        (none)        Admin        
+D-Link        DI-614+        any        HTTP        admin        (none)        Admin        all access :D
+D-Link        DWL 2100AP                Multi        admin        (none)        Admin        
+D-LINK        DSL-G664T        A1        HTTP        admin        admin        Admin        SSID : G664T_WIRELESS
+d-link        504g adsl router                HTTP        admin        admin        Admin        from product doco
+D-Link        DSL-302G                Multi        admin        admin        Admin        
+D-Link        DI-624+        A3        HTTP        admin        admin        Admin        
+D-Link        DWL-2000AP+        1.13        HTTP        admin        (none)        Admin        Wireless Access Point
+D-Link        DI-614+                HTTP        admin        admin        Admin        
+Draytek        Vigor        all        HTTP        admin        admin        Admin        
+Dynalink        RTA230                Multi        admin        admin        Admin        
+Edimax        Broadband Router        Hardware: Rev A. Boot Code: 1.0 Runtime Code 2.63        HTTP        admin        1234        Admin        
+Edimax        EW-7205APL        Firmware release 2.40a-00        Multi        guest        (none)        Admin        http://secunia.com/advisories/11849/
+Efficient        Speedstream DSL                Telnet        n/a        admin        Admin        
+Efficient        5871 DSL Router        v 5.3.3-0        Multi        login        admin        Admin        This is for access to HTTP admin console.
+Efficient        5851                Telnet        login        password        Admin        might be all 5800 series
+Efficient        Speedstream DSL                        n/a        admin        Admin        
+Efficient Networks        Speedstream 5711        Teledanmark version (only .dk)        Console        n/a        4getme2        Admin        for all your TDC router needs
+Efficient Networks        EN 5861                Telnet        login        admin        Admin        
+Efficient Networks        5851 SDSL Router        N/A        Console        (none)        hs7mwxkk        Admin        On some Covad Routers
+Elsa        LANCom Office ISDN Router        800/1000/1100        Telnet        n/a        cisco        Admin        
+Enterasys        ANG-1105        unknown        HTTP        admin        netadmin        Admin        default IP is 192.168.1.1
+Enterasys        ANG-1105        unknown        Telnet        (none)        netadmin        Admin        default IP is 192.168.1.1
+Enterasys        Vertical Horizon        ANY        Multi        admin        (none)        Admin        this works in telnet or http
+Ericsson        Ericsson Acc                        netman        netman                
+ericsson        md110 pabx        up-to-bc9        Multi        (none)        help        varies depending on config minimal list access by default        
+ericsson        ericsson acc                Multi        n/a        (none)        Admin        
+Ericsson        Ericsson Acc                        netman        netman                
+Ericsson ACC        Tigris Platform        All        Multi        public        (none)        Guest        
+E-Tech        ADSL Ethernet Router        Annex A v2        HTTP        admin        epicrouter        Admin        Password can also be password
+E-Tech        Wireless 11Mbps Router Model:WLRT03                HTTP        (none)        admin        Admin        
+E-Tech        Router        RTBR03        HTTP        (none)        admin        Admin        1wan/4ports switch router
+EverFocus        PowerPlex        EDR1600        Multi        admin        admin        Admin        
+EverFocus        PowerPlex        EDR1600        Multi        supervisor        supervisor        Admin        
+EverFocus        PowerPlex        EDR1600        Multi        operator        operator        Admin        
+Extreme Networks        All Switches                Multi        admin        (none)        Admin        Submitted by Eastman Rivai
+F5        Bigip 540                Multi        root        default        Admin        
+F5-Networks        BIGIP                Multi        n/a        (none)        Admin        
+Flowpoint        2200 SDSL                Telnet        admin        admin        Admin        
+Flowpoint        DSL                Telnet        n/a        password        Admin        Installed by Covad
+Flowpoint        100 IDSN                Telnet        admin        admin        Admin        
+Flowpoint        40 IDSL                Telnet        admin        admin        Admin        
+Flowpoint        Flowpoint DSL                        admin        admin        Admin        
+Fortinet        Fortigate                Telnet        admin        (none)        Admin        
+Foundry Networks        IronView Network Manager        Version 01.6.00a(service pack) 0620031754        HTTP        admin        admin        Admin        http://www.foundrynet.com/servic ... r_Installation.html
+Freetech        PC BIOS                Console        n/a        Posterie        Admin        
+Freetech        BIOS                Console        n/a        Posterie        Admin        
+Fujitsu Siemens        Routers                HTTP        (none)        connect        Admin        
+Funk Software        Steel Belted Radius        3.x        Proprietary        admin        radius        Admin        
+GVC        e800/rb4                HTTP        Administrator        admin        Admin        
+Hewlett Packard        Power Manager        3        HTTP        admin        admin        Admin        
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        HPP187                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        HPP189                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        HPP196                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        INTX3                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        ITF3000                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        NETBASE                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        REGO                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        RJE                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        CONV                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        OPERATOR        SYS                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        OPERATOR        DISC                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        OPERATOR        SYSTEM                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        OPERATOR        SUPPORT                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        OPERATOR        COGNOS                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        PCUSER        SYS                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        RSBCMON        SYS                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        SPOOLMAN        HPOFFICE                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        WP        HPOFFICE                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        ADVMAIL        HPOFFICE DATA                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        ADVMAIL        HP                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        FIELD        SUPPORT                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        FIELD        MGR                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        FIELD        SERVICE                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        FIELD        MANAGER                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        FIELD        HPP187 SYS                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        FIELD        LOTUS                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        FIELD        HPWORD PUB                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        FIELD        HPONLY                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        HELLO        MANAGER.SYS                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        HELLO        MGR.SYS                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        HELLO        FIELD.SUPPORT                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        HELLO        OP.OPERATOR                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MAIL        MAIL                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MAIL        REMOTE                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MAIL        TELESUP                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MAIL        HPOFFICE                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MAIL        MPE                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MANAGER        TCH                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MANAGER        SYS                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MANAGER        SECURITY                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MANAGER        ITF3000                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MANAGER        HPOFFICE                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MANAGER        COGNOS                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MANAGER        TELESUP                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        SYS                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        CAROLIAN                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        VESOFT                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        XLSERVER                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        SECURITY                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        TELESUP                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        HPDESK                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        CCC                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        CNAS                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        WORD                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        COGNOS                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        ROBELLE                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        HPOFFICE                
+Hewlett-Packard        HP 2000/3000 MPE/xx                Multi        MGR        HPONLY                
+Hewlett-Packard        LaserJet Net Printers        Ones with Jetdirect on them        Telnet        (none)        (none)        Admin        press enter twice if no response in telnet -submit by Anymous
+Hewlett-Packard        LaserJet Net Printers        Ones with Jetdirect on them        HTTP        (none)        (none)        Admin        HTTP interface -submit by Anymous
+Hewlett-Packard        LaserJet Net Printers        Ones with Jetdirect on them        FTP        Anonymous        (none)        User        send files to be printed -submit by Anymous
+Hewlett-Packard        LaserJet Net Printers        Ones with Jetdirect on them        9100        (none)        (none)        User        Type what you want and close telnet session to print it out -submit by Anymous
+Hewlett-Packard        webmin        0.84        HTTP        admin        hp.com        Admin        you can find more passwords here: http://www.vulnerabilite.com/password_db/
+hp        sa7200                Multi        admin        admin        Admin        
+hp        sa7200                Multi        admin        (none)        Admin        
+IBM        Ascend OEM Routers                Telnet        n/a        ascend        Admin        
+IBM        A21m                Multi        n/a        (none)        Admin        
+IBM        390e                Multi        n/a        admin        Admin        
+ibm        a20m                Multi        n/a        admin        Admin        
+IBM        TotalStorage Enterprise Server                Multi        storwatch        specialist        Admin        By Nicolas Gregoire
+IBM        8239 Token Ring HUB        2.5        Console        n/a        R1QTPS        Utility Program        submitted by FX
+IBM        8224 HUB                Multi        vt100        public        Admin        Swap MAC address chip from other 8224
+IBM        3534 F08 Fibre Switch                Multi        admin        password        Admin        
+IBM        switch        8275-217        Telnet        admin        (none)        Admin        
+IBM        Directory - Web Administration Tool        5.1        HTTP        superadmin        secret        Admin        Documented in Web Administration Guide
+IBM        Hardware Management Console        3        ssh        hscroot        abc123        Admin        
+IMAI        Traffic Shaper        TS-1012        HTTP        n/a        (none)        Admin        default IP 1.2.3.4
+Integral Technologies        RemoteView        4        Console        Administrator        letmein        Admin        
+Intel        Shiva                Multi        root        (none)        Admin        
+Intel        Express 9520 Router                Multi        NICONEX        NICONEX        User        
+Intel        Express 520T Switch                Multi        setup        setup        User        
+intel        netstructure        480t        Telnet        admin        (none)        Admin        
+Intel        Wireless AP 2011        2.21        Multi        (none)        Intel        Admin        by FX
+Intel        Wireless Gateway        3.x        HTTP        intel        intel        Admin        
+Intel        Shiva                        Guest        (none)        User        
+Intel        Shiva                        root        (none)        Admin        
+Intel/Shiva        Mezza ISDN Router        All        Telnet        admin        hello        Admin        
+Intel/Shiva        Access Port        All        Telnet        admin        hello        Admin        
+Interbase        Interbase Database Server        All        Multi        SYSDBA        masterkey        Admin        
+Intermec        Mobile LAN        5.25        Multi        intermec        intermec        Admin        
+Intershop        Intershop        4        HTTP        operator        $chwarzepumpe        Admin        
+Intersystems        Cache Post-RDMS                Console        system        sys        Admin        Change immediately
+intex        organizer                Multi        n/a        (none)        Admin        
+iPSTAR        iPSTAR Satellite Router/Radio        v2        HTTP        admin        operator        Admin        For CSLoxInfo and iPSTAR Customers
+iPSTAR        iPSTAR Network Box        v.2+        HTTP        admin        operator        Admin        iPSTAR Network Box is used by the CSLoxInfo Broadband Satellite system.
+JD Edwards        WorldVision/OneWorld        All(?)        Console        JDE        JDE        Admin/SECOFR        
+JDE        WorldVision/OneWorld                Multi        PRODDTA        PRODDTA        Admin        Owner of database tables and objects
+JDS Microprocessing        Hydra 3000        r2.02        Console        hydrasna        (none)        Admin        www.hydrasystems.com/h3kdocs/H3R25C04.pdf
+Konica Minolta        magicolor 2300 DL                Multi        (none)        1234        Admin        info from: ftp://ftp.minolta-qms.com/pub/ct ... uals/2300dl/nic.pdf
+Kyocera        EcoLink        7.2        HTTP        n/a        PASSWORD        Admin        
+Kyocera        Telnet Server IB-20/21                multi        root        root        Admin        
+Kyocera        Intermate LAN FS Pro 10/100        K82_0371        HTTP        admin        admin        Admin        
+LANCOM        IL11                Multi        n/a        (none)        Admin        
+Lantronics        Lantronics Terminal Server                TCP 7000        n/a        access        Admin        
+Lantronics        Lantronics Terminal Server                TCP 7000        n/a        system        Admin        
+Lantronix        Lantronix Terminal                TCP 7000        n/a        lantronix        Admin        
+Lantronix        SCS1620                Multi        sysadmin        PASS        Admin        9600/N/8/1 XON/XOFF
+Lantronix        SCS3200                EZWebCon downloaded from ftp.lantronix.com        login        access        Admin        secondary port settings login: root password: system
+Lantronix        SCS400                Multi        n/a        admin        Admin        secondary priv. password: system
+Lantronix        SCS200                Multi        n/a        admin        Admin        secondary priv. password: system
+Lantronix        SCS100                Multi        n/a        access        Admin        secondary priv. password: system
+Lantronix        ETS4P                Multi        n/a        (none)        Admin        secondary priv. password: system
+Lantronix        ETS16P                Multi        n/a        (none)        Admin        secondary priv. password: system
+Lantronix        ETS32PR                Multi        n/a        (none)        Admin        secondary priv. password: system
+Lantronix        ETS422PR                Multi        n/a        (none)        Admin        secondary priv. password: system
+latis network        border guard                Multi        n/a        (none)        Admin        
+Linksys        WAP11                Multi        n/a        (none)        Admin        
+Linksys        DSL                Telnet        n/a        admin        Admin        
+Linksys        EtherFast Cable/DSL ROuter                Multi        Administrator        admin        Admin        
+Linksys        Linksys Router DSL/Cable                HTTP        (none)        admin        Admin        
+Linksys        BEFW11S4        1        HTTP        admin        (none)        Admin        
+Linksys        BEFSR41        2        HTTP        (none)        admin        Admin        
+Linksys        WRT54G                HTTP        admin        admin        Admin        
+Linksys        WAG54G                HTTP        admin        admin        Admin        
+linksys        ap 1120                Multi        n/a        (none)        Admin        
+Linksys        Linksys DSL                        n/a        admin        Admin        
+Livingston        IRX Router                Telnet        !root        (none)                
+Livingston        Livingston Portmaster 3                Telnet        !root        (none)                
+Livingston        Officerouter                Telnet        !root        (none)                
+Livingstone        Portmaster 2R                Telnet        root        (none)        Admin        
+Lockdown Networks        All Lockdown Products        up to 2.7        Console        setup        changeme(exclamation)        User        
+longshine        isscfg                HTTP        admin        0        Admin        
+Lucent        B-STDX9000                Multi        (any 3 characters)        cascade                
+Lucent        B-STDX9000                debug mode        n/a        cascade                
+Lucent        B-STDX9000        all        SNMP        n/a        cascade        Admin        
+Lucent        CBX 500                Multi        (any 3 characters)        cascade                
+Lucent        CBX 500                debug mode        n/a        cascade                
+Lucent        GX 550                SNMP readwrite        n/a        cascade                
+Lucent        MAX-TNT                Multi        admin        Ascend                
+Lucent        PSAX 1200 and below                Multi        root        ascend                
+Lucent        PSAX 1250 and above                Multi        readwrite        lucenttech1        Admin        
+Lucent        PSAX 1250 and above                Multi        readonly        lucenttech2        Admin        
+Lucent        Anymedia                Console        LUCENT01        UI-PSWD-01        Admin        requires GSI software
+Lucent        Anymedia                Console        LUCENT02        UI-PSWD-02        Admin        requires GSI software
+Lucent        PacketStar                Multi        Administrator        (none)        Admin        
+Lucent        Cellpipe 22A-BX-AR USB D                Console        admin        AitbISP4eCiG        Admin        
+LUCENT        M770                Telnet        super        super        Admin        
+Lucent        System 75                        bciim        bciimpw                
+Lucent        System 75                        bcim        bcimpw                
+Lucent        System 75                        bcms        bcmspw                
+Lucent        System 75                        bcnas        bcnaspw                
+Lucent        System 75                        blue        bluepw                
+Lucent        System 75                        browse        browsepw                
+Lucent        System 75                        browse        looker                
+Lucent        System 75                        craft        craft                
+Lucent        System 75                        craft        craftpw                
+Lucent        System 75                        cust        custpw                
+Lucent        System 75                        enquiry        enquirypw                
+Lucent        System 75                        field        support                
+Lucent        System 75                        inads        indspw                
+Lucent        System 75                        inads        inads                
+Lucent        System 75                        init        initpw                
+Lucent        System 75                        locate        locatepw                
+Lucent        System 75                        maint        maintpw                
+Lucent        System 75                        maint        rwmaint                
+Lucent        System 75                        nms        nmspw                
+Lucent        System 75                        rcust        rcustpw                
+Lucent        System 75                        support        supportpw                
+Lucent        System 75                        tech        field                
+Marconi        Fore ATM Switches                Multi        ami        (none)        Admin        
+maxdata        ms2137                Multi        n/a        (none)        Admin        
+medion        Routers                HTTP        n/a        medion        Admin        
+Megastar        BIOS                Console        n/a        star        Admin        
+Mentec        Micro/RSX                Multi        MICRO        RSX        Admin        
+Mentec        Micro/RSX                        MICRO        RSX        Admin        
+MERCURY        234234        234234        SNMP        Administrator        admin        Admin        
+MERCURY        KT133A/686B                SNMP        Administrator        admin        Admin        
+Meridian        PBX        ANY        Telnet        service        smile        System        This is the default password on most Meridian systems.
+Micronet        Access Point        SP912        Telnet        root        default        Admin        
+Micronet        Micronet SP5002                Console        mac        (none)        Admin        
+Microplex        Print Server                Telnet        root        root        Admin        
+microRouter        900i                Console/Multi        n/a        letmein        Admin        
+Mikrotik        Router OS        all        Telnet        admin        (none)        Admin        also for SSH and Web access
+Mintel        Mintel PBX                        n/a        SYSTEM        Admin        
+Mintel        Mintel PBX                        n/a        SYSTEM        Admin        
+Mitel        3300 ICP        all        HTTP        system        password        Admin        
+Mitel        SX2000        all        Multi        n/a        (none)        Admin        
+Motorola        Cablerouter                Telnet        cablecom        router        Admin        
+Motorola        WR850G        4.03        HTTP        admin        motorola        Admin        higher revisions likely the same
+Motorola        Wireless
