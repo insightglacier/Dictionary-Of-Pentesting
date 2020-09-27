@@ -1,0 +1,7 @@
+/banner/
+/banner/570x100.jpg
+/banner/index.php
+/full-background.php
+/index.php
+/readme.txt
+/uninstall.php

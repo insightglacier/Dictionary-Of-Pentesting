@@ -1,0 +1,7 @@
+/archive-page.php
+/banner/
+/banner/570x100.jpg
+/banner/index.php
+/index.php
+/readme.txt
+/shortcodes-page.php

@@ -1,0 +1,2 @@
+/readme.txt
+/registered-users-only.php

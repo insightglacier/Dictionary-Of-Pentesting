@@ -1,0 +1,9 @@
+/assets/
+/assets/css/
+/assets/css/lana-breadcrumb.css
+/includes/
+/includes/class-lana-breadcrumb-widget.php
+/lana-breadcrumb.php
+/languages/
+/languages/lana-breadcrumb.pot
+/readme.txt

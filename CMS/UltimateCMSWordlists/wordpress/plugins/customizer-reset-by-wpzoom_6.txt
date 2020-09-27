@@ -1,0 +1,6 @@
+/assets/
+/assets/screenshot-1.jpg
+/customizer-reset.php
+/js/
+/js/customizer-reset.js
+/readme.txt

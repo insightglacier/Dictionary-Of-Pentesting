@@ -1,0 +1,7 @@
+/LICENSE
+/clean-image-filenames.php
+/languages/
+/languages/clean_image_filenames-sv_SE.mo
+/languages/clean_image_filenames-sv_SE.po
+/readme.txt
+/uninstall.php

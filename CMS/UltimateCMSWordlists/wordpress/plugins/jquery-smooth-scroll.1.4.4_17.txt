@@ -1,0 +1,17 @@
+/css/
+/css/style.css
+/css/style.min.css
+/images/
+/images/arrow.png
+/images/blogsynthesis-100px.png
+/images/email-16px.png
+/images/paypal-donate.gif
+/images/source.psd
+/index.php
+/jquery-smooth-scroll.php
+/js/
+/js/script.js
+/js/script.min.js
+/readme.txt
+/screenshot-1.png
+/screenshot-2.png

@@ -1,0 +1,12 @@
+/assets/
+/assets/css/
+/assets/css/thwcfd-style.css
+/assets/css/tick.png
+/assets/css/upgrade-btn.png
+/assets/js/
+/assets/js/thwcfd-admin.js
+/assets/js/thwcfd-checkout-field-editor-frontend.js
+/checkout-form-designer.php
+/classes/
+/classes/class-wc-checkout-field-editor.php
+/readme.txt

@@ -1,0 +1,4 @@
+/LICENSE
+/gforms-uploads-as-attachments.php
+/languages/
+/readme.txt

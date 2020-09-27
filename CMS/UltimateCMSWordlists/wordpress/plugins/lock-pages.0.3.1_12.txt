@@ -1,0 +1,12 @@
+/languages/
+/languages/SLT_LockPages-es_ES.mo
+/languages/SLT_LockPages-es_ES.po
+/languages/SLT_LockPages.pot
+/lock-pages.css
+/lock-pages.js
+/lock-pages.php
+/readme.txt
+/screenshot-1.png
+/screenshot-2.png
+/screenshot-3.png
+/screenshot-4.png

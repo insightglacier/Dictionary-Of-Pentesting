@@ -1,0 +1,7 @@
+/LICENSE
+/README.md
+/README.txt
+/index.php
+/languages/
+/languages/wp-force-lowercase-urls.pot
+/wp-force-lowercase-urls.php

@@ -1,0 +1,5 @@
+/all-404-pages-redirect-to-homepage.php
+/functions.php
+/options.php
+/readme.txt
+/style.css

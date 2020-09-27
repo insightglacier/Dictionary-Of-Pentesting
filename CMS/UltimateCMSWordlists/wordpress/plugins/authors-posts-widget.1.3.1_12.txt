@@ -1,0 +1,12 @@
+/css/
+/css/style.css
+/images/
+/images/nolines_minus.gif
+/images/nolines_plus.gif
+/inc/
+/inc/functions.php
+/index.php
+/js/
+/js/functions.js
+/readme.txt
+/uninstall.php

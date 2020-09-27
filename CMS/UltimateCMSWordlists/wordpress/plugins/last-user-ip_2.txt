@@ -1,0 +1,2 @@
+/readme.txt
+/zzwp-last-ip.php

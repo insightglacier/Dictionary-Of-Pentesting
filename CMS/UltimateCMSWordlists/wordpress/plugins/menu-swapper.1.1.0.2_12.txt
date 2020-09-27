@@ -1,0 +1,12 @@
+/README.md
+/assets/
+/assets/css/
+/assets/css/menu-swapper.css
+/assets/js/
+/assets/js/menu-swapper.js
+/includes/
+/includes/admin-page.php
+/includes/functions.php
+/includes/meta-box.php
+/menu-swapper.php
+/readme.txt

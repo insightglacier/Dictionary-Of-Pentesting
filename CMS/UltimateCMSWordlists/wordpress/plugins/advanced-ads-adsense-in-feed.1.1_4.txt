@@ -1,0 +1,4 @@
+/adsense-in-feed.png
+/advanced-ads-in-feed.php
+/languages/
+/readme.txt

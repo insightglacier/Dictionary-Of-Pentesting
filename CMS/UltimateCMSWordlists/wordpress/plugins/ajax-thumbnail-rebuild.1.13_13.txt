@@ -1,0 +1,13 @@
+/ajax-thumbnail-rebuild.php
+/languages/
+/languages/ajax-thumbnail-rebuild-de_DE.mo
+/languages/ajax-thumbnail-rebuild-de_DE.po
+/languages/ajax-thumbnail-rebuild-et.mo
+/languages/ajax-thumbnail-rebuild-et.po
+/languages/ajax-thumbnail-rebuild-ja.mo
+/languages/ajax-thumbnail-rebuild-ja.po
+/languages/ajax-thumbnail-rebuild.pot
+/languages/ajax-thumbnail-rebuild_sk_SK.mo
+/languages/ajax-thumbnail-rebuild_sk_SK.po
+/readme.txt
+/screenshot-1.jpg

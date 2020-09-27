@@ -1,0 +1,90 @@
+[{
+	"type": "lang",
+	"tag": "php",
+	"mode": "header",
+	"url": "/",
+	"pattern": "",
+	"regex": "php",
+	"md5": ""
+},{
+	"type": "lang",
+	"tag": "php",
+	"mode": "header",
+	"url": "/",
+	"pattern": "",
+	"regex": "PHPSSIONID",
+	"md5": ""
+},{
+	"type": "lang",
+	"tag": "jsp",
+	"mode": "header",
+	"url": "/",
+	"pattern": "",
+	"regex": "JSESSIONID",
+	"md5": ""
+},{
+	"type": "lang",
+	"tag": "asp",
+	"mode": "header",
+	"url": "/",
+	"pattern": "",
+	"regex": "ASPSESSION",
+	"md5": ""
+},{
+	"type": "lang",
+	"tag": "aspx",
+	"mode": "header",
+	"url": "/",
+	"pattern": "",
+	"regex": "ASP.NET_SessionId",
+	"md5": ""
+},{
+	"type": "lang",
+	"tag": "aspx",
+	"mode": "header",
+	"url": "/",
+	"pattern": "",
+	"regex": "X-AspNet-Version",
+	"md5": ""
+},{
+	"type": "lang",
+	"tag": "aspx",
+	"mode": "body",
+	"url": "/index",
+	"pattern": "",
+	"regex": "<input[^>]+name=\\\"__VIEWSTATE",
+	"md5": ""
+},{
+	"type": "lang",
+	"tag": "aspx",
+	"mode": "body",
+	"url": "/index",
+	"pattern": "",
+	"regex": "<a[^>]*?href=('|)[^http].*?\\.aspx(\\?|\\1)",
+	"md5": ""
+},{
+	"type": "lang",
+	"tag": "asp",
+	"mode": "body",
+	"url": "/index",
+	"pattern": "",
+	"regex": "<a[^>]*?href=('|)[^http].*?\\.asp(\\?|\\1)",
+	"md5": ""
+},{
+	"type": "lang",
+	"tag": "php",
+	"mode": "body",
+	"url": "/index",
+	"pattern": "",
+	"regex": "<a[^>]*?href=('|)[^http].*?\\.php(\\?|\\1)",
+	"md5": ""
+},{
+	"type": "lang",
+	"tag": "jsp",
+	"mode": "body",
+	"url": "/index",
+	"pattern": "",
+	"regex": "<a[^>]*?href=('|)[^http].*?\\.jsp(\\?|\\1)",
+	"md5": ""
+}
+]

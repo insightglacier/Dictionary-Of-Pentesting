@@ -1,0 +1,17 @@
+/assets/
+/assets/css/
+/assets/css/lana-security-login.css
+/assets/fonts/
+/assets/fonts/bebas.ttf
+/assets/img/
+/assets/img/plugin-header.png
+/includes/
+/includes/class-lana-security-login-logs-list-table.php
+/includes/class-lana-security-logs-list-table.php
+/includes/class-lana-security-plugins-list-table.php
+/includes/class-lana-security-user-agent-parser.php
+/includes/ua-parser-regexes.json
+/lana-security.php
+/languages/
+/languages/lana-security.pot
+/readme.txt

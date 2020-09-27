@@ -1,0 +1,14 @@
+/assets/
+/assets/css/
+/assets/css/admin.css
+/assets/js/
+/assets/js/admin.js
+/assets/js/feedback.js
+/bulk-actions-select-all.php
+/languages/
+/languages/basa-nl_NL.mo
+/languages/basa-nl_NL.po
+/library/
+/library/Admin.php
+/library/AdminFeedback.php
+/readme.txt

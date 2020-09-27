@@ -1,0 +1,8 @@
+/clock-wwtime.php
+/images/
+/images/zeitin-de-logo.png
+/js/
+/js/moment-timezone-with-data.min.js
+/js/moment-with-locales.min.js
+/js/worldclock-plugin.js
+/readme.txt

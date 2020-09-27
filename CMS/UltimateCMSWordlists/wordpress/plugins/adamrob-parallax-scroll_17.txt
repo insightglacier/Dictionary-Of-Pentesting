@@ -1,0 +1,17 @@
+/adamrob-parallax_scroll.php
+/css/
+/css/parallax.css
+/includes/
+/includes/adamrob-parralax-help.php
+/includes/adamrob-parralax-post-ops.php
+/includes/adamrob-parralax-post-type.php
+/includes/adamrob-parralax-shortcode.php
+/includes/js/
+/includes/js/fullwidth.js
+/includes/js/scroll.js
+/includes/parallax/
+/includes/parallax/LICENSE
+/includes/parallax/README.md
+/includes/parallax/parallax.js
+/includes/parallax/parallax.min.js
+/readme.txt

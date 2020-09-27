@@ -1,0 +1,10 @@
+/MultipleDomain.php
+/languages/
+/languages/multiple-domain-en_US.mo
+/languages/multiple-domain-en_US.po
+/languages/multiple-domain-pt_BR.mo
+/languages/multiple-domain-pt_BR.po
+/locales.csv
+/multiple-domain.php
+/readme.txt
+/settings.js

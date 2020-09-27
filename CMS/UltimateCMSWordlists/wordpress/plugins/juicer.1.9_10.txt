@@ -1,0 +1,10 @@
+/assets/
+/assets/banner-772x250.png
+/assets/icon-128x128.png
+/assets/icon-256x256.png
+/assets/screenshot-1.jpg
+/assets/screenshot-2.jpg
+/assets/screenshot-3.jpg
+/composer.json
+/juicer.php
+/readme.txt

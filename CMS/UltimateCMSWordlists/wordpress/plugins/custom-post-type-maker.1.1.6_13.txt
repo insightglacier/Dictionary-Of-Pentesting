@@ -1,0 +1,13 @@
+/CHANGELOG.md
+/README.md
+/css/
+/css/add-edit.css
+/css/overview.css
+/custom-post-type-maker.php
+/js/
+/js/add-edit.js
+/js/overview.js
+/lang/
+/lang/custom-post-type-maker-fr_FR.mo
+/lang/custom-post-type-maker-fr_FR.po
+/readme.txt

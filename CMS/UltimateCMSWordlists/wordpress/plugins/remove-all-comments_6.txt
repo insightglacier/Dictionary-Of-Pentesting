@@ -1,0 +1,6 @@
+/banner-772x250.png
+/images/
+/images/icon.png
+/readme.txt
+/remove-all-comments.php
+/screenshot-1.png

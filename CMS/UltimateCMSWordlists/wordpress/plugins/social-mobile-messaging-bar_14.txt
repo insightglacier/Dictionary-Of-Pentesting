@@ -1,0 +1,14 @@
+/assets/
+/assets/css/
+/assets/css/bootstrap.min.css
+/assets/css/style.css
+/assets/images/
+/assets/images/bg_body.png
+/assets/images/check.png
+/assets/images/loading.gif
+/assets/images/logo-zotabox.png
+/assets/js/
+/assets/js/main.js
+/readme.txt
+/social-mobile-messaging-bar.php
+/zotabox.png

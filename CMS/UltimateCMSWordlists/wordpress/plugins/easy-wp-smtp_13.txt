@@ -1,0 +1,13 @@
+/css/
+/css/style.css
+/easy-wp-smtp-admin-menu.php
+/easy-wp-smtp-utils.php
+/easy-wp-smtp.php
+/inc/
+/inc/Cryptor.php
+/js/
+/js/script.js
+/languages/
+/languages/easy-wp-smtp.pot
+/readme.txt
+/screenshot-1.png

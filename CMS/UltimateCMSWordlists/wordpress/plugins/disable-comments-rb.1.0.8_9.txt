@@ -1,0 +1,9 @@
+/class_rb_disable-comments.php
+/disable-comments-rb.php
+/languages/
+/languages/disable-comments-rb-sv.po
+/languages/disable-comments-rb.pot
+/options.php
+/readme.txt
+/screenshot-1.png
+/screenshot-2.png

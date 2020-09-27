@@ -1,0 +1,12 @@
+/basic_all_in_one_intranet.php
+/core/
+/core/core_all_in_one_intranet.php
+/js/
+/js/aioi-admin.js
+/lang/
+/lang/all-in-one-intranet-de_DE.mo
+/lang/all-in-one-intranet-de_DE.po
+/lang/all-in-one-intranet.pot
+/lang/orig_all-in-one-intranet.pot
+/lang/pot_extra.pot
+/readme.txt

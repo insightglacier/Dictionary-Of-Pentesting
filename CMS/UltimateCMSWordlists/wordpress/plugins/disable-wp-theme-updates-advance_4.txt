@@ -1,0 +1,4 @@
+/disable-wp-theme-updates-advance.php
+/index.php
+/readme.txt
+/uninstall.php

@@ -1,0 +1,5 @@
+/assets/
+/assets/icon-128x128.png
+/assets/icon-256x256.png
+/gnu-terry-pratchett.php
+/readme.txt

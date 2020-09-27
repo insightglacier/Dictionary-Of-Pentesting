@@ -1,0 +1,8 @@
+/Admin.php
+/Submissions.php
+/contact-form-submissions.php
+/css/
+/css/admin.css
+/languages/
+/languages/contact-form-submissions.pot
+/readme.txt

@@ -1,0 +1,7 @@
+/README.md
+/jsm-show-post-meta.php
+/languages/
+/languages/jsm-show-post-meta-fr_FR.mo
+/languages/jsm-show-post-meta-fr_FR.po
+/languages/jsm-show-post-meta.pot
+/readme.txt

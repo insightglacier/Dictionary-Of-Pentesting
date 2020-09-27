@@ -1,0 +1,12 @@
+/assets/
+/assets/css/
+/assets/css/admin.css
+/assets/js/
+/assets/js/admin.js
+/includes/
+/includes/class-query.php
+/includes/class-upgrade.php
+/log-http-requests.php
+/readme.txt
+/templates/
+/templates/page-settings.php

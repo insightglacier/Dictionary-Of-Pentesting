@@ -1,0 +1,7 @@
+/blank-slate.php
+/functions.php
+/languages/
+/languages/blank-slate.pot
+/readme.txt
+/templates/
+/templates/blank-slate-template.php

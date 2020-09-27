@@ -1,0 +1,4 @@
+/display-all-image-sizes.css
+/display-all-image-sizes.js
+/display-all-image-sizes.php
+/readme.txt

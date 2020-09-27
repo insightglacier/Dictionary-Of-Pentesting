@@ -1,0 +1,12 @@
+/about-me.php
+/appsero/
+/appsero/src/
+/appsero/src/Client.php
+/appsero/src/Insights.php
+/appsero/src/License.php
+/appsero/src/Updater.php
+/appsero/src/load.php
+/custom-media.php
+/index.php
+/languages/
+/readme.txt

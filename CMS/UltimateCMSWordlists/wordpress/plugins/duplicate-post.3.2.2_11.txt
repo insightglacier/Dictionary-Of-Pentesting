@@ -1,0 +1,11 @@
+/compat/
+/compat/duplicate-post-jetpack.php
+/compat/duplicate-post-wpml.php
+/donate.png
+/duplicate-post-admin.php
+/duplicate-post-common.php
+/duplicate-post-options.php
+/duplicate-post.css
+/duplicate-post.php
+/gpl-2.0.txt
+/readme.txt

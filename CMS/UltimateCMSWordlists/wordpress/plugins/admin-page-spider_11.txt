@@ -1,0 +1,11 @@
+/admin-page-spider.php
+/apspider-adminfieldsarray.php
+/apspider-adminsettings.php
+/apspider-functions.php
+/apspider-wordpresspages.php
+/apspider-wordpressposts.php
+/languages/
+/languages/admin-page-spider-nl_NL.mo
+/languages/admin-page-spider-nl_NL.po
+/languages/admin-page-spider.pot
+/readme.txt

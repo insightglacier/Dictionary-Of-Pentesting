@@ -1,0 +1,16 @@
+/Gruntfile.js
+/README.md
+/includes/
+/includes/class-seo-data-transporter-admin.php
+/includes/class-seo-data-transporter-cli.php
+/includes/class-seo-data-transporter-utility.php
+/includes/deprecated.php
+/includes/views/
+/includes/views/admin.php
+/languages/
+/languages/seo-data-transporter.pot
+/package.json
+/plugin.php
+/readme.txt
+/screenshot-1.png
+/seo-data-transporter.php

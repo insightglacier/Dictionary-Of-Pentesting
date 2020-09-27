@@ -1,0 +1,5 @@
+/010pixel_tmplt_list_metabox.php
+/license.txt
+/readme.txt
+/screenshot-1.png
+/screenshot-2.png

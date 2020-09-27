@@ -1,0 +1,6 @@
+/includes/
+/includes/class-lana-fb-page-widget.php
+/lana-facebook-page.php
+/languages/
+/languages/lana-facebook-page.pot
+/readme.txt

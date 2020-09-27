@@ -1,0 +1,2 @@
+/noindex-nofollow-all-posts-category.php
+/readme.txt

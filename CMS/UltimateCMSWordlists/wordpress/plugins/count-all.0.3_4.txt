@@ -1,0 +1,4 @@
+/count_all.php
+/readme.txt
+/screenshot-1.png
+/screenshot-2.png

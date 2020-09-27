@@ -1,0 +1,5 @@
+/LICENSE
+/README.md
+/index.php
+/no-update-nag.php
+/readme.txt

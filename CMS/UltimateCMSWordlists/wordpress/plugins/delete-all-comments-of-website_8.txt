@@ -1,0 +1,8 @@
+/code_canyon_250x250.jpg
+/code_canyon_300x250.jpg
+/delete-all-comments-of-wordpress-website.php
+/include/
+/include/sweetalert-dev.js
+/include/sweetalert.css
+/include/sweetalert.min.js
+/readme.txt

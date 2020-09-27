@@ -1,0 +1,226 @@
+[{
+	"type": "web",
+	"tag": "jboss",
+	"url": "/",
+	"md5": "",
+	"mode": "header",
+	"pattern": "",
+	"regex": "jboss"
+},{
+	"type": "web",
+	"tag": "jboss",
+	"url": "/jboss.css",
+	"md5": "",
+	"mode": "body",
+	"pattern": "",
+	"regex": "youcandoit.jpg"
+},{
+	"type": "web",
+	"tag": "jboss",
+	"url": "/is_test",
+	"md5": "",
+	"mode": "body",
+	"pattern": "",
+	"regex": "JBossWeb"
+},{
+	"type": "web",
+	"tag": "axis",
+	"url": "/axis2",
+	"md5": "",
+	"mode": "body",
+	"pattern": "",
+	"regex": "axis2-web/images/axis_l.jpg"
+},{
+	"type": "web",
+	"tag": "weblogic",
+	"url": "/is_test",
+	"md5": "",
+	"mode": "body",
+	"pattern": "",
+	"regex": "Hypertext Transfer Protocol"
+},{
+	"type": "web",
+	"tag": "weblogic",
+	"url": "/console/css/login.css",
+	"md5": "",
+	"mode": "body",
+	"pattern": "",
+	"regex": "Login_GC_LoginPage_Bg.gif"
+},{
+	"type": "web",
+	"tag": "glassfish",
+	"url": "/resource/js/cj.js",
+	"md5": "",
+	"mode": "body",
+	"pattern": "",
+	"regex": "glassfish.dev.java.net"
+},{
+	"type": "web",
+	"tag": "glassfish",
+	"url": "/",
+	"md5": "",
+	"mode": "header",
+	"pattern": "",
+	"regex": "GlassFish"
+},{
+	"type": "web",
+	"tag": "jenkins",
+	"url": "/",
+	"md5": "",
+	"mode": "header",
+	"pattern": "",
+	"regex": "X-Jenkins"
+},{
+	"type": "web",
+	"tag": "jenkins",
+	"url": "/index",
+	"md5": "",
+	"mode": "body",
+	"pattern": "",
+	"regex": "\\[Jenkins\\]"
+},{
+	"type": "web",
+	"tag": "resin",
+	"url": "/",
+	"md5": "",
+	"mode": "header",
+	"pattern": "",
+	"regex": "resin"
+},{
+	"type": "web",
+	"tag": "tomcat",
+	"url": "/is_test",
+	"md5": "",
+	"mode": "body",
+	"pattern": "",
+	"regex": "Apache Tomcat"
+},{
+	"type": "web",
+	"tag": "apache",
+	"url": "/",
+	"md5": "",
+	"mode": "header",
+	"pattern": "",
+	"regex": "apache"
+},{
+	"type": "web",
+	"tag": "iis",
+	"url": "/",
+	"md5": "",
+	"mode": "header",
+	"pattern": "",
+	"regex": "iis"
+},{
+	"type": "web",
+	"tag": "jetty",
+	"url": "/",
+	"md5": "",
+	"mode": "header",
+	"pattern": "",
+	"regex": "jetty"
+},{
+	"type": "web",
+	"tag": "nginx",
+	"url": "/",
+	"md5": "",
+	"mode": "header",
+	"pattern": "",
+	"regex": "nginx"
+},{
+	"type": "web",
+	"tag": "cisco",
+	"url": "/",
+	"md5": "",
+	"mode": "header",
+	"pattern": "",
+	"regex": "cisco"
+},{
+	"type": "web",
+	"tag": "couchdb",
+	"url": "/",
+	"md5": "",
+	"mode": "header",
+	"pattern": "",
+	"regex": "couchdb"
+},{
+	"type": "web",
+	"tag": "tplink",
+	"url": "/",
+	"md5": "",
+	"mode": "header",
+	"pattern": "",
+	"regex": "TP-LINK"
+},{
+	"type": "web",
+	"tag": "h3c",
+	"url": "/",
+	"md5": "",
+	"mode": "header",
+	"pattern": "",
+	"regex": "h3c"
+},{
+	"type": "web",
+	"tag": "h3c",
+	"url": "/index",
+	"md5": "",
+	"mode": "body",
+	"pattern": "",
+	"regex": "/web/device/login"
+},{
+	"type": "web",
+	"tag": "huawei",
+	"url": "/",
+	"md5": "",
+	"mode": "header",
+	"pattern": "",
+	"regex": "huawei"
+},{
+	"type": "web",
+	"tag": "netgear",
+	"url": "/",
+	"md5": "",
+	"mode": "header",
+	"pattern": "",
+	"regex": "netgear"
+},{
+	"type": "web",
+	"tag": "hikvision",
+	"url": "/",
+	"md5": "",
+	"mode": "header",
+	"pattern": "",
+	"regex": "DNVRS-Webs"
+},{
+	"type": "web",
+	"tag": "hikvision",
+	"url": "/",
+	"md5": "",
+	"mode": "header",
+	"pattern": "",
+	"regex": "App-webs"
+},{
+	"type": "web",
+	"tag": "hikvision",
+	"url": "/",
+	"md5": "",
+	"mode": "header",
+	"pattern": "",
+	"regex": "DVRDVS-Webs"
+},{
+	"type": "web",
+	"tag": "hikvision",
+	"url": "/",
+	"md5": "",
+	"mode": "header",
+	"pattern": "",
+	"regex": "Hikvision-Webs"
+},{
+	"type": "web",
+	"tag": "tengine",
+	"url": "/",
+	"md5": "",
+	"mode": "header",
+	"pattern": "",
+	"regex": "Tengine"
+}
+]

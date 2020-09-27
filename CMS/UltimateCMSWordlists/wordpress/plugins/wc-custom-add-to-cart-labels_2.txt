@@ -1,0 +1,2 @@
+/readme.txt
+/wc-custom-add-to-cart-labels.php

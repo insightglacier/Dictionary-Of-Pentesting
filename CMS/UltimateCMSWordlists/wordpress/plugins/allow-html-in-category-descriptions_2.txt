@@ -1,0 +1,2 @@
+/html-in-category-descriptions.php
+/readme.txt

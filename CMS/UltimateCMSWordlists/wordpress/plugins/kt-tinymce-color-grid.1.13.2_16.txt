@@ -1,0 +1,16 @@
+/css/
+/css/a.png
+/css/alpha.png
+/css/beaver.css
+/css/elementor.css
+/css/marker.png
+/css/mask.png
+/css/settings.css
+/css/settings.scss
+/css/wheel.png
+/index.php
+/js/
+/js/ntc.js
+/js/settings.js
+/readme.txt
+/uninstall.php

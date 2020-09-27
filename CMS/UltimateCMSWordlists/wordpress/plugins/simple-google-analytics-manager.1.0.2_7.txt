@@ -1,0 +1,7 @@
+/LICENSE
+/LICENSE.zip
+/gamanager.php
+/options.php
+/readme.txt
+/screenshot-1.png
+/screenshot-2.png

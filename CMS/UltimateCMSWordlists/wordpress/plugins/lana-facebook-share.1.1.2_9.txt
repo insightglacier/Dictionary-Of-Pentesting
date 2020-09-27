@@ -1,0 +1,9 @@
+/assets/
+/assets/img/
+/assets/img/plugin-header.png
+/includes/
+/includes/class-lana-fb-hide-widget.php
+/lana-facebook-share.php
+/languages/
+/languages/lana-facebook-share.pot
+/readme.txt

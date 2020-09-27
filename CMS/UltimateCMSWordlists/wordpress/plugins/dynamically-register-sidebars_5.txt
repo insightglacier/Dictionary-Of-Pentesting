@@ -1,0 +1,5 @@
+/assets/
+/assets/sidebar-css.css
+/assets/sidebar-js.js
+/dynamically-register-sidebars.php
+/readme.txt

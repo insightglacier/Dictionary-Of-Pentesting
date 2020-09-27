@@ -1,0 +1,6 @@
+/LICENSE
+/options.php
+/readme.txt
+/screenshot-1.png
+/screenshot-2.png
+/whatconverts.php

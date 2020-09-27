@@ -1,0 +1,6 @@
+/equivalent-mobile-redirect.php
+/gpl-3.0.txt
+/includes/
+/includes/Mobile_Detect.php
+/includes/emr-options.php
+/readme.txt

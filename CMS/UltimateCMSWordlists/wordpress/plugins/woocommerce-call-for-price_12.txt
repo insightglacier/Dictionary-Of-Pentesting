@@ -1,0 +1,12 @@
+/includes/
+/includes/admin/
+/includes/admin/class-wc-call-for-price-settings-general.php
+/includes/admin/class-wc-call-for-price-settings-per-product.php
+/includes/admin/class-wc-call-for-price-settings-product-types.php
+/includes/admin/class-wc-settings-call-for-price.php
+/includes/class-wc-call-for-price-compatibility.php
+/includes/class-wc-call-for-price.php
+/langs/
+/langs/woocommerce-call-for-price.pot
+/readme.txt
+/woocommerce-call-for-price.php

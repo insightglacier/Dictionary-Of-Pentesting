@@ -1,0 +1,8 @@
+/bbembededpost.php
+/bbfbfollow.php
+/bbfblike.php
+/bbpluginhooks.php
+/bbsendweb.php
+/bbweblinklike.php
+/bigbossfbcomment.php
+/readme.txt

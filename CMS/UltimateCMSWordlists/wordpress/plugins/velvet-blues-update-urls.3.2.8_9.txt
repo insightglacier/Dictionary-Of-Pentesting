@@ -1,0 +1,9 @@
+/languages/
+/languages/velvet-blues-update-urls-en_US.mo
+/languages/velvet-blues-update-urls-en_US.po
+/languages/velvet-blues-update-urls-tr_TR.mo
+/languages/velvet-blues-update-urls-tr_TR.po
+/languages/velvet-blues-update-urls.pot
+/readme.txt
+/screenshot-1.png
+/velvet-blues-update-urls.php

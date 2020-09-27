@@ -1,0 +1,15 @@
+/assets/
+/assets/css/
+/assets/css/flipclock.css
+/assets/css/flipclock.min.css
+/assets/css/wp-server-stats-admin.css
+/assets/css/wp-server-stats-admin.min.css
+/assets/js/
+/assets/js/flipclock.js
+/assets/js/flipclock.min.js
+/assets/js/server-load-check.js
+/assets/js/server-load-check.min.js
+/index.php
+/readme.txt
+/uninstall.php
+/wp-server-stats.php

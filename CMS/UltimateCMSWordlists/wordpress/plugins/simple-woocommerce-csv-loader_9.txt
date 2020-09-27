@@ -1,0 +1,9 @@
+/CSVLoaderForWoocommerce.php
+/admin/
+/admin/CSVLoader.php
+/example.csv
+/languages/
+/languages/wc_csvl.mo
+/languages/wc_csvl.po
+/readme.txt
+/screenshot-1.png

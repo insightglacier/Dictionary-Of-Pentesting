@@ -1,0 +1,11 @@
+/languages/
+/languages/pw-transients-manager-de_DE.mo
+/languages/pw-transients-manager-de_DE.po
+/languages/pw-transients-manager-en.mo
+/languages/pw-transients-manager-en.po
+/languages/pw-transients-manager-pt_BR.mo
+/languages/pw-transients-manager-pt_BR.po
+/languages/pw-transients-manager.pot
+/readme.txt
+/screenshot-1.png
+/transients-manager.php

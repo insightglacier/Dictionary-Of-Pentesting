@@ -1,0 +1,14 @@
+/all-in-one-seo-pack.php
+/includes/
+/includes/admin.php
+/includes/common-dashboard_widgets.php
+/includes/common.php
+/includes/functions.php
+/languages/
+/languages/woo_ai-en_GB.mo
+/languages/woo_ai-en_GB.po
+/license.txt
+/readme.txt
+/templates/
+/templates/admin/
+/templates/admin/woo-admin_ai_aioseop.php

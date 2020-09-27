@@ -1,0 +1,8 @@
+/includes/
+/includes/admin/
+/includes/admin/class-prevent-browser-caching-admin-settings.php
+/includes/class-prevent-browser-caching-function.php
+/includes/class-prevent-browser-caching.php
+/lang/
+/prevent-browser-caching.php
+/readme.txt

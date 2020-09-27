@@ -1,0 +1,11 @@
+/ajax-loader.gif
+/copy_move_comments.php
+/copy_move_functions.php
+/css/
+/css/select2.min.css
+/js/
+/js/select2.min.js
+/readme.txt
+/screenshot-1.png
+/screenshot-2.png
+/screenshot-3.png

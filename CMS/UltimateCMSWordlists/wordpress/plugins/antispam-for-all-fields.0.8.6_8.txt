@@ -1,0 +1,8 @@
+/admin_menu.php
+/antispam-for-all-fields-core.php
+/antispam-for-all-fields.php
+/antispam-for-all-fields.php~
+/mijnpress_plugin_framework.php
+/readme.txt
+/screenshot-1.png
+/screenshot-2.png

@@ -1,0 +1,13 @@
+/admin.php
+/composer.json
+/composer.lock
+/inc/
+/inc/class-wpsweep-api.php
+/inc/class-wpsweep-command.php
+/index.php
+/js/
+/js/wp-sweep.js
+/js/wp-sweep.min.js
+/readme.txt
+/uninstall.php
+/wp-sweep.php

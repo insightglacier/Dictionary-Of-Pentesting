@@ -1,0 +1,12 @@
+/readme.txt
+/src/
+/src/Yoast_Purge_Attachment_Page_Server.php
+/src/Yoast_Purge_Attachment_Sitemap.php
+/src/Yoast_Purge_Attachment_Sitemap_Provider.php
+/src/Yoast_Purge_Control_Yoast_SEO_Settings.php
+/src/Yoast_Purge_Media_Settings_Tab_Content.php
+/src/Yoast_Purge_Options.php
+/src/Yoast_Purge_Plugin.php
+/src/Yoast_Purge_Require_Yoast_SEO_Version.php
+/src/Yoast_Purge_Upgrade.php
+/yoast-seo-search-index-purge.php

@@ -1,0 +1,4 @@
+/README.md
+/rapid-addon.php
+/readme.txt
+/yoast-addon.php

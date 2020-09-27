@@ -1,0 +1,4 @@
+/clean-wp-super-cache.php
+/readme.txt
+/script.js
+/style.css

@@ -1,0 +1,6 @@
+/email-address-encoder.php
+/includes/
+/includes/admin.php
+/includes/dismiss-notice.js
+/includes/ui.php
+/readme.txt

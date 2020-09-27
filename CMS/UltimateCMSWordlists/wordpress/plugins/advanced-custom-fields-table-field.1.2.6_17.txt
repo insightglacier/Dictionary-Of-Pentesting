@@ -1,0 +1,17 @@
+/acf-table-v4.php
+/acf-table-v5.php
+/acf-table.php
+/css/
+/css/input.css
+/js/
+/js/input-v4.js
+/js/input-v5.js
+/lang/
+/lang/acf-table-da_DK.mo
+/lang/acf-table-da_DK.po
+/lang/acf-table-de_DE.mo
+/lang/acf-table-de_DE.po
+/lang/acf-table-pl_PL.mo
+/lang/acf-table-pl_PL.po
+/lang/acf-table.pot
+/readme.txt

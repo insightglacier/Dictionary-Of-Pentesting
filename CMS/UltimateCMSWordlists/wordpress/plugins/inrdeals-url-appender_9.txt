@@ -1,0 +1,9 @@
+/css/
+/css/jquery-ui.css
+/css/style.css
+/img/
+/img/inrdeals.png
+/inrdeals-url-appender.php
+/js/
+/js/script.js
+/readme.txt

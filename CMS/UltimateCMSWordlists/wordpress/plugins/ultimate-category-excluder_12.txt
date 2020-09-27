@@ -1,0 +1,12 @@
+/languages/
+/languages/UCE-da_DK.mo
+/languages/UCE-da_DK.po
+/languages/UCE-de_DE.mo
+/languages/UCE-de_DE.po
+/languages/UCE-en_EN.mo
+/languages/UCE-en_EN.po
+/languages/UCE-pt_BR.mo
+/languages/UCE-pt_BR.po
+/languages/UCE.pot
+/readme.txt
+/ultimate-category-excluder.php

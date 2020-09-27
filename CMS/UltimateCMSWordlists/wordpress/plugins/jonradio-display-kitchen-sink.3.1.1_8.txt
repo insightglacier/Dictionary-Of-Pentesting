@@ -1,0 +1,8 @@
+/includes/
+/includes/admin-settings.php
+/includes/admin.php
+/includes/index.html
+/index.html
+/jonradio-display-kitchen-sink.php
+/readme.txt
+/uninstall.php

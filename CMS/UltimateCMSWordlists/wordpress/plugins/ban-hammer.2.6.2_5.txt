@@ -1,0 +1,5 @@
+/ban-hammer.php
+/changelog.txt
+/phpcs.xml.dist
+/readme.txt
+/uninstall.php

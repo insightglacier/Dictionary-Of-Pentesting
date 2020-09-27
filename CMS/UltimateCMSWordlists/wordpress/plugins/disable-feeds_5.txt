@@ -1,0 +1,5 @@
+/disable-feeds.php
+/languages/
+/languages/disable-feeds.pot
+/readme.txt
+/uninstall.php

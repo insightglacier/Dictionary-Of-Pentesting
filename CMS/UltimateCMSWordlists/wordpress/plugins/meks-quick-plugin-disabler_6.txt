@@ -1,0 +1,6 @@
+/languages/
+/languages/meks-quick-plugin-disabler-en_US.mo
+/languages/meks-quick-plugin-disabler-en_US.po
+/languages/meks-quick-plugin-disabler.pot
+/meks-quick-plugin-disabler.php
+/readme.txt

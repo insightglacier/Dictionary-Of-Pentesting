@@ -1,0 +1,6 @@
+/LICENSE
+/googletagmanager.php
+/options.php
+/readme.txt
+/screenshot-1.png
+/screenshot-2.png

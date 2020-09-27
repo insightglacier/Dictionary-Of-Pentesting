@@ -1,0 +1,24 @@
+/admin.php
+/ajax/
+/ajax/news.php
+/classes.php
+/cryptx.php
+/fonts/
+/fonts/Arial.ttf
+/fonts/Times New Roman.ttf
+/fonts/Verdana.ttf
+/functions.php
+/icon.png
+/icon32.png
+/images/
+/images/mail.gif
+/images/mail_small.gif
+/js/
+/js/cryptx.js
+/js/cryptx.min.js
+/languages/
+/languages/cryptx-de_DE.mo
+/languages/cryptx-de_DE.po
+/readme.txt
+/screenshot-1.png
+/screenshot-2.png

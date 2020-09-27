@@ -1,0 +1,11 @@
+/assets/
+/assets/custom.css
+/assets/custom.js
+/emails-catch-all.php
+/langs/
+/langs/secas-en_US.mo
+/langs/secas-en_US.po
+/langs/secas-ro_RO.mo
+/langs/secas-ro_RO.po
+/langs/secas.pot
+/readme.txt

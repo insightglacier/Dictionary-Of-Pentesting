@@ -1,0 +1,4 @@
+/CHANGELOG.md
+/LICENSE.txt
+/display-posts-shortcode.php
+/readme.txt

@@ -1,0 +1,11 @@
+/assets/
+/assets/css/
+/assets/css/admin.css
+/assets/js/
+/assets/js/admin.js
+/assets/js/controls.js
+/plugin.php
+/readme.txt
+/screenshot-1.png
+/src/
+/src/class-cf7-extras.php

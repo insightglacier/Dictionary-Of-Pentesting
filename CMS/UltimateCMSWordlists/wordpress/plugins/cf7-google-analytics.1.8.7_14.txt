@@ -1,0 +1,14 @@
+/cf7-google-analytics.php
+/gruntfile.js
+/inc/
+/inc/class-cf7-google-analytics.php
+/js/
+/js/admin.js
+/js/admin.min.js
+/js/cf7-google-analytics.js
+/js/cf7-google-analytics.min.js
+/languages/
+/languages/cf7-google-analytics.pot
+/package-lock.json
+/readme.txt
+/shrinkwrap.yaml

@@ -1,0 +1,3 @@
+/astra-theme-visual-hooks.php
+/class-astra-theme-visual-hooks.php
+/readme.txt

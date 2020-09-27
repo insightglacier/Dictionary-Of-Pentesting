@@ -1,0 +1,2 @@
+/readme.txt
+/wc-delete-all-orders.php

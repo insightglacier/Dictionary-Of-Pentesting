@@ -1,0 +1,12 @@
+/external/
+/external/ninja.php
+/handl-utm-grabber.php
+/js/
+/js/handl-utm-grabber.js
+/js/js.cookie.js
+/readme.txt
+/screenshot-1.png
+/screenshot-2.png
+/screenshot-3.png
+/screenshot-4.png
+/simple_html_dom.php

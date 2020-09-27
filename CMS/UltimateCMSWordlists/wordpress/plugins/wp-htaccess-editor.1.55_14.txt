@@ -1,0 +1,14 @@
+/css/
+/css/sweetalert2.min.css
+/css/wp-htaccess-editor.css
+/img/
+/img/loading-icon.png
+/img/wp-htaccess-editor-logo.png
+/js/
+/js/cm-resize.min.js
+/js/sweetalert2.min.js
+/js/wp-htaccess-editor-pointers.js
+/js/wp-htaccess-editor.js
+/license.txt
+/readme.txt
+/wp-htaccess-editor.php

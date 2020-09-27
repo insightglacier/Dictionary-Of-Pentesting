@@ -1,0 +1,5 @@
+/custom-product-tabs-wp-all-import-add-on.php
+/languages/
+/languages/custom-product-tabs-wp-all-import-add-on.pot
+/rapid-addon.php
+/readme.txt

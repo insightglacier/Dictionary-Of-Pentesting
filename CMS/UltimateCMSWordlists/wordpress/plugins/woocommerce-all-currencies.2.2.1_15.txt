@@ -1,0 +1,15 @@
+/includes/
+/includes/class-wc-currencies-core.php
+/includes/currencies.php
+/includes/settings/
+/includes/settings/class-wc-currencies-settings-custom.php
+/includes/settings/class-wc-currencies-settings-general.php
+/includes/settings/class-wc-currencies-settings-list-crypto.php
+/includes/settings/class-wc-currencies-settings-list.php
+/includes/settings/class-wc-currencies-settings-section.php
+/includes/settings/class-wc-settings-currencies.php
+/includes/settings/settings-functions.php
+/langs/
+/langs/woocommerce-all-currencies.pot
+/readme.txt
+/woocommerce-all-currencies.php

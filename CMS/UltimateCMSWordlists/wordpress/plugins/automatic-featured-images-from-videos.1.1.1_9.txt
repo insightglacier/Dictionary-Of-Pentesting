@@ -1,0 +1,9 @@
+/README.md
+/automatic-featured-images-from-videos.php
+/includes/
+/includes/ajax.php
+/includes/bulk-operations.php
+/includes/cli.php
+/js/
+/js/button.js
+/readme.txt

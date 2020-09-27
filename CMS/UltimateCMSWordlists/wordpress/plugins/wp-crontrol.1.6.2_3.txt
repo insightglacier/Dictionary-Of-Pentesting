@@ -1,0 +1,3 @@
+/COPYING
+/readme.txt
+/wp-crontrol.php

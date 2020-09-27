@@ -1,0 +1,4 @@
+/license.txt
+/loginlockdown.php
+/readme.txt
+/version.txt

@@ -1,0 +1,5 @@
+/inc/
+/inc/functions.php
+/inc/hooks.php
+/index.php
+/readme.txt

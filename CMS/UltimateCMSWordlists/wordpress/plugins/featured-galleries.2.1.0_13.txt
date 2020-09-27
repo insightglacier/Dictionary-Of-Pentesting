@@ -1,0 +1,13 @@
+/assets/
+/assets/scripts/
+/assets/scripts/fg-admin.js
+/assets/stylesheets/
+/assets/stylesheets/fg-admin.css
+/featured-galleries.php
+/includes/
+/includes/controller.php
+/includes/public-functions.php
+/languages/
+/languages/featured-gallery-de_DE.mo
+/languages/featured-gallery-de_DE.po
+/readme.txt

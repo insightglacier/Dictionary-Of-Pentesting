@@ -1,0 +1,6 @@
+/index.php
+/languages/
+/languages/index.php
+/languages/sidebar_content_clone
+/readme.txt
+/sidebar-content-clone.php

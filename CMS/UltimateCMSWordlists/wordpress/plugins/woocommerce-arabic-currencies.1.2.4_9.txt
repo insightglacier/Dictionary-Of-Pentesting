@@ -1,0 +1,9 @@
+/lang/
+/lang/woocommerce-arabic-currencies-ar.mo
+/lang/woocommerce-arabic-currencies-ar.po
+/lang/woocommerce-arabic-currencies-ary.mo
+/lang/woocommerce-arabic-currencies-ary.po
+/lang/woocommerce-arabic-currencies.pot
+/readme.txt
+/screenshot-1.png
+/woocommerce-arabic-currencies.php

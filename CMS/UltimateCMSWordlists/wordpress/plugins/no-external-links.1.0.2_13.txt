@@ -1,0 +1,13 @@
+/externallink.png
+/lang/
+/lang/no-external-links-es_ES.mo
+/lang/no-external-links-es_ES.po
+/lang/no-external-links-ru_RU.mo
+/lang/no-external-links-ru_RU.po
+/no-external-links-custom-parser.sample.php
+/no-external-links-options.php
+/no-external-links-parser.php
+/no-external-links.php
+/readme.rus.txt
+/readme.txt
+/uninstall.php

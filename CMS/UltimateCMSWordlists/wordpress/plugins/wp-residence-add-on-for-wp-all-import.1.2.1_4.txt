@@ -1,0 +1,4 @@
+/rapid-addon.php
+/readme.md
+/readme.txt
+/wp-residence-add-on.php

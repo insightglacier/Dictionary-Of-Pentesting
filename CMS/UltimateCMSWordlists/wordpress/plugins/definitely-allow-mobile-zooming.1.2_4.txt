@@ -1,0 +1,4 @@
+/LICENSE.txt
+/README.txt
+/definitely-allow-mobile-zooming.php
+/index.php

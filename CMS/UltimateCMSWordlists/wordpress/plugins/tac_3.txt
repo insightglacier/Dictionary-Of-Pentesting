@@ -1,0 +1,3 @@
+/readme.txt
+/screenshot-1.jpg
+/tac.php

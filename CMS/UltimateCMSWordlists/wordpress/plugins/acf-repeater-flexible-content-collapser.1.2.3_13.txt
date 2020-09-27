@@ -1,0 +1,13 @@
+/acf-repeater-flexible-content-collapser.php
+/assets/
+/assets/css/
+/assets/css/acf-repeater-flexible-content-collapser.css
+/assets/js/
+/assets/js/acf-repeater-flexible-content-collapser.js
+/languages/
+/languages/acf-collapse-fields-de_DE.mo
+/languages/acf-collapse-fields-de_DE.po
+/languages/acf-collapse-fields-de_DE_formal.mo
+/languages/acf-collapse-fields-de_DE_formal.po
+/languages/acf-collapse-fields.pot
+/readme.txt

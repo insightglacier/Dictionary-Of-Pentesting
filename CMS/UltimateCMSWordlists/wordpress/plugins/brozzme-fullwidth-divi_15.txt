@@ -1,0 +1,15 @@
+/brozzme_fullwidth_divi.php
+/css/
+/css/brozzme-admin-css.css
+/includes/
+/includes/brozzme_fullwidth_divi_core.php
+/includes/brozzme_fullwidth_divi_settings.php
+/includes/brozzme_plugins_page.php
+/includes/img/
+/includes/img/anim-wpserveur---300.gif
+/includes/img/logo-wps-200x200px.png
+/languages/
+/languages/brozzme-fullwidth-divi-fr_FR.mo
+/languages/brozzme-fullwidth-divi-fr_FR.po
+/languages/brozzme-fullwidth-divi.pot
+/readme.txt

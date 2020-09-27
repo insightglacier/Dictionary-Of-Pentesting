@@ -1,0 +1,4 @@
+/disable-woocommerce-reviews.php
+/languages/
+/languages/disable-woocommerce-reviews.pot
+/readme.txt

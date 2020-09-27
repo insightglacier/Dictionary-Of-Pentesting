@@ -1,0 +1,5 @@
+/languages/
+/languages/wp-super-cache-clear-cache-menu-es_ES.mo
+/languages/wp-super-cache-clear-cache-menu-es_ES.po
+/readme.txt
+/wp-super-cache-clear-cache-menu.php

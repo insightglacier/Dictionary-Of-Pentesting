@@ -1,0 +1,11 @@
+/epl-wp-all-import.php
+/includes/
+/includes/hooks.php
+/includes/importer.php
+/includes/index.php
+/includes/meta-boxes.php
+/includes/rapid-addon.php
+/languages/
+/languages/epl-wpimport.pot
+/license.txt
+/readme.txt

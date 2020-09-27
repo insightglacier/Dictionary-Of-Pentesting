@@ -1,0 +1,4 @@
+/README.txt
+/rapid-addon.php
+/wpcasa-all-import.php
+/wpcasa.csv

@@ -1,0 +1,2 @@
+/honeypot.php
+/readme.txt

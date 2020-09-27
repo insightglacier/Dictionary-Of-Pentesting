@@ -1,0 +1,5 @@
+/Readme.txt
+/convertfox.php
+/convertfoxjs.php
+/page.php
+/uninstall.php

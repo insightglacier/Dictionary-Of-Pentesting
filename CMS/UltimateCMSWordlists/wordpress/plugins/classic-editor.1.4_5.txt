@@ -1,0 +1,5 @@
+/LICENSE.md
+/classic-editor.php
+/js/
+/js/block-editor-plugin.js
+/readme.txt

@@ -1,0 +1,8 @@
+/css/
+/css/admin/
+/css/admin/ili-admin.css
+/ili-indent-lists-button.php
+/js/
+/js/mce-plugin.js
+/languages/
+/readme.txt

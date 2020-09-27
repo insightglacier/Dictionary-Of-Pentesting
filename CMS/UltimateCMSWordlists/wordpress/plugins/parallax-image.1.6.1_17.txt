@@ -1,0 +1,17 @@
+/.gitattributes
+/.gitignore
+/assets/
+/assets/admin-scripts.php
+/assets/css/
+/assets/css/admin.css
+/assets/css/duck-parallax.css
+/assets/js/
+/assets/js/dd-parallax-offset.js
+/assets/js/parallax.min.js
+/assets/js/tiny-mce-button.js
+/assets/mobile_detect.php
+/assets/shortcode.php
+/index.php
+/parallax-image.php
+/readme.md
+/readme.txt

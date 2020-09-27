@@ -1,0 +1,4 @@
+/honeypot.php
+/languages/
+/languages/readme.txt
+/readme.txt

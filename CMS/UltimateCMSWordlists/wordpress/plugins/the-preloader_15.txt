@@ -1,0 +1,15 @@
+/banner/
+/banner/bh.png
+/banner/et.jpg
+/banner/index.php
+/images/
+/images/index.php
+/images/preloader.GIF
+/index.php
+/js/
+/js/index.php
+/js/preloader-script.js
+/preloader.php
+/readme.txt
+/settings.php
+/uninstall.php

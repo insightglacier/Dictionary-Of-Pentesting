@@ -1,0 +1,7 @@
+/assets/
+/assets/lity/
+/assets/lity/lity.min.css
+/assets/lity/lity.min.js
+/flowpaper.php
+/readme.txt
+/screenshot-1.jpg

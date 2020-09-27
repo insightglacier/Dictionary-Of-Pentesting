@@ -1,0 +1,7 @@
+/default.mo
+/default.pot
+/en-spam-he_IL.mo
+/en-spam-he_IL.po
+/en-spam.js
+/en-spam.php
+/readme.txt

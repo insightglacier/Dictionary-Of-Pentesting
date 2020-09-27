@@ -1,0 +1,9 @@
+/open-external-links-in-a-new-window-da_DK.mo
+/open-external-links-in-a-new-window-da_DK.po
+/open-external-links-in-a-new-window-lt_LT.mo
+/open-external-links-in-a-new-window-lt_LT.po
+/open-external-links-in-a-new-window-nl_NL.mo
+/open-external-links-in-a-new-window-nl_NL.po
+/open-external-links-in-a-new-window.php
+/open-external-links-in-a-new-window.pot
+/readme.txt

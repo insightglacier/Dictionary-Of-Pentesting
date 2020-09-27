@@ -1,0 +1,4 @@
+/.gitignore
+/qmr.php
+/quotmarks-replacer.php
+/readme.txt

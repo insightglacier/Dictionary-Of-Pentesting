@@ -1,0 +1,12 @@
+/.gitignore
+/LICENSE
+/css/
+/css/hwl-admin.css
+/host-webfonts-local.php
+/includes/
+/includes/generate-stylesheet.php
+/includes/welcome-panel.php
+/js/
+/js/hwl-admin.js
+/readme.md
+/readme.txt

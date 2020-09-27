@@ -1,0 +1,2 @@
+/hide-admin-bar-from-non-admins.php
+/readme.txt

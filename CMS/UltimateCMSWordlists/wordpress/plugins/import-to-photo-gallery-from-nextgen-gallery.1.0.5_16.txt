@@ -1,0 +1,16 @@
+/admin/
+/admin/controllers/
+/admin/controllers/PGIControllerImport_pgi.php
+/admin/models/
+/admin/models/PGIModelImport_pgi.php
+/admin/views/
+/admin/views/PGIViewImport_pgi.php
+/css/
+/css/pgi_main.css
+/images/
+/images/icon-16x16.png
+/images/import-icon.png
+/js/
+/js/pgi.js
+/ngitopg.php
+/readme.txt

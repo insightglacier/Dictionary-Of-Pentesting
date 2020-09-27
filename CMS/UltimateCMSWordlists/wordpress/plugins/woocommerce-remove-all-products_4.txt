@@ -1,0 +1,4 @@
+/languages/
+/languages/woocommerce-remove-all-products.pot
+/readme.txt
+/woocommerce-remove-all-products.php

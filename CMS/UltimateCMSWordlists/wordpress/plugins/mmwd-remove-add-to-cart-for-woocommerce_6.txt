@@ -1,0 +1,6 @@
+/languages/
+/languages/mmwd-ratc-en_GB.mo
+/languages/mmwd-ratc-en_GB.po
+/languages/mmwd-remove-add-to-cart-for-woocommerce.pot
+/mmwd-remove-add-to-cart-for-woocommerce.php
+/readme.txt

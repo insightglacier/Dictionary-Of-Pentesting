@@ -1,0 +1,6 @@
+/add-featuredimage-to-all-posts.php
+/languages/
+/languages/add-featuredimage-to-all-posts-ja.mo
+/languages/add-featuredimage-to-all-posts-ja.po
+/languages/add-featuredimage-to-all-posts.pot
+/readme.txt

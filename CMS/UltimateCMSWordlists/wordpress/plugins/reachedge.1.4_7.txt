@@ -1,0 +1,7 @@
+/LICENSE.txt
+/README.md
+/README.txt
+/docker-compose.yml
+/reachedge-tracking-plugin-settings.php
+/reachedge-tracking-plugin.php
+/uninstall.php

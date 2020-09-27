@@ -1,0 +1,7 @@
+/includes/
+/includes/admin-options.php
+/includes/data-processing.php
+/languages/
+/new-page-link.php
+/readme.txt
+/uninstall.php

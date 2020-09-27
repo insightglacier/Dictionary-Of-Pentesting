@@ -1,0 +1,15 @@
+/js/
+/js/q2w3-fixed-widget.js
+/js/q2w3-fixed-widget.min.js
+/lang/
+/lang/q2w3-fixed-widget-de_DE.mo
+/lang/q2w3-fixed-widget-de_DE.po
+/lang/q2w3-fixed-widget-es_ES.mo
+/lang/q2w3-fixed-widget-es_ES.po
+/lang/q2w3-fixed-widget-fr_FR.mo
+/lang/q2w3-fixed-widget-fr_FR.po
+/lang/q2w3-fixed-widget-ru_RU.mo
+/lang/q2w3-fixed-widget-ru_RU.po
+/q2w3-fixed-widget.php
+/readme.txt
+/uninstall.php

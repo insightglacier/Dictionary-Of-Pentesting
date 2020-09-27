@@ -1,0 +1,6 @@
+/langs/
+/langs/sislrc-ro_RO.mo
+/langs/sislrc-ro_RO.po
+/langs/sislrc.pot
+/login-restrict-country.php
+/readme.txt

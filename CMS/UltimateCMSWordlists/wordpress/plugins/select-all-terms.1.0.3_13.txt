@@ -1,0 +1,13 @@
+/index.php
+/js/
+/js/index.php
+/js/select-all-terms.js
+/lang/
+/lang/index.php
+/lang/select-all-terms-es_ES.mo
+/lang/select-all-terms-es_ES.po
+/lang/select-all-terms-pt_PT.mo
+/lang/select-all-terms-pt_PT.po
+/lang/select-all-terms.pot
+/readme.txt
+/select-all-terms.php

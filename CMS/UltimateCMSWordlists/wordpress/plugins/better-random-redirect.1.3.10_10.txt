@@ -1,0 +1,10 @@
+/admin.php
+/better-random-redirect.php
+/classes/
+/classes/BetterRandomRedirect.php
+/classes/BrrFilter.php
+/classes/QtranslatexFilter.php
+/languages/
+/languages/better_random_redirect-es_ES.mo
+/languages/better_random_redirect-es_ES.po
+/readme.txt

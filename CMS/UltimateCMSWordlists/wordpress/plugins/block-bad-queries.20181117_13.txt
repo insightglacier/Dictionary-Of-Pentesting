@@ -1,0 +1,13 @@
+/assets/
+/assets/admin-styles.css
+/assets/bbq-icon-88x88.png
+/assets/bbq-pro-960x250.jpg
+/bbq-settings.php
+/block-bad-queries.php
+/languages/
+/languages/block-bad-queries-fr_FR.mo
+/languages/block-bad-queries-fr_FR.po
+/languages/block-bad-queries.pot
+/license.txt
+/readme.txt
+/uninstall.php

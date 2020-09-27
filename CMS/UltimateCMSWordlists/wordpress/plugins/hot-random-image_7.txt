@@ -1,0 +1,7 @@
+/hot_random_image.php
+/languages/
+/languages/hot_random_image.mo
+/languages/hot_random_image.po
+/readme.txt
+/screenshot-1.jpg
+/screenshot-2.png

@@ -1,0 +1,2 @@
+/huzzaz.php
+/readme.txt

@@ -1,0 +1,15 @@
+/class-gst-woocommerce-addon.php
+/css/
+/css/custom.css
+/images/
+/images/callout.gif
+/images/info.png
+/inc/
+/inc/class-wc-dependencies.php
+/inc/functions.php
+/index.php
+/readme.txt
+/screenshot-1.png
+/screenshot-2.png
+/screenshot-3.png
+/woocommerce-gst-addon.php

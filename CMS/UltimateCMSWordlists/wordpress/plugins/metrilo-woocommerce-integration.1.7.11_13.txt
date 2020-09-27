@@ -1,0 +1,13 @@
+/README.md
+/includes/
+/includes/integration.php
+/includes/js.php
+/includes/metrilo_import.php
+/includes/render_footer_tracking_events.php
+/includes/render_identify.php
+/includes/render_tracking_events.php
+/includes/settings.php
+/includes/views/
+/includes/views/metrilo_import_view.php
+/metrilo-woocommerce-integration.php
+/readme.txt

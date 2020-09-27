@@ -1,0 +1,7 @@
+/clear-cache-for-action.php
+/clear-cache-for-widgets.php
+/lang/
+/lang/ccfm-de_DE.mo
+/lang/ccfm-de_DE.po
+/lang/ccfm.pot
+/readme.txt

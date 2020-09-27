@@ -1,0 +1,2 @@
+/featured-image-in-content.php
+/readme.txt

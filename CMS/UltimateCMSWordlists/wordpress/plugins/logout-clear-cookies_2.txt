@@ -1,0 +1,2 @@
+/logout-clear-cookies.php
+/readme.txt

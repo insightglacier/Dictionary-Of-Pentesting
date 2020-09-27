@@ -1,0 +1,12 @@
+/css/
+/css/admin.css
+/includes/
+/includes/class-tgm-plugin-activation.php
+/index.php
+/languages/
+/languages/sportspress-for-baseball-ja.mo
+/languages/sportspress-for-baseball-ja.po
+/languages/sportspress-for-baseball.pot
+/license.txt
+/readme.txt
+/sportspress-for-baseball.php

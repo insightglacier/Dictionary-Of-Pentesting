@@ -1,0 +1,7 @@
+/feedpress.php
+/languages/
+/languages/feedpress-de.mo
+/languages/feedpress-de.po
+/languages/feedpress-fr_FR.mo
+/languages/feedpress-fr_FR.po
+/readme.txt

@@ -1,0 +1,10 @@
+/assets/
+/assets/icon-128x128.png
+/assets/icon-256x256.png
+/assets/icon.svg
+/assets/media.css
+/assets/resp-icon.png
+/index.php
+/readme.txt
+/vc-sar-element.php
+/vc-simple-all-responsive.php

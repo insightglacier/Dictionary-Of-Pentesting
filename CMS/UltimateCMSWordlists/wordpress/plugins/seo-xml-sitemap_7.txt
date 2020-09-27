@@ -1,0 +1,7 @@
+/generate-xml.php
+/index.php
+/plugin-config.html
+/readme.txt
+/screenshot-1.png
+/screenshot-2.png
+/sitemap.png

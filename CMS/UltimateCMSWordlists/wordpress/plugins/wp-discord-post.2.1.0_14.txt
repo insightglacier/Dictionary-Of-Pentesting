@@ -1,0 +1,14 @@
+/includes/
+/includes/class-wp-discord-post-admin.php
+/includes/class-wp-discord-post-contact-form-7.php
+/includes/class-wp-discord-post-dank-meme.php
+/includes/class-wp-discord-post-formatting.php
+/includes/class-wp-discord-post-gravityforms.php
+/includes/class-wp-discord-post-http.php
+/includes/class-wp-discord-post-jetpack-contact-form.php
+/includes/class-wp-discord-post-post.php
+/includes/class-wp-discord-post-woocommerce.php
+/includes/functions-general.php
+/languages/
+/readme.txt
+/wp-discord-post.php

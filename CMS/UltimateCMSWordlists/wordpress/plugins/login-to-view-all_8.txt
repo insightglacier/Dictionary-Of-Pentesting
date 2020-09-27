@@ -1,0 +1,8 @@
+/languages/
+/languages/ludouview-zh_CN.mo
+/languages/ludouview-zh_CN.po
+/login-to-view-all.js
+/login-to-view-all.php
+/readme.txt
+/screenshot-1.jpg
+/screenshot-2.jpg

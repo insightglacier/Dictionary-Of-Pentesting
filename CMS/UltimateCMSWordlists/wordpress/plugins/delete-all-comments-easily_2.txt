@@ -1,0 +1,2 @@
+/delete all comments easily.php
+/readme.txt

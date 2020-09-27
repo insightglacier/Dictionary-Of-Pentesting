@@ -1,0 +1,8 @@
+/api-key-for-google-maps.php
+/gd_banner.jpg
+/index.php
+/languages/
+/languages/gmaps-api-key.mo
+/languages/gmaps-api-key.po
+/license.txt
+/readme.txt

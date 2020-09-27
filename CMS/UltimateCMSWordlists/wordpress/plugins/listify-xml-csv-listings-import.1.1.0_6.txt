@@ -1,0 +1,6 @@
+/js/
+/js/listify-addon-js.js
+/listify-add-on.php
+/rapid-addon.php
+/readme.md
+/readme.txt

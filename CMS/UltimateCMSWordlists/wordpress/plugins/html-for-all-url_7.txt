@@ -1,0 +1,7 @@
+/admin/
+/admin/class-hfa-setting.php
+/admin/style.css
+/class-html-for-all.php
+/hfa-main.php
+/index.php
+/readme.txt

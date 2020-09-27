@@ -1,0 +1,2 @@
+/batch-comment-spam-deletion.php
+/readme.txt

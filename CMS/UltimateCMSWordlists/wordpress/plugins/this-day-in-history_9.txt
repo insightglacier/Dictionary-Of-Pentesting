@@ -1,0 +1,9 @@
+/default-single-tdih_event.php
+/readme.txt
+/tdih-init.class.php
+/tdih-list-table.class.php
+/tdih-shortcodes.php
+/tdih-widget.php
+/tdih.css
+/this-day-in-history.php
+/uninstall.php
