@@ -1,0 +1,117 @@
+Dom XSS regular
+patron = "(location\s*[\[.])|([.\[]\s*["']?\s*(arguments|dialogArguments|innerHTML|write(ln)?|open(Dialog)?|showModalDialog|cookie|URL|documentURI|baseURI|referrer|location|name|opener|parent|top|content|self|frames)\W)|(localStorage|sessionStorage|Database)"
+
+OS/Command Injection   JAVA/JAVAScript
+"(?=.*(System.Diagnostics.Process.Start\\(.*(\\\"|\\¡¯).+(\\\"|\\¡¯).*\\)|wshell.run|\\;\\s*cat\\s*\\/etc\\/hosts|\r\ngetenv\\(.*(\\\"|\\¡¯).+(\\\"|\\¡¯).*\\)|System.Diagnostics.ProcessStartInfo\\(.*(\\\"|\\¡¯).+(\\\"|\\¡¯).*\\)|\r\nProcess.Start\\(.*(\\\"|\\¡¯).+(\\\"|\\¡¯).*\\)|ProcessStartInfo\\(.*(\\\"|\\¡¯).+(\\\"|\\¡¯).*\\)|\r\n.Arguments\\s*\\=\\s*.*(\\\"|\\¡¯).+(\\\"|\\¡¯).*|.FileName\\s*\\=\\s*.*(\\\"|\\¡¯).+(\\\"|\\¡¯).*|.set_FileName\\(|.set_Arguments\\(|\r\nSystem\\s*.[A-Za-z]*Exception|\r\n(Process|ProcessStartInfo)\\s*.\\s*(Start|FileName|setFileName|set_FileName|Arguments|setArguments|set_Arguments)\r\n))
+
+React JS   Cross Site Scripting
+(?=.*(window.\\_\\_PRELOADED\\_STATE\\_\\_\\s*=\\s*\\$\\{JSON.Stringify\\(preloadedState\\)}))
+
+Log Injection   Node js 
+(?=.*(logger\\.error\\(.*\\+\\s*(user|uname|name|password|pass).*\\)))
+
+SQL Injection
+"(?=.*(connection\\.query\\(.*\\+\\s*[a-zA-Z0-9_]+.*\\)))
+
+Node JS  Code Injection
+(?=.*((new\\sFunction\\(.*\\))|setInterval\\(.*\\)|setTimeout\\(.*\\)|(\\=\\s+\\'\\;\\s+rm\\s+\\-rf)|eval\\(.*\\)|((http|https)\\:\\/\\/.*\\?file\\_path\\=.*)))
+
+Js 
+(?=.*(child\\_process.exec\\s*\\())
+
+Cross Site Injection(XSS)
+(?=.*(document\\.cookie\\.split\\(.*\\)|\\.enable\\(\\'X\\-powered\\-by\\'\\)|object\\.escapeMarkup\\s*\\=\\s*false|require\\(.*\\)|router\\.get\\(.*function.*\\)))
+Angular 2.0
+(?=.*(body.*ng-app.*|\\$sceProvider\\.enabled\\(\\s*false\\)))
+Potential-XSS  Angular 2.0
+(?=.*(\\$)(watch|watchGroup|watchCollection|eval|evalAsync|apply|applyAsync|compile|parse|interpolate))
+
+
+PHP ÓïÑÔ
+((require|include)((_once)*)|fopen|file_get_contents)(?:(?:["'`$(\s]|(\/\*(?:[\S\s][^\*\/]*)\*\/)|\/\*\*\/|((\/\/|#))(?:[\S\s][^"'`]*))+)(?:.*)\$_(?:GET|POST|COOKIE|REQUEST|ENV|SERVER\[(?:.*HTTP_|.*QUERY_STRING|.*REQUEST_URI)|FILES\[(?:(?!.*tmp_name|.*size).*)])
+regex_indicators = '\((.*?)(\$_GET\[.*?\]|\$_FILES\[.*?\]|\$_POST\[.*?\]|\$_REQUEST\[.*?\]|\$_COOKIES\[.*?\]|\$_SESSION\[.*?\]|\$(?!this|e-)[a-zA-Z0-9_]*)(.*?)\)'
+
+Remote File Include ,file_read
+((require|include)((_once)*)|fopen|file_get_contents)(?:(?:["'`$(\s]|(\/\*(?:[\S\s][^\*\/]*)\*\/)|\/\*\*\/|((\/\/|#))(?:[\S\s][^"'`]*))+)(?:.*)\$_(?:GET|POST|COOKIE|REQUEST|ENV|SERVER\[(?:.*HTTP_|.*QUERY_STRING|.*REQUEST_URI)|FILES\[(?:(?!.*tmp_name|.*size).*)])
+Ä£ºýµÄÆ¥Åä
+((require|include)((_once)*)|fopen|file_get_contents)(?:(?:["'`$(\s]|(\/\*(?:[\S\s][^\*\/]*)\*\/)|\/\*\*\/|((\/\/|#))(?:[\S\s][^"'`]*))+)(?:.*)\$([a-zA-Z_\x7f-\xff][a-zA-Z0-9_\x7f-\xff]*))
+
+´úÂëÖ´ÐÐÂ©¶´
+(unserialize|assert|passthru|(?<!curl_)(shell|pcntl|)exec|(\s|=)system|(expect_|)popen|proc_open|eval|dl|register_tick_function|register_shutdown_function)(?:(?:["'`$(\s]|(\/\*(?:[\S\s][^\*\/]*)\*\/)|\/\*\*\/|((\/\/|#))(?:[\S\s][^"'`]*))+)
+ 
+ PHP Code / Object Execution (predicted via php_sapi_name checks)
+(php_sapi_name(?:\()(?:.*)\))(?:[\S\s]*?)((aolserver|apache(?:(2(filter|handler))*)|caudium|cgi((-fcgi)*)|continuity|embed|fpm-fcgi|isapi|litespeed|milter|nsapi|phttpd|pi3web|roxen|thttpd|tux|webjames){1})(?:((["'\]`]{1}))((([\s:),;])+)(?:\.([\s]+)\$([a-zA-Z_\x7f-\xff][a-zA-Z0-9_\x7f-\xff]*))*))|((aolserver|apache(?:(2(filter|handler))*)|caudium|cgi((-fcgi)*)|continuity|embed|fpm-fcgi|isapi|litespeed|milter|nsapi|phttpd|pi3web|roxen|thttpd|tux|webjames){1})(?:((["'\]`]{1}))((([\s:),;])+)(?:\.([\s]+)\$([a-zA-Z_\x7f-\xff][a-zA-Z0-9_\x7f-\xff]*))*))(?:[\S\s]*?)php_sapi_name(?:\()(?:.*)\)
+
+XSS
+(echo|((v|)print(_r|f|)|exit|die|var_dump|trigger_error|user_error|odbc_result_all|ovrimos_result_all|ifx_htmltbl_result))(?:(?:["'`$(\s]|(\/\*(?:[\S\s][^\*\/]*)\*\/)|\/\*\*\/|((\/\/|#))(?:[\S\s][^"'`]*))+)(?:.*)\$_(?:GET|POST|COOKIE|REQUEST|ENV|SERVER|FILES)
+
+Wordpress SQL Injection
+\$(([a-zA-Z_\x7f-\xff][a-zA-Z0-9_\x7f-\xff]{0,6})*)db->(get_([a-zA-Z0-9_]+))(?:(?:["'`$(\s]|(\/\*(?:[\S\s][^\*\/]*)\*\/)|\/\*\*\/|((\/\/|#))(?:[\S\s][^"'`]*))+)(?!(.*)([a-zA-Z0-9_]{0,6})db->prepare)(?:.*)\$_(?:GET|POST|COOKIE|REQUEST|ENV|SERVER\[(?:.*HTTP_|.*QUERY_STRING|.*REQUEST_URI)|FILES\[(?:(?!.*tmp_name|.*size).*)])(?!([a-zA-Z_\x7f-\xff][a-zA-Z0-9_\x7f-\xff]{0,6})db)(.*?;)
+
+\$(([a-zA-Z_\x7f-\xff][a-zA-Z0-9_\x7f-\xff]{0,6})*)db->(get_([a-zA-Z0-9_]+))(?:(?:["'`$(\s]|(\/\*(?:[\S\s][^\*\/]*)\*\/)|\/\*\*\/|((\/\/|#))(?:[\S\s][^"'`]*))+)(?!(.*)([a-zA-Z0-9_]{0,6})db->prepare)(?:.*)\$(?!([a-zA-Z_\x7f-\xff][a-zA-Z0-9_\x7f-\xff]{0,6})db)(.*?;)
+
+\$(([a-zA-Z_\x7f-\xff][a-zA-Z0-9_\x7f-\xff]{0,6})*)db->(get_([a-zA-Z0-9_]+))(?:(?:["'`$(\s]|(\/\*(?:[\S\s][^\*\/]*)\*\/)|\/\*\*\/|((\/\/|#))(?:[\S\s][^"'`]*))+)\$([a-zA-Z_\x7f-\xff][a-zA-Z0-9_\x7f-\xff]{0,6})db->prepare(?:.*)\$_(?:GET|POST|COOKIE|REQUEST|ENV|SERVER\[(?:.*HTTP_|.*QUERY_STRING|.*REQUEST_URI)|FILES\[(?:(?!.*tmp_name|.*size).*)])(?!([a-zA-Z_\x7f-\xff][a-zA-Z0-9_\x7f-\xff]{0,6})db)(?:.*)(?:((["'\]`]{1}))((([\s:),;])+)(\.([\s]+)\$([a-zA-Z_\x7f-\xff][a-zA-Z0-9_\x7f-\xff]*))*))
+
+\$(([a-zA-Z_\x7f-\xff][a-zA-Z0-9_\x7f-\xff]{0,6})*)db->(get_([a-zA-Z0-9_]+))(?:(?:["'`$(\s]|(\/\*(?:[\S\s][^\*\/]*)\*\/)|\/\*\*\/|((\/\/|#))(?:[\S\s][^"'`]*))+)\$([a-zA-Z_\x7f-\xff][a-zA-Z0-9_\x7f-\xff]{0,6})db->prepare(?:.*)\$(?!([a-zA-Z_\x7f-\xff][a-zA-Z0-9_\x7f-\xff]{0,6})db)(?:.*)(?:((["'\]`]{1}))((([\s:),;])+)(\.([\s]+)\$([a-zA-Z_\x7f-\xff][a-zA-Z0-9_\x7f-\xff]*))*))
+
+
+ Weak hashing algorithms used
+ ((hash(?:(?:["'`$(\s]|(\/\*(?:[\S\s][^\*\/]*)\*\/)|\/\*\*\/|((\/\/|#))(?:[\S\s][^"'`]*))+))*)(md5|sha1)(?:(?:["'`$(\s]|(\/\*(?:[\S\s][^\*\/]*)\*\/)|\/\*\*\/|((\/\/|#))(?:[\S\s][^"'`]*))+)
+ (secret|password|pass|key)(?:.*)((hash(?:(?:["'`$(\s]|(\/\*(?:[\S\s][^\*\/]*)\*\/)|\/\*\*\/|((\/\/|#))(?:[\S\s][^"'`]*))+))*)(md5|sha(1|256|384|512))(?:(?:["'`$(\s]|(\/\*(?:[\S\s][^\*\/]*)\*\/)|\/\*\*\/|((\/\/|#))(?:[\S\s][^"'`]*))+)
+
+Unsafe cryptographic secure values generator
+ (uniqid|((array|mt)_|s|)rand|str-shuffle|lcg-value)(?:(?:["'`$(\s]|(\/\*(?:[\S\s][^\*\/]*)\*\/)|\/\*\*\/|((\/\/|#))(?:[\S\s][^"'`]*))+)
+
+ Backdoors and shells often use obfuscation to bypass AVs.
+ (\\x62\\x61\\x73\\x65\\x36\\64\\137\\x64\\145\\x63\\x6f\\x64\\x65|eval(?:(?:["'`$(\s]|(\/\*(?:[\S\s][^\*\/]*)\*\/)|\/\*\*\/|((\/\/|#))(?:[\S\s][^"'`]*))+)\$([a-zA-Z_\x7f-\xff][a-zA-Z0-9_\x7f-\xff]*)(?:(?:["'`$(\s]|(\/\*(?:[\S\s][^\*\/]*)\*\/)|\/\*\*\/|((\/\/|#))(?:[\S\s][^"'`]*))+)(?:[A-Za-z0-9+/]+))
+
+All commands that use network activity should be catched here.
+(file_get_contents|fopen|mail|curl_exec|ftp_connect|ftp_ssl_connect|fsockopen|pfsockopen|socket_bind|socket_connect|socket_listen|socket_create_listen|socket_accept|socket_getpeername|socket_send)(?:(?:["'`$(\s]|(\/\*(?:[\S\s][^\*\/]*)\*\/)|\/\*\*\/|((\/\/|#))(?:[\S\s][^"'`]*))+)
+
+Possible informations leak
+((phpinfo|highlight_file|show_source)(?:(?:["'`$(\s]|(\/\*(?:[\S\s][^\*\/]*)\*\/)|\/\*\*\/|((\/\/|#))(?:[\S\s][^"'`]*))+)|error_reporting(?:.*)E_(ALL|ERROR|WARNING|PARSE))(?:.*)\);
+
+SSRF 
+(file_get_contents|readfile|fsockopen|fopen|curl_init)\\s*\\(\\s*\\$_(REQUEST|POST|GET|COOKIE)
+(file_get_contents|readfile|fsockopen|fopen|curl_init)\\s*\\$_(REQUEST|POST|GET|COOKIE)
+curl_setopt\\s*\\(\\s*.*?,\\s*CURLOPT_URL\\s*,\\s*\\$_(REQUEST|POST|GET|COOKIE)
+curl_setopt.*?,\\s*CURLOPT_URL\\s*,\\s*\\$_(REQUEST|POST|GET|COOKIE)
+(file_get_contents|readfile|fsockopen|fopen|curl_init)\\s*\\(\\s*\\$(.*?)[\\s;,\\.\\)]
+(file_get_contents|readfile|fsockopen|fopen|curl_init)\\s*\\$(.*?)[\\s;,\\.\\)]
+(curl_setopt).*?,\\s*CURLOPT_URL\\s*,\\s*\\$(.*?)[\\s;,\\.\\)]
+(curl_setopt)\\s*\\(\\s*.*?,\\s*CURLOPT_URL\\s*,\\s*\\$(.*?)[\\s;,\\.\\)]
+
+SQL Injection
+(select).*?from.*?where.*?[\\{\\.=']\\s*\\(?\\$(.*?)[;\\\"'\\.\\s]
+
+Command
+\\b(exec|system|passthru|shell_exec)\\b\\s*\\(\\s*\\$_(COOKIE|GET|POST|REQUEST)
+\\b(exec|system|passthru|shell_exec)\\b\\s*\\$_(COOKIE|GET|POST|REQUEST)
+
+\\b(exec|system|passthru|shell_exec)\\b\\s*\\(\\s*\\$(.*?)[\\s;,\\.\\)]
+\\b(exec|system|passthru|shell_exec)\\b\\s*\\$(.*?)[\\s;,\\.\\)]
+
+XSS
+\\b(echo|print)\\b\\s*\\(\\s*\\$_(COOKIE|GET|POST|REQUEST)
+\\b(echo|print)\\b\\s*\\$_(COOKIE|GET|POST|REQUEST)
+
+Code Exec
+\\b(eval|assert)\\b\\s*\\(\\s*\\$_(COOKIE|GET|POST|REQUEST)
+\\b(eval|assert)\\b\\s*\\$_(COOKIE|GET|POST|REQUEST)
+\\b(eval|assert)\\b\\s*(stripslashes|base64_decode)\\(\\s*\\$_(COOKIE|GET|POST|REQUEST)
+\\b(eval|assert)\\b\\s*(stripslashes|base64_decode)\\$_(COOKIE|GET|POST|REQUEST)
+
+\\b(eval|assert)\\b\\s*\\(\\s*\\$(.*?)[\\s;,\\.\\)]
+\\b(eval|assert)\\b\\s*\\$(.*?)[\\s;,\\.\\)]
+`\\$_(POST|GET|COOKIE|REQUEST)\\[.*?\\]`
+
+@?preg_replace\\((\\\"|')\\/.*?\\/\\w{0,5}e\\w{0,5}(\\\"|')\\s*,\\s*\\$_(POST|GET|COOKIE|REQUEST)
+@?preg_replace\\((\\\"|')\\/.*?\\/\\w{0,5}e(\\\"|')\\s*,\\s*\\$_(POST|GET|COOKIE|REQUEST)
+
+file include 
+\\b(include|include_once|require|require_once)\\b\\s*\\(\\s*\\$(.*?)[\\s;,\\.\\)]
+\\b(include|include_once|require|require_once)\\b\\s*\\$(.*?)[\\s;,\\.\\)]
+
+
+XSS¹ýÂËº¯Êý
+'htmlentities','htmlspecialchars','strip_tags','urlencode','san_out','san_wdata','san_rdata'
