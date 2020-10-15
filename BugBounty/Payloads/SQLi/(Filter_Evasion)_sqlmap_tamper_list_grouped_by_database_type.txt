@@ -1,0 +1,35 @@
+# All scripts
+--tamper=chardoubleencode,versionedmorekeywords,versionedkeywords,uppercase,unmagicquotes,unionalltounion,symboliclogical, space2randomblank,space2plus,space2mysqldash,space2mysqlblank,space2mssqlhash,space2mssqlblank,space2morehash,space2morecomment,space2hash,space2dash,space2comment,sp_password,randomcomments,randomcase,plus2fnconcat,plus2concat,percentage,overlongutf8more,overlongutf8,multiplespaces,modsecurityzeroversioned,modsecurityversioned,lowercase,least,informationschemacomment,ifnull2ifisnull,ifnull2casewhenisnull,htmlencode,hex2char,halfversionedmorekeywords,greatest,escapequotes,equaltolike,concat2concatws,commentbeforeparentheses,commalessmid,commalesslimit,charunicodeescape,charunicodeencode,charencode,bluecoat,between,appendnullbyte,apostrophenullencode,apostrophemask
+
+
+# General scripts
+--tamper=chardoubleencode,unmagicquotes,unionalltounion,symboliclogical,space2plus,randomcomments,randomcase,overlongutf8more,overlongutf8,multiplespaces,htmlencode,escapequotes,charunicodeescape,apostrophenullencode,apostrophemask,between,charencode,charunicodeencode,equaltolike,greatest,ifnull2ifisnull,percentage,space2randomblank,space2comment
+
+
+# Microsoft access
+--tamper=appendnullbyte,between,bluecoat,charencode,charunicodeencode,concat2concatws,equaltolike,greatest,halfversionedmorekeywords,ifnull2ifisnull,modsecurityversioned,modsecurityzeroversioned,multiplespaces,percentage,randomcase,space2comment,space2hash,space2morehash,space2mysqldash,space2plus,space2randomblank,unionalltounion,unmagicquotes,versionedkeywords,versionedmorekeywords
+
+
+# Microsoft SQL Server
+--tamper=uppercase,space2randomblank,space2mysqldash,space2mssqlhash,space2mssqlblank,space2dash,space2comment,sp_password,plus2fnconcat,plus2concat,percentage,lowercase,equaltolike,commentbeforeparentheses,charunicodeencode,charencode,between,greatest,multiplespaces,randomcase,space2plus,unionalltounion,unmagicquotes
+
+
+# MySQL
+--tamper=versionedmorekeywords,versionedkeywords,uppercase,space2randomblank,space2mysqldash,space2mysqlblank,space2mssqlhash,space2morehash, space2morecomment, space2hash,space2comment,percentage,modsecurityzeroversioned,modsecurityversioned,lowercase,least,informationschemacomment,ifnull2ifisnull,ifnull2casewhenisnull,hex2char,halfversionedmorekeywords,greatest,equaltolike,concat2concatws,commentbeforeparentheses,commalessmid,commalesslimit,charunicodeencode,charencode,bluecoat,between,multiplespaces,randomcase,space2comment,space2plus,unionalltounion,unmagicquotes,
+
+
+# Oracle
+--tamper=uppercase,space2randomblank,space2comment,lowercase,least,greatest,commentbeforeparentheses,charencode,between,equaltolike,multiplespaces,randomcase,space2plus,unionalltounion,unmagicquotes
+
+
+# PostgreSQL
+--tamper=uppercase,substring2leftright,space2randomblank,space2comment,percentage,lowercase,least,greatest,commentbeforeparentheses,charunicodeencode,charencode,between,equaltolike,multiplespaces,randomcase,space2plus
+
+
+# SAP MaxDB
+--tamper=ifnull2ifisnull,ifnull2casewhenisnull,randomcase,space2comment,space2plus,unionalltounion,unmagicquotes
+
+
+# SQLite
+--tamper=space2dash,ifnull2ifisnull,ifnull2casewhenisnull,,multiplespaces,randomcase,space2comment,space2plus,unionalltounion,unmagicquotes
+
