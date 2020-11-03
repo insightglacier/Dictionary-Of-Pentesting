@@ -1,0 +1,13 @@
+Cisco: cisco:cisco
+Citrix: nsroot:nsroot
+Dell iDRAC: root:calvin
+Juniper: super:juniper123
+pfSense: admin:pfsense
+SAP: SAP*:06071992
+Tomcat: tomcat:tomcat
+UniFi: ubnt:ubnt
+Weblogic: weblogic:weblogic1
+Zabbix: Admin:zabbix
+PRTG: prtgadmin:prtgadmin
+Windows: Administrator:P@ssw0rd
+tomcat: tomcat:s3cret
