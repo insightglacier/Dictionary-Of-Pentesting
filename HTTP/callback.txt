@@ -1,0 +1,10 @@
+callback=mstkey
+cb=mstkey
+jsonp=mstkey
+jsonpcallback=mstkey
+jsonpcb=mstkey
+jsonp_cb=mstkey
+json=mstkey
+jsoncallback=mstkey
+jcb=mstkey
+call=mstkey
