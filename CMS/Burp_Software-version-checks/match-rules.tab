@@ -1,0 +1,113 @@
+\$gwt_version\s?=\s?"([\d.]+)"	1	Google Web Toolkit (GWT)	Low	Certain
+accounting\.js v([\d.]+)	1	accounting.js	Information	Certain
+akka-http/([\d.]+)	1	Akka HTTP	Low	Certain
+Alterian-CME/([\d.]+)	1	Alterian-CME	Low	Certain
+([-\d.]+)amzn1.x86_64	1	Amazon Linux	Low	Certain
+AOLserver/([\d.]+)	1	AOL web Server	Low	Certain
+Apache/([\d.]+(?: \([ \w]+\))?)	1	Apache	Low	Certain
+Apache-Coyote/([\d.]+)	1	Apache Coyote (Tomcat)	Low	Certain
+>Apache Subversion</a>\s+version\s+([\d.]+(?:\s*\(r\d+\))?)	1	Apache Subversion	Low	Certain
+Apache Tomcat/([\d.]+)	1	Apache Tomcat	Low	Certain
+ARR/([\d.]+)	1	IIS Application Request Routing	Low	Certain
+Artifactory/([\d.]+)	1	Artifactory	Low	Certain	2
+ASP\.NET Version:([\d.]+)	1	ASP.Net	Low	Firm
+awselb/([\d.]+)	1	AWS Elastic Load Balancer	Low	Certain
+((?i)Boa)/(\d+\.[\d.rc]+)	1	BOA Web Server	Low	Certain	2
+Cherokee/(\d+\.[\d.b]+)(\s+\([a-zA-Z]+\))?	1	Cherokee Web Server	Low	Certain 2
+CKEDITOR.*version:"([\d.]+)"	1	CKEditor	Information	Certain
+Communique/([\d.-]+)	1	Adobe Communique	Low	Certain
+ecstatic-([\d.-]+)	1	Ecstatic (deprecated)	Medium	Certain
+Ember\.VERSION\s*=\s*["']([\w.]+)["']	1	Ember	Information	Certain	2
+http://errors\.angularjs\.org/([\d.]+)/	1	AngularJS	Information	Certain
+gunicorn/([\d.]+)	1	Gunicorn	Low	Certain
+h2o/([\d.]+(-DEV)?)	1	H2O	Low	Certain
+Hiawatha v([\d.]+)	1	Hiawatha	Low	Certain
+Handlebars\.VERSION\s*=\s*["']([\w.]+)["']	1	Handlebars.js	Information	Certain	2
+IBM_HTTP_Server/([\d.]+)	1	IBM HTTP Server	Low	Certain
+iText ([\d.]+)	1	iText	Low	Certain
+IWeb/([\d.]+)	1	360vision CCTV Web Server	Low	Certain
+JasperReports Library version ([\d.]+)	1	JasperReports	Low	Certain
+Jetty\s?\(?([a-z\d.]+(-SNAPSHOT)?)\)?	1	Jetty	Low	Certain	3
+JBoss-([\d.]+(?:GA)?)	1	JBoss	Low	Certain	2
+JBoss-EAP/([\d.]+)	1	JBoss Enterprise Application Platform	Low	Certain		https://developers.redhat.com/products/eap/overview/
+JBoss_([\d_]+)	1	JBoss	Low	Certain
+JBPAPP_([\d_]+(?:GA)?)	1	JBoss	Low	Certain
+JBoss\s?Web[/-]{1}([\d.]+(?:GA)?)	1	JBoss Webserver	Low	Certain	4
+\bjdk(\d[x\d._]+)	1	Java JDK	Low	Certain
+Joomla! ([\d.]+)	1	Joomla!	Low	Certain
+\bJSF/([\d.]+)	1	Java Server Faces	Low	Certain
+JSP/([\d.]+)	1	Generic Java Servlet engine (possibly JBoss)	Low	Certain    
+jQuery JavaScript Library v([\d.]+)	1	jQuery JavaScript Library	Information	Certain
+jQuery UI ([\d.]+)	1	jQuery UI	Information	Certain
+jQuery UI Core ([\d.]+)	1	jQuery UI Core	Information	Certain
+jQuery UI Touch Punch ([\d.]+)	1	jQuery UI Touch Punch	Information	Certain
+jQuery hashchange event - v([\d.]+)	1	jQuery hashchange event	Information	Certain
+jQuery Tiny Pub/Sub - v([\d.]+)	1	jQuery Tiny Pub/Sub	Information	Certain
+jquery[/-]([\d-.]+)	1	jQuery	Information	Certain	2
+jQuery v([\d.]+)	1	jQuery	Information	Certain
+Liferay Portal Enterprise Edition ([\d.]+)	1	Liferay Portal	Low	Certain
+lighttpd/([\d.]+)	1	lighttpd	Low	Certain
+Linux (\d+\.[a-z0-9\.\-_]+)	1	Linux	Low	Certain
+LiteSpeed/([\d.]+)	1	OpenCms	Low	Certain
+Microsoft-HTTPAPI/([\d.]+)	1	Microsoft HTTPAPI	Low	Certain
+Microsoft-IIS/([\d.]+)	1	Microsoft IIS	Low	Certain
+Microsoft \.NET Framework Version:([\d.]+)	1	Microsoft .Net Framework	Low	Certain
+Microsoft \.NET Framework ([\d.]+)	1	Microsoft .Net Framework	Low	Certain
+MicrosoftSharePointTeamServices: ([\d.]+)	1	Microsoft SharePoint	Low	Certain
+mod_apreq\d-([\d./]+)	1	Apache HTTP Request Library	Low	Certain
+mod_fastcgi/([\d.]+)	1	mod_fastcgi Apache 2 module	Low	Certain
+mod_jk/([\d.]+)	1	mod_jk	Low	Certain
+mod_ssl/([\d.]+)	1	mod_ssl	Low	Certain
+mod_perl/([\d.]+)	1	mod_perl	Low	Certain
+mustache\.version\s*=\s*'([\d.]+)'	1	Mustache.js	Information	Certain
+name:"mustache.js",version:"([\d.]+)"	1	Mustache.js	Information	Certain
+nginx/([\d.]+)	1	nginx	Low	Certain
+nweb/([\d.]+)	1	IBM-NWeb	Low	Certain
+OpenCms/([\d.]+)	1	OpenCms	Low	Certain
+openresty/([\d.]+)	1	OpenResty	Low	Certain
+Omniture DC/([\d.]+)	1	Omniture DC (Adobe)	Low	Certain
+OpenSSL/([a-z\d.]+(-fips|-freebsd)?)	1	OpenSSL	Low	Certain	2
+OnlineOpinion\s+v([\d.]+)	1	OpinionLab OnlineOpinion	Information	Certain
+Oracle Corporation ([\d\._])+	1	Oracle Java	Low	Certain
+Oracle-iPlanet-Web-Server/([\d.]+.*)	1	Oracle iPlanet	Low	Certain
+Oracle-Application-Server-([\d.]+.*)	1	Oracle-Application-Server	Low	Certain
+Oracle OpenSSO ([\d.]+.*)	1	Oracle OpenSSO	Low	Certain
+Orion/([\d.]+)	1	Orion	Low	Certain
+NSC/([\d.]+) \(JVM\)	1	Nexpose	Low	Certain
+Perl/v([\d.]+)	1	Perl	Low	Certain
+PHP/([\d]+[\.]+(?:[-\w\d\.]+)?)	1	PHP	Low	Certain	2
+Phusion Passenger(?: \([a-zA-Z_/]+\))? ([\d.]+)	1	Phusion Passenger	Low	Certain
+Prototype\s*=\s*\{\s*Version:\s*["']([\d.]+)["']	1	Prototype	Information	Certain
+Python/([\d.]+)	1	Python	Low	Certain	2
+ReDoc Version:\s+([\d.\-rc]+)	1	ReDoc	Low	Certain	1	https://github.com/Redocly/redoc
+RestServices(>|":\s*")([\d.]+)	2	Mendix RestServices	Low	Certain	2
+>Roxen CMS<[\S\s]*?\|[\s\S]*?version ([\d.]+)	1	Roxen CMS	Low	Certain	2
+Ruby/([\d.]+(?:/\d{4}-\d{2}-\d{2})?)	1	Ruby	Low	Certain
+Servlet[ /]([\d.]+)	1	Generic Java Servlet engine (possibly JBoss)	Low	Certain
+Sitefinity(\.Resources(,|%2c)( |\+|%20)Version(=|%3d))?\s*([\d.]+)	5	Sitefinity CMS	Low	Certain	3
+Sizzle (?:CSS Selector Engine[- ]*)?v([\d.]+(?:-\w+)?)	1	Sizzle CSS Selector Engine	Information	Certain	3
+SOAP::Lite/Perl/([\d.]+)	1	SOAP::Lite	Low	Certain
+spray-can/([\d.]+)	1	Spray	Low	Certain
+squid/([\d.]+)	1	Squid Cache	Low	Certain
+Sun-Java-System-Web-Server/([\d.]+.*)	1	Oracle iPlanet	Low	Certain
+<!-- (20\d\d\.\d+\.\d+\.\d+) -->	1	Telerik	Low	Firm	2
+Tomcat-([\d.]+)	1	JBoss (Tomcat)	Low	Certain
+TornadoServer/([\d.]+)	1	Tornado Server	Low	Certain
+Underscore\.js ([\d.]+)	1	Underscore.js	Information	Certain
+X-Powered-By: Undertow/([\d.]+)	1	Undertow	Low	Certain		http://undertow.io/
+var APPLICATION_FULL_VERSION = '([\d.]+)';	1	Microsoft CRM	Information	Certain
+Varnish/([\d.]+)	1	Varnish Cache	Low	Certain
+([\d.]+) varnish	1	Varnish Cache	Low	Certain
+"version":\s*"([a-z0-9\.\+]+)"	1	Generic	Information	Firm	2
+Via: ([\d.]+) vegur	1	Vegur Proxy	Low	Certain		https://github.com/heroku/vegur
+WEBrick/([\d.]+)	1	WEBrick	Low	Certain
+WebSockify Python/([\d.]+)	1	Python (Websockify)	Low	Certain
+WebSphere Application Server/([\d.]+)	1	IBM WebSphere Application Server	Low	Certain
+Werkzeug/([\d.]+)	1	Werkzeug	Low	Certain		https://werkzeug.palletsprojects.com/
+WildFly/([\d.]+)	1	WildFly	Low	Certain		http://wildfly.org/
+X-AspNet-Version: ([\d.]+)	1	ASP.Net	Low	Firm
+X-AspNetMvc-Version: ([\d.]+)	1	ASP.Net MVC Framework	Low	Certain
+X-Cocoon-Version: ([\d.]+)	1	Apache Cocoon	Low	Certain
+X-OWA-Version: ([\d.]+)	1	Outlook Web Access	Low	Certain
+X-Tealeaf":"device\s+\(UIC\)\s+Lib/([\d.]+)	1	IBM TeaLeaf	Information	Certain
+X-TeaLeaf-UIEventCapture-Version: ([\d.]+)	1	IBM TeaLeaf	Low	Certain

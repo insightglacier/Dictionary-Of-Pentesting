@@ -1,0 +1,33 @@
+(String\(\w+\)\.split\(\/&\|;\/\)\,\s*function\()	1	<b>VULN</b> Purl (jQuery-URL-Parser) Prototype Pollution	High	Certain
+(\/\(\[\^\\\[\\\]\]\+\)\|\(\\\[\\\]\)\/g\s*)	1	<b>VULN</b> CanJS deparam Prototype Pollution	High	Certain
+(\.substr\(0,\s*\w+\s*-\s*1\)\.match\(\/\(\[\^\\\]\\?\[\]\+\|\(\\B\)\(\?\=\\\]\)\)\/g\))	1	<b>VULN</b> MooTools More Prototype Pollution	High	Certain
+(\$\.each\(\s*\w+\.replace\(\s*\/\\\+\/g\s*,\s*['"] ['"]\s*\)\.split\(\s*['"]&['"]\s*\))	1	<b>VULN</b> jQuery BBQ (deparam) Prototype Pollution	High	Certain
+(\s*\/\\\[\/\.test\(\s*\w+\[0\]\s*\)\s*&&\s*\/\\\]\$\/\.test\(\s*\w+\[\s*\w+\s*\]\s*\)\s*)	1	<b>VULN</b> deparam Prototype Pollution	High	Certain
+(['"]\[\]['"]\s*===\s*\w+\s*\?\s*\w+\.push\(\w+\)\s*:\s*\w+\[\w+\]\s*=\s*\w+)	1	<b>VULN</b> deparam Prototype Pollution	High	Certain
+((\w+)\s*=\s*decodeURIComponent[\w+;,\s\(\)\.\{=\[\]'"-\/\?}]+\b(\w+)\s*=\s*\3\[\2\]\s*=\s*\3\[\2\]\s*\|\|\s*\{\})	1	<b>VULN</b> backbone-query-parameters 2 Prototype Pollution	High	Certain
+(\w+\s*=\s*\/\\\[\(\[\^\\\]\]\*\)\]\/g)	1	<b>VULN</b> V4Fire Core Prototype Pollution	High	Certain
+(\w+\s*=\s*\w+\.split\(\/\\\&\(amp\\\;\)\?\/\))	1	<b>VULN</b> jQuery Sparkle Prototype Pollution	High	Certain
+(\/\^\(\[\^\[\]\+\??\)\(\\\[\.\*\\\]\)\?\$\/\.exec\(\s*\w+\s*\))	1	<b>VULN</b> jQuery query-object Prototype Pollution	High	Certain
+(\.match\(\/\(\^\[\^\[\]\+\)\(\\\[\.\*\\\]\$\)\?\/\))	1	<b>VULN</b> queryToObject Prototype Pollution	High	Certain
+(\?\s*decodeURIComponent\(\s*\w+\.substr\(\s*\w+\s*\+\s*1\)\)\s*:\s*['"]['"])	1	<b>VULN</b> getJsonFromUrl Prototype Pollution	High	Certain
+(\w+\.replace\(\s*['"]\[\]['"]\s*,\s*['"]\[['"]\.concat\()	1	<b>VULN</b> Unknown lib_0 Prototype Pollution	High	Certain
+(\w+\s*=\s*\/\(\\w\+\)\\\[\(\\d\+\)\\\]\/)	1	<b>VULN</b> component/querystring Prototype Pollution	High	Certain
+(\(\w+\s*=\s*\w+\.exec\(\w+\)\)\s*\?\s*\(\s*\w+\[\w+\[1\]\]\s*=\s*\w+\[\w+\[1\]\]\s*\|\|\s*\[\])	1	<b>VULN</b> component/querystring #2 Prototype Pollution	High	Certain
+(\/\(\.\*\)\\\[\(\[\^\\\]\]\*\)\\\]\$\/\.exec\(\w+\))	1	<b>VULN</b> YUI 3 querystring-parse Prototype Pollution	High	Certain
+(\w+\s*=\s*\w+\.split\(\/\\\.\(\.\+\)\?\/\)\[1\])	1	<b>VULN</b> jquery.parseParams.js Prototype Pollution	High	Certain
+(\w+\s*=\s*\/\\\[\?\(\[\^\\\]\[\]\+\)\\\]\?\/g)	1	<b>VULN</b> flow.js Prototype Pollution	High	Certain
+(\w+\s*=\s*\w+\(\w+\[1\]\.slice\(\w+\s*\+\s*1,\s*\w+\[1\]\.indexOf\(['"]\]['"],\s*\w+\)\)\))	1	<b>VULN</b> wishpond decodeQueryString Prototype Pollution	High	Certain
+(\w+\s*=\s*\w+\.slice\(0,\s*\w+\.indexOf\(['"]\\x?0?0['"]\)\))	1	<b>VULN</b> PHP.js parse_str Prototype Pollution	High	Certain
+("\[\]"\s*===\s*\w+\.substring\(\w+\.length\s*-\s*2\)[\s\?\)\(]*(?:\w+\[)?\w+\s*=\s*\w+\.substring\(0,\s*\w+\.length\s*-\s*2\))	1	<b>VULN</b> Unknown lib_1 Prototype Pollution	High	Certain
+(\w+\.match\(\/\(\^\[\^\\\[\]\+\)\(\\\[\.\*\\\]\$\)\?\/\))	1	<b>VULN</b> Unknown lib_2 Prototype Pollution	High	Certain
+(\(\[\^\\\\\[\^\\\\\]\]\+\)\(\(\\\\\[\(\^\\\\\[\^\\\\\]\)\\\\\]\)\*\))	1	<b>VULN</b> Unknown lib_3 Prototype Pollution	High	Certain
+(['"]-1['"]\s*==\s*\w+\[1\]\.indexOf\(['"]\[['"]\))	1	<b>VULN</b> inbound setUrlParams Prototype Pollution	High	Certain
+(\w+\s*=\s*\w+\.split\(['"]\.['"]\)\s*[;,]\s*\w+\s*=\s*\w+\.pop\(\)\s*[;,]\s*\w+\s*=\s*\w+\.reduce\()	1	<b>VULN</b> Unknown lib_4 Prototype Pollution	High	Certain
+(\w+\s*=\s*\w+\.split\(\/\\\]\\\[\?\|\\\[\/\)[\w\s=\(\;\,<\-]*\w+\.indexOf\(['"]\[['"]\))	1	<b>VULN</b> Old mithril.js Prototype Pollution	High	Certain
+(\w+\s*=\s*\w+\.split\(['"]\.['"]\)[\s;,\w]+=\s*\w+\.pop\(\)[!\s;,\w]+\(\w+\.length\))	1	<b>VULN</b> builder.io QueryString.deepen Prototype Pollution	High	Certain
+(\w+\s*=\s*\w+\.indexOf\(['"]\]['"],\s*\w+\)[\s\w;,]+=\s*decodeURIComponent\(\w+\.substring\(\w+\s*\+\s*1)	1	<b>VULN</b> Unknown lib_5 Prototype Pollution	High	Certain
+(\w+\.replace\(['"]\]['"],\s*['"]['"]\)[\w\s;,\(]+\.search\(\/\[\\\.\\\[\]\/\))	1	<b>VULN</b> arg.js Prototype Pollution	High	Certain
+(\/\^\(\[\$a-zA-z_\]\[\$a-zA-z0-9\]\*\)\\\[\(\[\$a-zA-z0-9\]\*\)\\\]\$\/)	1	<b>VULN</b> R.js Prototype Pollution	High	Certain
+(\/\^\(\\w\+\)\\\[\(\\w\+\)\?\\\]\(\\\[\\\]\)\?\/)	1	<b>VULN</b> davis.js Prototype Pollution	High	Certain
+(\.match\(\/\^\[\\\[\\\]\]\*\(\[\^\\\[\\\]\]\+\)\\\]\*\(\.\*\)\/\))	1	<b>VULN</b> SoundCloud SDK decodeParams Prototype Pollution	High	Certain
+((\w+)\s*=\s*\w+\.split\(['"]\.['"]\)[\w+;,\s\(\)\.\{=\[\]'"<]+\b(\w+)\s*=\s*\2\[\w+\][\w+;,\s\(\)\.\{=\[\]'"<\-!\|&]+(\w+)\[\3\]\s*=\s*\{\}[\w+;,\s\(\)\.\{=\[\]'"<\-!\|&]+\b\4\s*=\s*\4\[\3\])	1	<b>VULN</b> Unknown lib_7 Prototype Pollution	High	Certain
